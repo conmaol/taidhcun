@@ -12,11 +12,19 @@ Exceptions:
   - dh’
 - The following are word tokens:
   - a’ – the definite article or progressive particle
-  - do’n – ‘to the’
+  
   - truncated words like bhail’
   - a-muigh etc.
   - ann am, ann an – reduplicated prepositions
   - ’Se, b’ann, etc.
 
+But not:
+- do’n – ‘to the’ – this is two tokens
+
+
 Rules for displaying text:
 - Punctuation markers join to the preceding token. 
+
+Other things than tokenisation
+- empty words
+  - <null-prep> aon latha

@@ -29,38 +29,40 @@
     <w id="_198_d2e86">uill</w>
     <pc>,</pc>
     <w id="_198_d2e93">cha</w>
-    <w id="_198_d2e96" xref="is">b’ann</w>
+    <w id="_198_d2e96" xref="is" comp="_198_d2e93">b’</w>
+    <w id="_198_d2e97" xref="an-prep" join="left">ann</w>
     <w id="_198_d2e99">buileach</w>
-    <w id="_198_d2e102" xref="do-prep">do’n</w>
-    <w id="_198_d2e105" xref="baile">bhaile</w>
+    <w id="_198_d2e102" xref="do-prep">do</w>
+    <w id="_198_d2e103" xref="the" spr="_198_d2e105" join="left">’n</w>
+    <w id="_198_d2e105" xref="baile" comp="_198_d2e102">bhaile</w>
     <w id="_198_d2e109">ach</w>
     <w id="_198_d2e112">pìos</w>
-    <w id="_198_d2e115">beag</w>
-    <w id="_198_d2e118">air</w>
-    <w id="_198_d2e121" xref="a-poss">a</w>
-    <w id="_198_d2e124" xref="taobh">thaobh</w>
-    <w id="_198_d2e128">a-muigh</w>
-    <w id="_198_d2e131">aig</w>
-    <w id="_198_d2e134">ceann</w>
-    <w id="_198_d2e137" xref="the">an</w>
-    <w id="_198_d2e140" xref="rathad">rathaid</w>
+    <w id="_198_d2e115" mod="_198_d2e112">beag</w>
+    <w id="_198_d2e118" mod="_198_d2e112">air</w>
+    <w id="_198_d2e121" xref="a-poss" spr="_198_d2e124">a</w>
+    <w id="_198_d2e124" xref="taobh" comp="_198_d2e118">thaobh</w>
+    <w id="_198_d2e128" mod="_198_d2e124">a-muigh</w>
+    <w id="_198_d2e131" mod="_198_d2e112">aig</w>
+    <w id="_198_d2e134" comp="_198_d2e131">ceann</w>
+    <w id="_198_d2e137" xref="the" spr="_198_d2e140">an</w>
+    <w id="_198_d2e140" xref="rathad" spr="_198_d2e134">rathaid</w>
     <pc>,</pc>
     <w id="_198_d2e147" xref="an-prep">ann am</w>
-    <w id="_198_d2e150">fear</w>
-    <w id="_198_d2e153">de</w>
-    <w id="_198_d2e156" xref="the">na</w>
-    <w id="_198_d2e159" xref="bothan">bothain</w>
-    <w id="_198_d2e162" xref="rx">a</w>
-    <w id="_198_d2e166" xref="fàg">dh’fhàg</w>
-    <w id="_198_d2e171" xref="the">an</w>
-    <w id="_198_d2e172">RAF</w>
-    <w id="_198_d2e177">air</w>
-    <w id="_198_d2e180" xref="an-poss">an</w>
-    <w id="_198_d2e183" xref="cùl">cùlaibh</w>
-    <w id="_198_d2e188" xref="an-prep">an</w>
-    <w id="_198_d2e191" xref="dèidh">déidh</w>
-    <w id="_198_d2e194" xref="the">a’</w>
-    <w id="_198_d2e197" xref="cogadh">chogaidh</w>
+    <w id="_198_d2e150" comp="_198_d2e147">fear</w>
+    <w id="_198_d2e153" mod="_198_d2e150">de</w>
+    <w id="_198_d2e156" xref="the" spr="_198_d2e159">na</w>
+    <w id="_198_d2e159" xref="bothan" comp="_198_d2e153">bothain</w> <!-- plural -->
+    <w id="_198_d2e162" xref="rx" mod="_198_d2e159">a</w>
+    <w id="_198_d2e166" xref="fàg" comp="_198_d2e162">dh’fhàg</w>
+    <w id="_198_d2e171" xref="the" spr="_198_d2e172">an</w>
+    <w id="_198_d2e172" sbj="_198_d2e166">RAF</w>
+    <w id="_198_d2e177" comp="_198_d2e166">air</w>
+    <w id="_198_d2e180" xref="an-poss" spr="_198_d2e183">an</w>
+    <w id="_198_d2e183" xref="cùl" comp="_198_d2e177">cùlaibh</w>
+    <w id="_198_d2e188" xref="an-prep" mod="_198_d2e166">an</w>
+    <w id="_198_d2e191" xref="dèidh" comp="_198_d2e188">déidh</w>
+    <w id="_198_d2e194" xref="the" spr="_198_d2e197">a’</w>
+    <w id="_198_d2e197" xref="cogadh" spr="_198_d2e191">chogaidh</w>
     <pc>.</pc>
     <sb/>
     <w id="_198_d2e207" xref="is">’Se</w>
