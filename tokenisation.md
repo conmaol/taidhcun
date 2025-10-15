@@ -28,3 +28,7 @@ Rules for displaying text:
 Other things than tokenisation
 - empty words
   - <null-prep> aon latha
+- grammatical relations
+  - deep relations
+
+

@@ -1,0 +1,41 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+default namespace = "urn:taidh:cun/"
+
+start = Text
+
+Text = element text {
+  attribute id { xsd:ID } ,
+  #attribute status { "tagged"|"raw" } ,
+  Block+
+}
+
+#Block = ( Paragraph | Heading | Verse | List | Utterance | Text | Page | Note )
+#Block = ( Verse | Paragraph | Heading | PageBreak | Rule | Turn)
+Block = ( Paragraph | Heading )
+Heading = element h { element gd { text }, element en { text }, Token+ }
+Paragraph = element p { Sentence+ }
+
+#Verse = element lg { Token+ }
+#PageBreak = element pb {attribute n { text }, attribute img { text }? }
+#Paragraph = element p { (Token | Note)+ }
+#Rule = element hr { empty }
+#List = element list { (element label { Token* }, element item { Token+ })+ }
+#Turn = element t { attribute ref { xsd:anyURI }?, Token+ }
+
+Sentence = element s { element gd { text }, element en { text }, Token+ }
+
+#Note = element note { text }
+
+Token = ( 
+            element w { attribute id { xsd:ID }, attribute ref {text}?, attribute rels { xsd:NMTOKENS }?, attribute antec { xsd:IDREF }?, attribute join { "left" }?, text } 
+          | element pc {attribute join {"no"|"left"|"right"|"both"}?, text} 
+          #| element o { text } 
+          #| element lb {attribute n { text }? }
+          #| PageBreak
+          #| element sb { empty }
+          #| element pause { text }
+          #| element footnote { attribute n { text }, Block+ }
+          #| element x { attribute type { "name"|"time-adverbial" }, Token+ }
+        )
+
+
