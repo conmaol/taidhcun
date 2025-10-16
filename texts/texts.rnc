@@ -1,33 +1,43 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 default namespace = "urn:taidh:cun/"
 
-start = Text
+# This file contains the XML schema for annotated text documents in the Taidhcùn project.
 
+start = Text
 Text = element text {
   attribute id { xsd:ID } ,
-  #attribute status { "tagged"|"raw" } ,
   Block+
 }
 
-#Block = ( Paragraph | Heading | Verse | List | Utterance | Text | Page | Note )
-#Block = ( Verse | Paragraph | Heading | PageBreak | Rule | Turn)
-Block = ( Paragraph | Heading )
+# The root element is 'text'. 
+# It has one attribute, a corpus-unique 'id', which has the form '_198' where '198' is the Faclir na Gàidhlig sequential text number. 
+# The content of the text element is a sequence of one or more text blocks.
+
+Block = ( Heading | Paragraph | PageBreak )
 Heading = element h { element gd { text }, element en { text }, Token+ }
 Paragraph = element p { Sentence+ }
-
-#Verse = element lg { Token+ }
-#PageBreak = element pb {attribute n { text }, attribute img { text }? }
-#Paragraph = element p { (Token | Note)+ }
-#Rule = element hr { empty }
-#List = element list { (element label { Token* }, element item { Token+ })+ }
-#Turn = element t { attribute ref { xsd:anyURI }?, Token+ }
-
 Sentence = element s { element gd { text }, element en { text }, Token+ }
+PageBreak = element pb { attribute n { text } }
 
-#Note = element note { text }
+# One kind of text block is a **heading**. 
+# This consists of a single 'h' element containing the following sub-elements:
+# - a 'gd' element containing the original Gaelic plain text of the heading, with original formatting preserved
+# - an 'en' element containing an English plain text translation of the Gaelic
+# - a sequence of one or more 'tokens' (see below), typically words
+
+# A second kind of text block is a **paragraph**. 
+# This consists of a single 'p' element containing one or more sentences.
+# A **sentence** consists of a single 's' element containing exactly the same sub-elements as an 'h' element.
+
+# A third kind of block is a **pagebreak**.
 
 Token = ( 
-            element w { attribute id { xsd:ID }, attribute ref {text}?, attribute rels { xsd:NMTOKENS }?, attribute antec { xsd:IDREF }?, attribute join { "left" }?, text } 
+            element w { attribute id { xsd:ID }, 
+                        attribute ref {text}?, 
+                        attribute rels { xsd:NMTOKENS }?, 
+                        attribute antec { xsd:IDREF }?, 
+                        attribute join { "left" }?, 
+                        text } 
           | element pc {attribute join {"no"|"left"|"right"|"both"}?, text} 
           #| element o { text } 
           #| element lb {attribute n { text }? }
@@ -35,7 +45,37 @@ Token = (
           #| element sb { empty }
           #| element pause { text }
           #| element footnote { attribute n { text }, Block+ }
-          #| element x { attribute type { "name"|"time-adverbial" }, Token+ }
         )
+
+# One kind of token is a **word**. 
+# This consists of a single 'w' element, containing a plain text representation of the Gaelic text content for that token.
+# Words can also be empty elements, where the word is understood from context, but elided in the text itself.
+# The text content of a 'w' element is the exact original text, not standardised or normalised or reformatted in any way.
+# A 'w' element has one obligatory attribute - a corpus-unique 'id', for example '_198_d2e61' where '_198' is the text 'id' and 'd2e61' is a random string.
+# A 'w' element can have up to four optional attributes too: 'ref', 'rels', 'antec', 'join'. 
+# **ref**
+# This optional attribute marks an external cross-reference (ie. idref) to the 'id' of the corresponding dictionary entry.
+# If there is no explicit 'ref' attribute, it is assumed to be identical to the text content of the word.
+# If a word is a plural noun, this is marked as follows: <w ref="sgoil:plural">sgoiltean</w>.
+# If a word is a past tense verb, this is marked as: <w ref="thig:past">thàinig</w>
+# **rels**
+#
+# **antec**
+#
+# **join**
+# This optional attribute always has value 'left'. 
+# It marks an orthographic tokenisation exception where the word is adjoined to the preceding token, with no intervening space.
+
+
+
+
+
+# A second kind of token is a **punctuation marker**.
+
+
+
+
+
+
 
 
