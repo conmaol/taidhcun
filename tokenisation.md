@@ -19,6 +19,8 @@ In other words, some tokens contain spaces.
 
 - an seo, an sin, an siud
 
+<w id="_198_d2e1499" ref="an_siud">an siud</w>
+
 ## Exceptions to rule 2
 
 Sometimes punctuation characters are not tokens.
@@ -34,7 +36,9 @@ Hyphenated initial mutations are always part of the following word:
 
 In adverbs starting with a- or an-, the prefix is always part of the following word:
   - a-muigh = <w>a-muigh</w>
+  - a-mach
 
+<w id="_198_d2e1342" ref="co-dhiù">Co-dhiùbh</w>
 
 ### Apostrophes
 
@@ -44,6 +48,9 @@ In adverbs starting with a- or an-, the prefix is always part of the following w
 
 - ’Se = ’S + e = <w ref="is">’S</w><w ref="e" rels="sbj:-1" join="left">e</w>
 - ’nam (aonar) = ’na + m (+ aonar) = <w ref="an-prep">’na</w><w ref="mo" join="left">m</w><w>aonar</w>
+
+<w id="_198_d2e883" ref="is">’S</w>
+      <w id="_198_d2e883" ref="an-prep" join="left">ann</w>
 
 #### Final apostrophes
 
@@ -84,6 +91,12 @@ gur e
 <w id="_198_d2e320" ref="an-prep">’na</w>
       <w id="_198_d2e321" ref="mo" join="left">m</w>
       <w id="_198_d2e323">aonar</w>
+
+<w id="_198_d2e883" ref="is">’S</w>
+      <w id="_198_d2e883" ref="an-prep" join="left">ann</w>
+
+<w id="_198_d2e1290">air</w>
+      <w id="_198_d2e1291" join="left">son</w>
 
 ---
 
