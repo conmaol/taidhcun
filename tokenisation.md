@@ -42,7 +42,11 @@ In adverbs starting with a- or an-, the prefix is always part of the following w
   - a-muigh = <w>a-muigh</w>
   - a-mach
 
+  <w id="_198_d2e2953">a-nochd</w>
+
 <w id="_198_d2e1342" ref="co-dhiù">Co-dhiùbh</w>
+
+<w id="_198_d2e2656" ref="aig" join="left">aca-san</w>
 
 ### Apostrophes
 
