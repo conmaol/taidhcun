@@ -41,7 +41,7 @@ Token = (
           | element pc {attribute join {"no"|"left"|"right"|"both"}?, text} 
           #| element o { text } 
           #| element lb {attribute n { text }? }
-          #| PageBreak
+          | PageBreak
           #| element sb { empty }
           #| element pause { text }
           #| element footnote { attribute n { text }, Block+ }

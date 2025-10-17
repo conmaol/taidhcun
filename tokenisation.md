@@ -20,6 +20,10 @@ In other words, some tokens contain spaces.
 - an seo, an sin, an siud
 
 <w id="_198_d2e1499" ref="an_siud">an siud</w>
+<w id="_198_d2e1841" ref="an_seo">an seo</w>
+<w id="_198_d2e2028" ref="a-rithist">a rithist</w>
+
+<w id="_198_d2e2099" ref="mura" join="left">mur a</w>
 
 ## Exceptions to rule 2
 
