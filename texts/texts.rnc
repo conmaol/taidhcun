@@ -33,12 +33,13 @@ PageBreak = element pb { attribute n { text } }
 
 Token = ( 
             element w { attribute id { xsd:ID }, 
-                        attribute ref {text}?, 
+                        attribute ref { text }?, 
+                        attribute tags { xsd:NMTOKENS }?,
                         attribute rels { xsd:NMTOKENS }?, 
                         attribute antec { xsd:IDREF }?, 
                         attribute join { "left" }?, 
                         text } 
-          | element pc {attribute join {"no"|"left"|"right"|"both"}?, text} 
+          | element pc {attribute join {"no"}?, text} 
           #| element o { text } 
           #| element lb {attribute n { text }? }
           | PageBreak
