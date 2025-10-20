@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import pprint
 import json
 
-text = ET.parse('texts/198/198.xml').getroot()
+text = ET.parse('../texts/xml/198.xml').getroot()
 
 faclair = {}
 
@@ -12,23 +12,15 @@ def addWord(w,d):
         hw = w.attrib['ref']
     else:
         hw = w.text
-    #if hw not in d:
-    #    d[hw] = [w.attrib['id']]
-    #else:
-    #    d[hw].append(w.attrib['id'])
     if hw not in d:
         d[hw] = {'default': []}
-    if 'sense' in w.attrib and w.attrib['sense'] != '':
-        if w.attrib['sense'] not in d[hw]:
-            d[hw][w.attrib['sense']] = [w.attrib['id']]
+    if 'tags' in w.attrib and w.attrib['tags'] != '':
+        if w.attrib['tags'] not in d[hw]:
+            d[hw][w.attrib['tags']] = [w.attrib['id']]
         else:
-            d[hw][w.attrib['sense']].append(w.attrib['id'])
+            d[hw][w.attrib['tags']].append(w.attrib['id'])
     else:
         d[hw]['default'].append(w.attrib['id'])
-
-
-
-
 
 
 for block in text:
@@ -44,6 +36,7 @@ for block in text:
                         addWord(token,faclair)
             
 #pprint.pprint(faclair)
-print(json.dumps(faclair, indent=2, ensure_ascii=False))
+#print(json.dumps(faclair, indent=2, ensure_ascii=False))
+with open('faclair.json','w') as file:
+    json.dump(faclair, file, indent=2, ensure_ascii=False)
 
-# senses?
