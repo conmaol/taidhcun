@@ -4900,119 +4900,140 @@
       </s>
     </p>
     <pb n="11" />
-    <p> Am fac e e.. <w id="_198_d2e58612" ref="an">Am</w>
-      <w id="_198_d2e58615" ref="faic">fac</w>
-      <w
-        id="_198_d2e58618" ref="e">e</w>
-      <w id="_198_d2e58621" ref="e">e</w>
-      <pc join="left">.</pc>
-      <sb />
+    <p>
+      <s>
+        <gd>Am fac e e..</gd>
+        <en>Had he seen him.</en>
+        <w id="_198_d2e58612" ref="an-part">Am</w>
+        <w id="_198_d2e58615" ref="faic" tags="past">fac</w>
+        <w id="_198_d2e58618">e</w>
+        <w id="_198_d2e58621">e</w>
+        <pc>..</pc>
+      </s>
     </p>
-    <p> “Chan fhaca ach aon uair ’s e ’na shuidhe air bialaibh an tighe.” <pc join="right">“</pc>
-      <w
-        id="_198_d2e58636" ref="cha">Chan</w>
-      <w id="_198_d2e58639" ref="faic">fhaca</w>
-      <w
-        id="_198_d2e58642" ref="ach">ach</w>
-      <w id="_198_d2e58645" ref="aon">aon</w>
-      <w
-        id="_198_d2e58649" ref="uair">uair</w>
-      <w id="_198_d2e58652" ref="agus">’s</w>
-      <w
-        id="_198_d2e58655" ref="e">e</w>
-      <w id="_198_d2e58658" ref="an">’na</w>
-      <w id="_198_d2e58661"
-        ref="suidh">shuidhe</w>
-      <w id="_198_d2e58664" ref="air">air</w>
-      <w id="_198_d2e58668"
-        ref="beul">bialaibh</w>
-      <w id="_198_d2e58671" ref="the">an</w>
-      <w id="_198_d2e58674"
-        ref="taigh">tighe</w>
-      <pc join="both">.</pc>
-      <pc join="left">”</pc>
-      <sb />
+    <p>
+      <s>
+        <gd>“Chan fhaca ach aon uair ’s e ’na shuidhe air bialaibh an tighe.”</gd>
+        <en>“No apart from one time as he was sat in front of the house.”</en>
+        <pc>“</pc>
+        <w id="_198_d2e58636" ref="cha" join="left">Chan</w>
+        <w id="_198_d2e58639" ref="faic" tags="past">fhaca</w>
+        <w id="_198_d2e58642">ach</w>
+        <w id="_198_d2e58645">aon</w>
+        <w id="_198_d2e58649">uair</w>
+        <w id="_198_d2e58652" ref="agus">’s</w>
+        <w id="_198_d2e58655">e</w>
+        <w id="_198_d2e58658" ref="an-prep">’n</w>
+        <w id="_198_d2e58659" ref="a-poss" join="left">a</w>
+        <w id="_198_d2e58661" ref="suidhe">shuidhe</w>
+        <w id="_198_d2e58664">air</w>
+        <w id="_198_d2e58668" ref="beul" tags="plural">bialaibh</w>
+        <w id="_198_d2e58671" ref="the">an</w>
+        <w id="_198_d2e58674" ref="taigh">tighe</w>
+        <pc>.</pc>
+        <pc>”</pc>
+      </s>
     </p>
-    <p> Na bhruidhinn e ris. <w id="_198_d2e58688" ref="an">Na</w>
-      <w id="_198_d2e58691"
-        ref="bruidhinn">bhruidhinn</w>
-      <w id="_198_d2e58694" ref="e">e</w>
-      <w id="_198_d2e58697"
-        ref="ri">ris</w>
-      <pc join="left">.</pc>
-      <sb />
+    <p>
+      <s>
+        <gd>Na bhruidhinn e ris.</gd>
+        <en>Did he speak to him.</en>
+        <w id="_198_d2e58688" ref="an-part">N</w>
+        <w id="_198_d2e58689" ref="do-part" join="left">a</w>
+        <w id="_198_d2e58691" ref="bruidhinn" tags="past">bhruidhinn</w>
+        <w id="_198_d2e58694">e</w>
+        <w id="_198_d2e58697" ref="ri">ris</w>
+        <pc>.</pc>
+      </s>
     </p>
-    <p> “Cha do bhruidhinn. Cha do dh’fhosgail e bhial. Bha e càradh còta.” <pc join="right">“</pc>
-      <w
-        id="_198_d2e58713" ref="cha">Cha</w>
-      <w id="_198_d2e58716" ref="do">do</w>
-      <w
-        id="_198_d2e58719" ref="bruidhinn">bhruidhinn</w>
-      <pc join="left">.</pc>
-      <sb />
-      <w
-        id="_198_d2e58728" ref="cha">Cha</w>
-      <w id="_198_d2e58731" ref="do">do</w>
-      <w
-        id="_198_d2e58734" ref="fosgail">dh’fhosgail</w>
-      <w id="_198_d2e58737" ref="e">e</w>
-      <w
-        id="_198_d2e58740" ref="beul">bhial</w>
-      <pc join="left">.</pc>
-      <sb />
-      <w id="_198_d2e58749"
-        ref="bi">Bha</w>
-      <w id="_198_d2e58752" ref="e">e</w>
-      <w id="_198_d2e58755" ref="càraich">
-      càradh</w>
-      <w id="_198_d2e58758" ref="còta">còta</w>
-      <pc join="both">.</pc>
-      <pc join="left">”</pc>
-      <sb />
+    <p>
+      <s>
+        <gd>“Cha do bhruidhinn.</gd>
+        <en>“He didn’t speak.</en>
+        <pc>“</pc>
+        <w id="_198_d2e58713" ref="cha" join="left">Cha</w>
+        <w id="_198_d2e58716" ref="do-part">do</w>
+        <w id="_198_d2e58719" ref="bruidhinn" tags="past">bhruidhinn</w>
+        <pc>.</pc>
+      </s>
+      <s>
+        <gd>Cha do dh’fhosgail e bhial.</gd>
+        <en>He didn’t open his mouth.</en>
+        <w id="_198_d2e58728" ref="cha">Cha</w>
+        <w id="_198_d2e58731" ref="do-part">do</w>
+        <w id="_198_d2e58734" ref="fosgail" tags="past">dh’fhosgail</w>
+        <w id="_198_d2e58737">e</w>
+        <w id="_198_d2e58738" ref="a-poss" />
+        <w id="_198_d2e58740" ref="beul">bhial</w>
+        <pc>.</pc>
+      </s>
+      <s>
+        <gd>Bha e càradh còta.”</gd>
+        <en>He was repairing a coat.”</en>
+        <w id="_198_d2e58749" ref="bi" tags="past">Bha</w>
+        <w id="_198_d2e58752">e</w>
+        <w id="_198_d2e58755">càradh</w>
+        <w id="_198_d2e58758">còta</w>
+        <pc>.</pc>
+        <pc>”</pc>
+      </s>
     </p>
-
+    <p>
+      <s>
+        <gd>“O,” arsa mise, “a’ càradh còta.”</gd>
+        <en>“Oh,” I said, “repairing a coat.”</en>
+        <pc>“</pc>
+        <w id="_198_d2e58783" join="left">O</w>
+        <pc>,</pc>
+        <pc>”</pc>
+        <w id="_198_d2e58784">arsa</w>
+        <w id="_198_d2e58788" ref="mi">mise</w>
+        <pc>,</pc>
+        <pc join="no">“</pc>
+        <w id="_198_d2e58797" ref="ag" join="left">a’</w>
+        <w id="_198_d2e58800">càradh</w>
+        <w id="_198_d2e58803">còta</w>
+        <pc>.</pc>
+        <pc>”</pc>
+      </s>
+    </p>
+    <p>
+      <s>
+        <gd>“Seadh,” ars Iain.</gd>
+        <en>“Yes,” said John.</en>
+        <pc>“</pc>
+        <w id="_198_d2e58821" ref="is" join="left">S</w>
+        <w id="_198_d2e58821" join="left">eadh</w>
+        <pc>,</pc>
+        <pc>”</pc>
+        <w id="_198_d2e58830" ref="arsa">ars</w>
+        <w id="_198_d2e58834">Iain</w>
+        <pc>.</pc>
+      </s>
+      <s>
+        <gd>“Le snàthad fhada.</gd>
+        <en>“With a long thread.</en>
+        <pc>“</pc>
+        <w id="_198_d2e58845" ref="le" join="left">Le</w>
+        <w id="_198_d2e58848">snàthad</w>
+        <w id="_198_d2e58852" ref="fada">fhada</w>
+        <pc>.</pc>
+      </s>
+      <s>
+        <gd>’S e coimhead cho dòigheil.”</gd>
+        <en>And him looking so content.”</en>
+        <w id="_198_d2e58860" ref="agus">’S</w>
+        <w id="_198_d2e58863">e</w>
+        <w id="_198_d2e58864" ref="ag"/>
+        <w id="_198_d2e58866">coimhead</w>
+        <w id="_198_d2e58870">cho</w>
+        <w id="_198_d2e58873">dòigheil</w>
+        <pc>.</pc>
+        <pc>”</pc>
+      </s>
+    </p>
 
     <!--
-    <p>
-      <pc join="right">“</pc>
-      <o>O</o>
-      <pc join="both">,</pc>
-      <pc join="left">”</pc>
-      <w id="_198_d2e58784" ref="arsa">arsa</w>
-      <w id="_198_d2e58788" ref="mi">mise</w>
-      <pc join="left">,</pc>
-      <pc join="right">“</pc>
-      <w id="_198_d2e58797" ref="ag">a’</w>
-      <w id="_198_d2e58800" ref="càraich">càradh</w>
-      <w id="_198_d2e58803" ref="còta">còta</w>
-      <pc join="both">.</pc>
-      <pc join="left">”</pc>
-      <sb />
-    </p>
-    <p>
-      <pc join="right">“</pc>
-      <w id="_198_d2e58821" ref="is">Seadh</w>
-      <pc join="both">,</pc>
-      <pc join="left">”</pc>
-      <w id="_198_d2e58830" ref="arsa">ars</w>
-      <w id="_198_d2e58834" ref="Iain">Iain</w>
-      <pc join="left">.</pc>
-      <sb />
-      <pc join="right">“</pc>
-      <w id="_198_d2e58845" ref="le">Le</w>
-      <w id="_198_d2e58848" ref="snàthad">snàthad</w>
-      <w id="_198_d2e58852" ref="fada">fhada</w>
-      <pc join="left">.</pc>
-      <sb />
-      <w id="_198_d2e58860" ref="agus">’S</w>
-      <w id="_198_d2e58863" ref="e">e</w>
-      <w id="_198_d2e58866" ref="coimhead">coimhead</w>
-      <w id="_198_d2e58870" ref="cho">cho</w>
-      <w id="_198_d2e58873" ref="dòigheil">dòigheil</w>
-      <pc join="both">.</pc>
-      <pc join="left">”</pc>
-      <sb />
-    </p>
     <p>
       <pc join="right">“</pc>
       <w id="_198_d2e58890" ref="ach">Ach</w>
