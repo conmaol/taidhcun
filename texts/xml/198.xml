@@ -6002,277 +6002,234 @@
       </s>
     </p>
     <pb n="13" />
-
-    <!--
-
-Thog e air ’s e sealltainn ás a dhéidh an dràsda ’s a rithist. 
-Carson a bha mi smaoineachadh air an aonaran gun sgur co-dhiùbh? 
-Carson? 
-An e ’n dìomhanas a bha toirt orm sin a dhèanamh? 
-Ag éisdeachd ri ceòl na mara ’s a’ smaoineachadh air an aonaran. 
-Chaidh mi steach ’s dh’fhosgail mi an leabhran bho Athena an toiseach ’s a rithist dh’fhosgail mi an litir bho mo bhràthair a thàinig á New Zealand air post an adhair, gorm is tana.
-
-Chuir mi mach drama eile dhomh fhìn ’s shuidh mi aig an uinneig a’ leughadh an leabhrain – Van Gogh, Gauguin, Salvador Dali ’s an còrr. 
-Bha grunn dhealbhan ann le Van Gogh, dealbhan de chorc ’s de aodannan tana geal. 
-Bha dùil a’m dhà na trì le Bosch òrdachadh, oir bha iad iargalta is àraid is biastail. 
-Mar bhruadaran a chitheadh duine air oidhcheannan anns am biodh an spiorad mùchte is dorch. 
-Mar bhruadaran biastail.
-
-
     <p>
-      <w id="_198_d2e61204" ref="tog">Thog</w>
-      <w id="_198_d2e61207" ref="e">e</w>
-      <w
-        id="_198_d2e61210" ref="air">air</w>
-      <w id="_198_d2e61213" ref="agus">’s</w>
-      <w
-        id="_198_d2e61216" ref="e">e</w>
-      <w id="_198_d2e61220" ref="seall">sealltainn</w>
-      <w
-        id="_198_d2e61223" ref="à">ás</w>
-      <w id="_198_d2e61226" ref="a">a</w>
-      <w id="_198_d2e61229"
-        ref="dèidh">dhéidh</w>
-      <w id="_198_d2e61232" ref="an-dràsta">an dràsda</w>
-      <w
-        id="_198_d2e61235" ref="agus">’s</w>
-      <w id="_198_d2e61239" ref="a-rithist">a rithist</w>
-      <pc
-        join="left">.</pc>
-      <sb />
-      <w id="_198_d2e61247" ref="carson">Carson</w>
-      <w id="_198_d2e61250"
-        ref="rx">a</w>
-      <w id="_198_d2e61253" ref="bi">bha</w>
-      <w id="_198_d2e61257" ref="mi">mi</w>
-      <w
-        id="_198_d2e61260" ref="smaoinich">smaoineachadh</w>
-      <w id="_198_d2e61263" ref="air">air</w>
-      <w
-        id="_198_d2e61266" ref="the">an</w>
-      <w id="_198_d2e61269" ref="aonaran">aonaran</w>
-      <w
-        id="_198_d2e61272" ref="gun">gun</w>
-      <w id="_198_d2e61276" ref="sgur">sgur</w>
-      <w
-        id="_198_d2e61279" ref="co-dhiù">co-dhiùbh</w>
-      <pc join="left">?</pc>
-      <sb />
-      <w
-        id="_198_d2e61287" ref="carson">Carson</w>
-      <pc join="left">?</pc>
-      <sb />
-      <w id="_198_d2e61296"
-        ref="an">An</w>
-      <w id="_198_d2e61299" ref="e">e</w>
-      <w id="_198_d2e61302" ref="the">’n</w>
-      <w
-        id="_198_d2e61305" ref="dìomhanas">dìomhanas</w> idleness <w id="_198_d2e61311" ref="rx">a</w>
-      <w
-        id="_198_d2e61314" ref="bi">bha</w>
-      <w id="_198_d2e61317" ref="thoir">toirt</w>
-      <w
-        id="_198_d2e61320" ref="air">orm</w>
-      <w id="_198_d2e61323" ref="sin">sin</w>
-      <w
-        id="_198_d2e61326" ref="x">a</w>
-      <w id="_198_d2e61330" ref="dèan">dhèanamh</w>
-      <pc join="left">
-      ?</pc>
-      <sb />
-      <w id="_198_d2e61338" ref="ag">Ag</w>
-      <w id="_198_d2e61341" ref="èist">éisdeachd</w>
-      <w
-        id="_198_d2e61344" ref="ri">ri</w>
-      <w id="_198_d2e61348" ref="ceòl">ceòl</w>
-      <w
-        id="_198_d2e61351" ref="the">na</w>
-      <w id="_198_d2e61354" ref="muir">mara</w>
-      <w
-        id="_198_d2e61357" ref="agus">’s</w>
-      <w id="_198_d2e61360" ref="ag">a’</w>
-      <w
-        id="_198_d2e61363" ref="smaoinich">smaoineachadh</w>
-      <w id="_198_d2e61367" ref="air">air</w>
-      <w
-        id="_198_d2e61370" ref="the">an</w>
-      <w id="_198_d2e61373" ref="aonaran">aonaran</w>
-      <pc
-        join="left">.</pc>
-      <sb />
-      <w id="_198_d2e61381" ref="rach">Chaidh</w>
-      <w id="_198_d2e61385"
-        ref="mi">mi</w>
-      <w id="_198_d2e61388" ref="a-steach">steach</w>
-      <w id="_198_d2e61391"
-        ref="agus">’s</w>
-      <w id="_198_d2e61394" ref="fosgail">dh’fhosgail</w>
-      <w id="_198_d2e61397"
-        ref="mi">mi</w>
-      <w id="_198_d2e61400" ref="the">an</w>
-      <w id="_198_d2e61404" ref="leabhran">
-      leabhran</w>
-      <w id="_198_d2e61407" ref="bho">bho</w>
-      <o>Athena</o>
-      <w id="_198_d2e61412"
-        ref="an-toiseach">an toiseach</w>
-      <w id="_198_d2e61415" ref="agus">’s</w>
-      <w
-        id="_198_d2e61418" ref="a-rithist">a rithist</w>
-      <w id="_198_d2e61422" ref="fosgail">
-      dh’fhosgail</w>
-      <w id="_198_d2e61425" ref="mi">mi</w>
-      <w id="_198_d2e61428" ref="the">an</w>
-      <w
-        id="_198_d2e61431" ref="litir">litir</w>
-      <w id="_198_d2e61434" ref="bho">bho</w>
-      <w
-        id="_198_d2e61437" ref="mo">mo</w>
-      <w id="_198_d2e61441" ref="bràthair">bhràthair</w>
-      <w
-        id="_198_d2e61444" ref="rx">a</w>
-      <w id="_198_d2e61447" ref="thig">thàinig</w>
-      <w
-        id="_198_d2e61450" ref="à">á</w>
-      <o>New Zealand</o>
-      <w id="_198_d2e61455" ref="air">air</w>
-      <w
-        id="_198_d2e61459" ref="post">post</w>
-      <w id="_198_d2e61462" ref="the">an</w>
-      <w
-        id="_198_d2e61465" ref="adhar">adhair</w>
-      <pc join="left">,</pc>
-      <w id="_198_d2e61471"
-        ref="gorm">gorm</w>
-      <w id="_198_d2e61474" ref="agus">is</w>
-      <w id="_198_d2e61478" ref="tana">
-      tana</w>
-      <pc join="left">.</pc>
-      <sb />
+      <s>
+        <gd>Thog e air ’s e sealltainn ás a dhéidh an dràsda ’s a rithist.</gd>
+        <en>He took himself off, looking behind now and again.</en>
+        <w id="_198_d2e61204" ref="tog" tags="past">Thog</w>
+        <w id="_198_d2e61207">e</w>
+        <w id="_198_d2e61210">air</w>
+        <w id="_198_d2e61213" ref="agus">’s</w>
+        <w id="_198_d2e61216">e</w>
+        <w id="_198_d2e61217" ref="ag" />
+        <w id="_198_d2e61220">sealltainn</w>
+        <w id="_198_d2e61223" ref="à">ás</w>
+        <w id="_198_d2e61226" ref="a-poss">a</w>
+        <w id="_198_d2e61229" ref="dèidh">dhéidh</w>
+        <w id="_198_d2e61232" ref="an-dràsta">an dràsda</w>
+        <w id="_198_d2e61235" ref="agus">’s</w>
+        <w id="_198_d2e61239" ref="a-rithist">a rithist</w>
+        <pc>.</pc>
+      </s>
+      <s>
+        <gd>Carson a bha mi smaoineachadh air an aonaran gun sgur co-dhiùbh?</gd>
+        <en>Why was I thinking about the loner ceaselessly anyway?</en>
+        <w id="_198_d2e61247" ref="carson">Carson</w>
+        <w id="_198_d2e61250" ref="rx">a</w>
+        <w id="_198_d2e61253" ref="bi" tags="past">bha</w>
+        <w id="_198_d2e61257">mi</w>
+        <w id="_198_d2e61258" ref="ag" />
+        <w id="_198_d2e61260">smaoineachadh</w>
+        <w id="_198_d2e61263">air</w>
+        <w id="_198_d2e61266" ref="the">an</w>
+        <w id="_198_d2e61269">aonaran</w>
+        <w id="_198_d2e61272" ref="gun-without">gun</w>
+        <w id="_198_d2e61276">sgur</w>
+        <w id="_198_d2e61279" ref="co-dhiù">co-dhiùbh</w>
+        <pc>?</pc>
+      </s>
+      <s>
+        <gd>Carson?</gd>
+        <en>Why?</en>
+        <w id="_198_d2e61287" ref="carson">Carson</w>
+        <pc>?</pc>
+      </s>
+      <s>
+        <gd>An e ’n dìomhanas a bha toirt orm sin a dhèanamh?</gd>
+        <en>Is it idleness that was causing me to do that?</en>
+        <w id="_198_d2e61296" ref="an-part">An</w>
+        <w id="_198_d2e61297" ref="is" />
+        <w id="_198_d2e61299">e</w>
+        <w id="_198_d2e61302" ref="the">’n</w>
+        <w id="_198_d2e61305">dìomhanas</w>
+        <w id="_198_d2e61311" ref="rx">a</w>
+        <w id="_198_d2e61314" ref="bi" tags="past">bha</w>
+        <w id="_198_d2e61315" ref="ag" />
+        <w id="_198_d2e61317">toirt</w>
+        <w id="_198_d2e61320" ref="air">orm</w>
+        <w id="_198_d2e61323">sin</w>
+        <w id="_198_d2e61326" ref="x">a</w>
+        <w id="_198_d2e61330" ref="dèanamh">dhèanamh</w>
+        <pc>?</pc>
+      </s>
+      <s>
+        <gd>Ag éisdeachd ri ceòl na mara ’s a’ smaoineachadh air an aonaran.</gd>
+        <en>Listening to the music of the sea and thinking about the loner.</en>
+        <w id="_198_d2e61338" ref="ag">Ag</w>
+        <w id="_198_d2e61341" ref="èisteachd">éisdeachd</w>
+        <w id="_198_d2e61344">ri</w>
+        <w id="_198_d2e61348">ceòl</w>
+        <w id="_198_d2e61351" ref="the">na</w>
+        <w id="_198_d2e61354" ref="muir">mara</w>
+        <w id="_198_d2e61357" ref="agus">’s</w>
+        <w id="_198_d2e61360" ref="ag">a’</w>
+        <w id="_198_d2e61363">smaoineachadh</w>
+        <w id="_198_d2e61367">air</w>
+        <w id="_198_d2e61370" ref="the">an</w>
+        <w id="_198_d2e61373">aonaran</w>
+        <pc>.</pc>
+      </s>
+      <s>
+        <gd>Chaidh mi steach ’s dh’fhosgail mi an leabhran bho Athena an toiseach ’s a rithist
+          dh’fhosgail mi an litir bho mo bhràthair a thàinig á New Zealand air post an adhair, gorm
+          is tana.</gd>
+        <en>I went insie and I opened the booklet from Athena at first and again I opened the letter
+          from my brother which had come from New Zealand by airmail, blue and thin.</en>
+        <w id="_198_d2e61381" ref="rach" tags="past">Chaidh</w>
+        <w id="_198_d2e61385">mi</w>
+        <w id="_198_d2e61388" ref="a-steach">steach</w>
+        <w id="_198_d2e61391" ref="agus">’s</w>
+        <w id="_198_d2e61394" ref="fosgail" tags="past">dh’fhosgail</w>
+        <w id="_198_d2e61397">mi</w>
+        <w id="_198_d2e61400" ref="the">an</w>
+        <w id="_198_d2e61404">leabhran</w>
+        <w id="_198_d2e61407">bho</w>
+        <w id="_198_d2e61408">Athena</w>
+        <w id="_198_d2e61412" ref="an-prep">an</w>
+        <w id="_198_d2e61413">toiseach</w>
+        <w id="_198_d2e61415" ref="agus">’s</w>
+        <w id="_198_d2e61418" ref="a-rithist">a rithist</w>
+        <w id="_198_d2e61422" ref="fosgail" tags="past">dh’fhosgail</w>
+        <w id="_198_d2e61425">mi</w>
+        <w id="_198_d2e61428" ref="the">an</w>
+        <w id="_198_d2e61431">litir</w>
+        <w id="_198_d2e61434">bho</w>
+        <w id="_198_d2e61437">mo</w>
+        <w id="_198_d2e61441" ref="bràthair">bhràthair</w>
+        <w id="_198_d2e61444" ref="rx">a</w>
+        <w id="_198_d2e61447" ref="thig" tags="past">thàinig</w>
+        <w id="_198_d2e61450" ref="à">á</w>
+        <w id="_198_d2e61451">New Zealand</w>
+        <w id="_198_d2e61455">air</w>
+        <w id="_198_d2e61459">post</w>
+        <w id="_198_d2e61462" ref="the">an</w>
+        <w id="_198_d2e61465" ref="adhar">adhair</w>
+        <pc>,</pc>
+        <w id="_198_d2e61471">gorm</w>
+        <w id="_198_d2e61474" ref="agus">is</w>
+        <w id="_198_d2e61478">tana</w>
+        <pc>.</pc>
+      </s>
     </p>
     <p>
-      <w id="_198_d2e61489" ref="cuir">Chuir</w>
-      <w id="_198_d2e61492" ref="mi">mi</w>
-      <w
-        id="_198_d2e61495" ref="a-mach">mach</w>
-      <w id="_198_d2e61498" ref="drama">drama</w>
-      <w
-        id="_198_d2e61501" ref="eile">eile</w>
-      <w id="_198_d2e61505" ref="do">dhomh</w>
-      <w
-        id="_198_d2e61508" ref="fèin">fhìn</w>
-      <w id="_198_d2e61511" ref="agus">’s</w>
-      <w
-        id="_198_d2e61514" ref="suidh">shuidh</w>
-      <w id="_198_d2e61517" ref="mi">mi</w>
-      <w
-        id="_198_d2e61520" ref="aig">aig</w>
-      <w id="_198_d2e61524" ref="the">an</w>
-      <w
-        id="_198_d2e61527" ref="uinneag">uinneig</w>
-      <w id="_198_d2e61530" ref="ag">a’</w>
-      <w
-        id="_198_d2e61533" ref="leugh">leughadh</w>
-      <w id="_198_d2e61536" ref="the">an</w>
-      <w
-        id="_198_d2e61539" ref="leabhran">leabhrain</w>
-      <pc join="no">–</pc>
-      <o>Van Gogh</o>
-      <pc
-        join="left">,</pc>
-      <o>Gauguin</o>
-      <pc join="left">,</pc>
-      <o>Salvador Dali</o>
-      <w
-        id="_198_d2e61559" ref="agus">’s</w>
-      <w id="_198_d2e61562" ref="the">an</w>
-      <w
-        id="_198_d2e61565" ref="còrr">còrr</w>
-      <pc join="left">.</pc>
-      <sb />
-      <w id="_198_d2e61573"
-        ref="bi">Bha</w>
-      <w id="_198_d2e61577" ref="grunn">grunn</w>
-      <w id="_198_d2e61580"
-        ref="dealbh">dhealbhan</w>
-      <w id="_198_d2e61583" ref="an">ann</w>
-      <w id="_198_d2e61586"
-        ref="le">le</w>
-      <o>Van Gogh</o>
-      <pc join="left">,</pc>
-      <w id="_198_d2e61595" ref="dealbh">
-      dealbhan</w>
-      <w id="_198_d2e61598" ref="de">de</w>
-      <w id="_198_d2e61601" ref="coirce">chorc</w>
-      <w
-        id="_198_d2e61604" ref="agus">’s</w>
-      <w id="_198_d2e61607" ref="de">de</w>
-      <w
-        id="_198_d2e61610" ref="aodann">aodannan</w>
-      <w id="_198_d2e61614" ref="tana">tana</w>
-      <w
-        id="_198_d2e61617" ref="geal">geal</w>
-      <pc join="left">.</pc>
-      <sb />
-      <w id="_198_d2e61625"
-        ref="bi">Bha</w>
-      <w id="_198_d2e61628" ref="dùil">dùil</w>
-      <w id="_198_d2e61632" ref="aig">a’m</w>
-      <w
-        id="_198_d2e61635" ref="dà">dhà</w>
-      <w id="_198_d2e61638" ref="no">na</w>
-      <w
-        id="_198_d2e61641" ref="trì">trì</w>
-      <w id="_198_d2e61644" ref="le">le</w>
-      <o>Bosch</o>
-      <w
-        id="_198_d2e61650" ref="òrdaich">òrdachadh</w>
-      <pc join="left">,</pc>
-      <w id="_198_d2e61656"
-        ref="oir">oir</w>
-      <w id="_198_d2e61659" ref="bi">bha</w>
-      <w id="_198_d2e61662" ref="iad">iad</w>
-      <w
-        id="_198_d2e61665" ref="iargalta">iargalta</w> haunting <w id="_198_d2e61671" ref="agus">is</w>
-      <w
-        id="_198_d2e61674" ref="àraid">àraid</w> odd <w id="_198_d2e61679" ref="agus">is</w>
-      <w
-        id="_198_d2e61682" ref="biastail">biastail</w>
-      <pc join="left">.</pc>
-      <sb />
-      <w
-        id="_198_d2e61691" ref="mar">Mar</w>
-      <w id="_198_d2e61694" ref="bruadar">bhruadaran</w>
-      <w
-        id="_198_d2e61697" ref="rx">a</w>
-      <w id="_198_d2e61700" ref="faic">chitheadh</w>
-      <w
-        id="_198_d2e61703" ref="duine">duine</w>
-      <w id="_198_d2e61707" ref="air">air</w>
-      <w
-        id="_198_d2e61710" ref="oidhche">oidhcheannan</w>
-      <w id="_198_d2e61713" ref="an">anns</w>
-      <w
-        id="_198_d2e61716" ref="an">am</w>
-      <w id="_198_d2e61719" ref="bi">biodh</w>
-      <w
-        id="_198_d2e61722" ref="the">an</w>
-      <w id="_198_d2e61726" ref="spiorad">spiorad</w>
-      <w
-        id="_198_d2e61729" ref="mùchte">mùchte</w> smothered <w id="_198_d2e61734" ref="agus">is</w>
-      <w
-        id="_198_d2e61737" ref="dorcha">dorch</w>
-      <pc join="left">.</pc>
-      <sb />
-      <w id="_198_d2e61746"
-        ref="mar">Mar</w>
-      <w id="_198_d2e61749" ref="bruadar">bhruadaran</w>
-      <w id="_198_d2e61752"
-        ref="biastail">biastail</w>
-      <pc join="left">.</pc>
-      <sb />
+      <s>
+        <gd>Chuir mi mach drama eile dhomh fhìn ’s shuidh mi aig an uinneig a’ leughadh an leabhrain
+          – Van Gogh, Gauguin, Salvador Dali ’s an còrr.</gd>
+        <en>I poured out another dram for myself and sat down at the window reading the booklet –
+          Van Gogh, Gauguin, Salvador Dali and the rest.</en>
+        <w id="_198_d2e61489" ref="cuir" tags="past">Chuir</w>
+        <w id="_198_d2e61492">mi</w>
+        <w id="_198_d2e61495" ref="a-mach">mach</w>
+        <w id="_198_d2e61498">drama</w>
+        <w id="_198_d2e61501">eile</w>
+        <w id="_198_d2e61505" ref="do-prep">dhomh</w>
+        <w id="_198_d2e61508" ref="fhèin">fhìn</w>
+        <w id="_198_d2e61511" ref="agus">’s</w>
+        <w id="_198_d2e61514" ref="suidh" tags="past">shuidh</w>
+        <w id="_198_d2e61517">mi</w>
+        <w id="_198_d2e61520">aig</w>
+        <w id="_198_d2e61524" ref="the">an</w>
+        <w id="_198_d2e61527" ref="uinneag">uinneig</w>
+        <w id="_198_d2e61530" ref="ag">a’</w>
+        <w id="_198_d2e61533">leughadh</w>
+        <w id="_198_d2e61536" ref="the">an</w>
+        <w id="_198_d2e61539" ref="leabhran">leabhrain</w>
+        <pc join="no">–</pc>
+        <w id="_198_d2e61540">Van Gogh</w>
+        <pc>,</pc>
+        <w id="_198_d2e61541">Gauguin</w>
+        <pc>,</pc>
+        <w id="_198_d2e61542">Salvador Dali</w>
+        <w id="_198_d2e61559" ref="agus">’s</w>
+        <w id="_198_d2e61562" ref="the">an</w>
+        <w id="_198_d2e61565">còrr</w>
+        <pc>.</pc>
+      </s>
+      <s>
+        <gd>Bha grunn dhealbhan ann le Van Gogh, dealbhan de chorc ’s de aodannan tana geal.</gd>
+        <en>There were a few pictures by Van Gogh, pictures of wheat and of thin white faces.</en>
+        <w id="_198_d2e61573" ref="bi" tags="past">Bha</w>
+        <w id="_198_d2e61577">grunn</w>
+        <w id="_198_d2e61580" ref="dealbh" tags="plural">dhealbhan</w>
+        <w id="_198_d2e61583" ref="an-prep">ann</w>
+        <w id="_198_d2e61586">le</w>
+        <w id="_198_d2e61587">Van Gogh</w>
+        <pc>,</pc>
+        <w id="_198_d2e61595" ref="dealbh" tags="plural">dealbhan</w>
+        <w id="_198_d2e61598">de</w>
+        <w id="_198_d2e61601" ref="coirce">chorc</w>
+        <w id="_198_d2e61604" ref="agus">’s</w>
+        <w id="_198_d2e61607">de</w>
+        <w id="_198_d2e61610" ref="aodann" tags="plural">aodannan</w>
+        <w id="_198_d2e61614">tana</w>
+        <w id="_198_d2e61617">geal</w>
+        <pc>.</pc>
+      </s>
+      <s>
+        <gd>Bha dùil a’m dhà na trì le Bosch òrdachadh, oir bha iad iargalta is àraid is biastail.</gd>
+        <en>I was expecting to order two or three by Bosch, because they were haunting and odd and
+          beastly.</en>
+        <w id="_198_d2e61625" ref="bi" tags="past">Bha</w>
+        <w id="_198_d2e61628">dùil</w>
+        <w id="_198_d2e61632" ref="aig">a’m</w>
+        <w id="_198_d2e61635" ref="dà">dhà</w>
+        <w id="_198_d2e61638" ref="no">na</w>
+        <w id="_198_d2e61641">trì</w>
+        <w id="_198_d2e61644">le</w>
+        <w id="_198_d2e61645">Bosch</w>
+        <w id="_198_d2e61646" ref="x" />
+        <w id="_198_d2e61650">òrdachadh</w>
+        <pc>,</pc>
+        <w id="_198_d2e61656">oir</w>
+        <w id="_198_d2e61659" ref="bi" tags="past">bha</w>
+        <w id="_198_d2e61662">iad</w>
+        <w id="_198_d2e61665">iargalta</w>
+        <w id="_198_d2e61671" ref="agus">is</w>
+        <w id="_198_d2e61674" ref="àraidh">àraid</w>
+        <w id="_198_d2e61679" ref="agus">is</w>
+        <w id="_198_d2e61682">biastail</w>
+        <pc>.</pc>
+      </s>
+      <s>
+        <gd>Mar bhruadaran a chitheadh duine air oidhcheannan anns am biodh an spiorad mùchte is
+          dorch.</gd>
+        <en>Like dreams that a man has on nights where the spirit is smothered and dark.</en>
+        <w id="_198_d2e61691" ref="mar">Mar</w>
+        <w id="_198_d2e61694" ref="bruadar" tags="plural">bhruadaran</w>
+        <w id="_198_d2e61697" ref="rx">a</w>
+        <w id="_198_d2e61700" ref="faic" tags="conditional">chitheadh</w>
+        <w id="_198_d2e61703">duine</w>
+        <w id="_198_d2e61707">air</w>
+        <w id="_198_d2e61710" ref="oidhche" tags="plural">oidhcheannan</w>
+        <w id="_198_d2e61713" ref="an-prep">anns</w>
+        <w id="_198_d2e61716" ref="an-part">am</w>
+        <w id="_198_d2e61719" ref="bi" tags="conditional">biodh</w>
+        <w id="_198_d2e61722" ref="the">an</w>
+        <w id="_198_d2e61726">spiorad</w>
+        <w id="_198_d2e61729">mùchte</w>
+        <w id="_198_d2e61734" ref="agus">is</w>
+        <w id="_198_d2e61737">dorch</w>
+        <pc>.</pc>
+      </s>
+      <s>
+        <gd>Mar bhruadaran biastail.</gd>
+        <en>Like beastly dreams.</en>
+        <w id="_198_d2e61746" ref="mar">Mar</w>
+        <w id="_198_d2e61749" ref="bruadar" tags="plural">bhruadaran</w>
+        <w id="_198_d2e61752">biastail</w>
+        <pc>.</pc>
+      </s>
     </p>
-  -->
   </section>
 
 
