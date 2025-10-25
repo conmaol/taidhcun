@@ -1,523 +1,565 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../texts.rnc" schematypens="https://relaxng.org/ns/structure/1.0?>
-<text xmlns="https://dasg.ac.uk/corpus/" ref="https://dasg.ac.uk/corpus/_400-1-1" status="tagged">
-  <pb n="i" img="400_Gairm/1/C1.pdf"/>
-  <pb n="ii" img="400_Gairm/1/DA1.pdf"/>
-  <pb n="1" img="400_Gairm/1/TD1.pdf"/>
-  <pb n="2" img="400_Gairm/1/TD2.pdf"/>
-  <pb n="3" img="400_Gairm/1/TD3.pdf"/>
-  <pb n="4" img="400_Gairm/1/TD4.pdf"/>
-  <pb n="5" img="400_Gairm/1/TD5.pdf"/>
-  <pb n="6" img="400_Gairm/1/TD6.pdf"/>
-  <pb n="7" img="400_Gairm/1/TD7.pdf"/>
-  <pb n="8" img="400_Gairm/1/TD8.pdf"/>
-  <pb n="9" img="400_Gairm/1/TD9.pdf"/>
-  <pb n="10" img="400_Gairm/1/TD10.pdf"/>
-  <pb n="11" img="400_Gairm/1/TD11.pdf"/>
-  <pb n="12" img="400_Gairm/1/TD12.pdf"/>
-  <pb n="13" img="400_Gairm/1/TD13.pdf"/>
-  <h>
-    <w id="d1e1" pos="N" lemma="Gairm">Gairm</w>
-  </h>
-  <h>
-    <o>112 BATH STREET</o>
-    <w id="d1e2" pos="N" lemma="Glaschu">GLASCHU</w>
-    <pc join="left">,</pc>
-    <o>C.2.</o>
-  </h>
-  <h>
-    <o>Tel. Douglas 6137.</o>
-  </h>
-  <h>
-    <w id="d1e3" pos="n" lemma="àireamh">Aireamh</w>
-    <o>1.</o>
-    <w id="d1e4" pos="d" lemma="the">Am</w>
-    <w id="d1e5" pos="n" lemma="foghar">Foghar</w>
-    <pc join="left">,</pc>
-    <o>1952</o>
-    <pc join="left">.</pc>
-  </h>
+<?xml-model href="../texts.rnc" type="application/relax-ng-compact-syntax"?>
+<text xmlns="urn:taidh:cun/" id="_400-1-1">
   <p>
-    <w id="d1e8" pos="V" lemma="bi">THA</w>
-    <w id="d1e11" pos="A" lemma="suas">suas</w>
-    <w id="d1e14" pos="p" lemma="ri">ri</w>
-    <w id="d1e17" pos="n" lemma="bliadhna">bliadhna</w>
-    <w id="d1e20" pos="A" lemma="a-nis">a-nis</w>
-    <w id="d1e24" pos="p" lemma="bho">bhon</w>
-    <w id="d1e27" lemma="rx" pos="">a</w>
-    <w id="d1e30" pos="V" lemma="coinnich">choinnich</w>
-    <w id="d1e33" pos="D" lemma="sinn">sinn</w>
-    <w id="d1e36" pos="p" lemma="an">’nar</w>
-    <w id="d1e39" pos="n" lemma="dithis">dithis</w>
-    <w id="d1e43" pos="p" lemma="an">ann an</w>
-    <w id="d1e46" pos="N" lemma="Glaschu">Glaschu</w>
-    <pc join="left">,</pc>
-    <w id="d1e52" lemma="agus" pos="">agus</w>
-    <w id="d1e55" lemma="rx" pos="">a</w>
-    <w id="d1e58" pos="V" lemma="seulaich">sheulaich</w>
-    <!-- seal -->
-    <w id="d1e64" pos="D" lemma="sinn">sinn</w>
-    <pc join="right">‘</pc>
-    <w id="d1e70" pos="n" lemma="ràitheachan">Ràitheachan</w>
-    <!-- quarterly magazine -->
-    <pc join="left">’</pc>
-    <w id="d1e78" pos="N" lemma="Gàidhlig">Gàidhlig</w>
-    <w id="d1e82" lemma="rx" pos="">a</w>
-    <w id="d1e85" pos="vn" lemma="stèidhich">stéidheachadh</w>
-    <pc join="left">.</pc>
-    <sb/>
-    <w id="d1e94" pos="p" lemma="aig">Aig</w>
-    <w id="d1e97" pos="d" lemma="the">an</w>
-    <w id="d1e100" pos="n" lemma="àm">ám</w>
-    <pc join="left">,</pc>
-    <w id="d1e106" pos="z" lemma="cha">cha</w>
-    <w id="d1e110" pos="v" lemma="bi">robh</w>
-    <w id="d1e113" pos="D" lemma="sinn">sinn</w>
-    <w id="d1e116" lemma="fèin" pos="">fhéin</w>
-    <w id="d1e119" pos="a" lemma="cinnteach">cinnteach</w>
-    <w id="d1e122" pos="d" lemma="the">am</w>
-    <w id="d1e125" pos="V" lemma="is">b’e</w>
-    <w id="d1e132" pos="d" lemma="the">an</w>
-    <w id="d1e141" pos="n">t-aineolas</w>
-    <!-- ignorance -->
-    <w id="d1e147" lemma="no" pos="">no</w>
-    <w id="d1e150" pos="d" lemma="the">an</w>
-    <w id="d1e153" pos="n" lemma="dànadas">dànadas</w>
-    <!-- boldness, arrogance -->
-    <w id="d1e158" lemma="rx" pos="">a</w>
-    <w id="d1e161" pos="V" lemma="is">bu</w>
-    <w id="d1e165" pos="ar" lemma="mòr">mhotha</w>
-    <w id="d1e168" lemma="rx" pos="">a</w>
-    <w id="d1e171" pos="V" lemma="bi">bh’oirrn</w>
-    <pc join="left">,</pc>
-    <w id="d1e180" pos="z" lemma="oir">oir</w>
-    <w id="d1e184" pos="z" lemma="nuair">an uair</w>
-    <w id="d1e187" lemma="rx" pos="">a</w>
-    <w id="d1e190" pos="V" lemma="thoir">thug</w>
-    <w id="d1e193" pos="D" lemma="sinn">sinn</w>
-    <w id="d1e196" pos="" lemma="sùil">sùil</w>
-    <w id="d1e199" pos="p" lemma="air">air</w>
-    <w id="d1e203" pos="n" lemma="ais">ais</w>
-    <w id="d1e206" pos="p" lemma="thar">thar</w>
-    <w id="d1e209" pos="n" lemma="eachdraidh">eachdraidh</w>
-    <w id="d1e212" pos="ns" lemma="leabhar">leabhraichean</w>
-    <w id="d1e215" pos="a" lemma="eile">eile</w>
-    <w id="d1e218" pos="p" lemma="de">de’n</w>
-    <w id="d1e231" pos="n" lemma="seòrsa">t-seòrsa</w>
-    <pc join="left">,</pc>
-    <w id="d1e237" pos="V" lemma="bi">bha</w>
-    <w id="d1e241" pos="d" lemma="ar">ar</w>
-    <w id="d1e244" pos="n" lemma="misneachd">misneachd</w>
-    <w id="d1e247" pos="n" lemma="còrr">corr</w>
-    <w id="d1e250" pos="n" lemma="uair">uair</w>
-    <w id="d1e253" lemma="ag">’gar</w>
-    <w id="d1e256" pos="vn" lemma="trèig">tréigsinn</w>
-    <!-- abandon -->
-    <pc join="left">.</pc>
-    <sb/>
-    <w id="d1e268" pos="V" lemma="bi">Bha</w>
-    <w id="d1e271" pos="ns" lemma="leabhar">leabhraichean</w>
-    <w id="d1e274" pos="p" lemma="air">air</w>
-    <w id="d1e277" lemma="rx" pos="">a</w>
-    <w id="d1e280" pos="vn" lemma="bi">bhith</w>
-    <w id="d1e284" pos="P" lemma="an">ann</w>
-    <pc join="both">—</pc>
-    <w id="d1e290" pos="V" lemma="bi">bha</w>
-    <w id="d1e293" lemma="agus" pos="">agus</w>
-    <w id="d1e296" pos="p" lemma="gu">gu</w>
-    <w id="d1e299" pos="n" lemma="leòr">leòir</w>
-    <w id="d1e303" pos="P" lemma="do">dhuibh</w>
-    <pc join="both">—</pc>
-    <w id="d1e309" lemma="ach" pos="">ach</w>
-    <w id="d1e312" pos="" lemma="thàinig">thàinig</w>
-    <w id="d1e315" pos="n" lemma="fear">fear</w>
-    <w id="d1e318" pos="d" lemma="the">an</w>
-    <w id="d1e322" pos="n" lemma="dèidh">déidh</w>
-    <w id="d1e325" pos="ns" lemma="fear">fir</w>
-    <w id="d1e328" pos="P" lemma="de">dhiubh</w>
-    <w id="d1e331" pos="p" lemma="gu">gu</w>
-    <w id="d1e334" pos="n" lemma="ìre">ìre</w>
-    <w id="d1e337" lemma="agus" pos="">agus</w>
-    <w id="d1e341" pos="V" lemma="sìol">shìolaidh</w>
-    <!-- subside -->
-    <w id="d1e346" pos="D" lemma="iad">iad</w>
-    <w id="d1e349" pos="p" lemma="air">air</w>
-    <w id="d1e352" pos="vn" lemma="falbh">falbh</w>
-    <pc join="left">.</pc>
-    <sb/>
+    <s>
+      <gd>THA suas ri bliadhna a nise bhon a choinnich sinn ’nar dithis ann an Glaschu, agus a
+        sheulaich sinn ‘Ràitheachan’ Gàidhlig a stéidheachadh.</gd>
+      <en>It is up to a year now since the two of us met up in Glasgow, and decided to set up a
+        Gaelic ‘quarterly’.</en>
+      <w id="_400-1-1_d1e8" ref="bi" tags="present">THA</w>
+      <w id="_400-1-1_d1e11">suas</w>
+      <w id="_400-1-1_d1e14">ri</w>
+      <w id="_400-1-1_d1e17">bliadhna</w>
+      <w id="_400-1-1_d1e20" ref="a-nis">a nise</w>
+      <w id="_400-1-1_d1e24" ref="bho">bhon</w>
+      <w id="_400-1-1_d1e27" ref="rx">a</w>
+      <w id="_400-1-1_d1e30" ref="coinnich" tags="past">choinnich</w>
+      <w id="_400-1-1_d1e33">sinn</w>
+      <w id="_400-1-1_d1e36" ref="an-prep">’n</w>
+      <w id="_400-1-1_d1e37" ref="ar-poss" join="left">ar</w>
+      <w id="_400-1-1_d1e39">dithis</w>
+      <w id="_400-1-1_d1e43" ref="an-prep">ann an</w>
+      <w id="_400-1-1_d1e46">Glaschu</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e52">agus</w>
+      <w id="_400-1-1_d1e55" ref="rx">a</w>
+      <w id="_400-1-1_d1e58" ref="seulaich" tags="past">sheulaich</w>
+      <w id="_400-1-1_d1e64">sinn</w>
+      <pc join="no">‘</pc>
+      <w id="_400-1-1_d1e70" ref="ràitheachan" join="left">Ràitheachan</w>
+      <pc>’</pc>
+      <w id="_400-1-1_d1e78">Gàidhlig</w>
+      <w id="_400-1-1_d1e82" ref="rx">a</w>
+      <w id="_400-1-1_d1e85" ref="stèidheachadh">stéidheachadh</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Aig an ám, cha robh sinn fhéin cinnteach am b’e an t-aineolas no an dànadas a bu mhotha a
+        bh’oirrn, oir an uair a thug sinn sùil air ais thar eachdraidh leabhraichean eile de’n
+        t-seòrsa, bha ar misneachd corr uair ’gar tréigsinn.</gd>
+      <en>At the time, we ourselves were not certain whether it was ignorance or arrogance that was
+        bigger on us, because when we looked back across the history of other books of the type, our
+        confidence more than once abandoned us.</en>
+      <w id="_400-1-1_d1e94" ref="aig">Aig</w>
+      <w id="_400-1-1_d1e97" ref="the">an</w>
+      <w id="_400-1-1_d1e100" ref="àm">ám</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e106">cha</w>
+      <w id="_400-1-1_d1e110" ref="bi" tags="past">robh</w>
+      <w id="_400-1-1_d1e113">sinn</w>
+      <w id="_400-1-1_d1e116" ref="fhèin">fhéin</w>
+      <w id="_400-1-1_d1e119">cinnteach</w>
+      <w id="_400-1-1_d1e122" ref="an-part">am</w>
+      <w id="_400-1-1_d1e125" ref="is" tags="past">b’</w>
+      <w id="_400-1-1_d1e126" join="left">e</w>
+      <w id="_400-1-1_d1e132" ref="the">an</w>
+      <w id="_400-1-1_d1e141" ref="aineolas">t-aineolas</w>
+      <w id="_400-1-1_d1e147">no</w>
+      <w id="_400-1-1_d1e150" ref="the">an</w>
+      <w id="_400-1-1_d1e153">dànadas</w>
+      <w id="_400-1-1_d1e158" ref="rx">a</w>
+      <w id="_400-1-1_d1e161" ref="is" tags="past">bu</w>
+      <w id="_400-1-1_d1e165" ref="mòr" tags="comparative">mhotha</w>
+      <w id="_400-1-1_d1e168" ref="rx">a</w>
+      <w id="_400-1-1_d1e171" ref="bi" tags="past">bh’</w>
+      <w id="_400-1-1_d1e172" ref="air" join="left">oirrn</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e180">oir</w>
+      <w id="_400-1-1_d1e184" ref="nuair">an uair</w>
+      <w id="_400-1-1_d1e187" ref="rx">a</w>
+      <w id="_400-1-1_d1e190" ref="thoir" tags="past">thug</w>
+      <w id="_400-1-1_d1e193">sinn</w>
+      <w id="_400-1-1_d1e196">sùil</w>
+      <w id="_400-1-1_d1e199">air</w>
+      <w id="_400-1-1_d1e203">ais</w>
+      <w id="_400-1-1_d1e206">thar</w>
+      <w id="_400-1-1_d1e209">eachdraidh</w>
+      <w id="_400-1-1_d1e212" ref="leabhar" tags="plural">leabhraichean</w>
+      <w id="_400-1-1_d1e215">eile</w>
+      <w id="_400-1-1_d1e218">de</w>
+      <w id="_400-1-1_d1e219" ref="the" join="left">’n</w>
+      <w id="_400-1-1_d1e231" ref="seòrsa">t-seòrsa</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e237" ref="bi" tags="past">bha</w>
+      <w id="_400-1-1_d1e241" ref="ar-poss">ar</w>
+      <w id="_400-1-1_d1e244">misneachd</w>
+      <w id="_400-1-1_d1e247" ref="còrr">corr</w>
+      <w id="_400-1-1_d1e250">uair</w>
+      <w id="_400-1-1_d1e253" ref="ag">’gar</w>
+      <w id="_400-1-1_d1e254" ref="ar-poss" join="left">ar</w>
+      <w id="_400-1-1_d1e256" ref="trèigsinn">tréigsinn</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Bha leabhraichean air a bhith ann—bha agus gu leòir dhuibh—ach thàinig fear an déidh fir
+        dhiubh gu ìre agus shìolaidh iad air falbh.</gd>
+      <en>There have been books–there have and plenty of them–but one after another of them came to
+        maturity and they subsided away.</en>
+      <w id="_400-1-1_d1e268" ref="bi" tags="past">Bha</w>
+      <w id="_400-1-1_d1e271" ref="leabhar" tags="plural">leabhraichean</w>
+      <w id="_400-1-1_d1e274">air</w>
+      <w id="_400-1-1_d1e277" ref="x">a</w>
+      <w id="_400-1-1_d1e280" ref="bith">bhith</w>
+      <w id="_400-1-1_d1e284" ref="an-prep">ann</w>
+      <pc>—</pc>
+      <w id="_400-1-1_d1e290" ref="bi" tags="past" join="left">bha</w>
+      <w id="_400-1-1_d1e293">agus</w>
+      <w id="_400-1-1_d1e296">gu</w>
+      <w id="_400-1-1_d1e299" ref="leòr">leòir</w>
+      <w id="_400-1-1_d1e303" ref="de">dhuibh</w>
+      <pc>—</pc>
+      <w id="_400-1-1_d1e309" join="left">ach</w>
+      <w id="_400-1-1_d1e312" ref="thig" tags="past">thàinig</w>
+      <w id="_400-1-1_d1e315">fear</w>
+      <w id="_400-1-1_d1e318" ref="an-prep">an</w>
+      <w id="_400-1-1_d1e322" ref="dèidh">déidh</w>
+      <w id="_400-1-1_d1e325" ref="fear">fir</w>
+      <w id="_400-1-1_d1e328" ref="de">dhiubh</w>
+      <w id="_400-1-1_d1e331">gu</w>
+      <w id="_400-1-1_d1e334">ìre</w>
+      <w id="_400-1-1_d1e337">agus</w>
+      <w id="_400-1-1_d1e341" ref="sìolaidh" tags="past">shìolaidh</w>
+      <w id="_400-1-1_d1e346">iad</w>
+      <w id="_400-1-1_d1e349">air</w>
+      <w id="_400-1-1_d1e352">falbh</w>
+      <pc>.</pc>
+    </s>
   </p>
   <p>
-    <w id="d1e364" lemma="ach" pos="">Ach</w>
-    <w id="d1e367" pos="V" lemma="bi">bha</w>
-    <w id="d1e370" pos="D" lemma="sinn">sinn</w>
-    <w id="d1e373" pos="a" lemma="cinnteach">cinnteach</w>
-    <w id="d1e376" pos="" lemma="rx">as</w>
-    <w id="d1e380" pos="c" lemma="dà">dà</w>
-    <w id="d1e383" pos="V" lemma="dèan">nì</w>
-    <pc join="both">—</pc>
-    <w id="d1e389" pos="z" lemma="gun">gun</w>
-    <w id="d1e392" pos="V" lemma="leugh">leugh</w>
-    <w id="d1e395" pos="ns" lemma="duine">daoine</w>
-    <w id="d1e399" pos="ns" lemma="leabhar">leabhraichean</w>
-    <w id="d1e402" pos="z" lemma="ma">ma</w>
-    <w id="d1e405" pos="V" lemma="lorg">lorgas</w>
-    <w id="d1e408" pos="D" lemma="iad">iad</w>
-    <w id="d1e411" pos="n" lemma="rudeigin">rud-egin</w>
-    <w id="d1e414" pos="a" lemma="inntinneach">inntinneach</w>
-    <w id="d1e418" pos="P" lemma="an">annta</w>
-    <pc join="left">,</pc>
-    <w id="d1e424" lemma="agus" pos="">agus</w>
-    <w id="d1e427" pos="A" lemma="cuideachd">cuideachd</w>
-    <pc join="left">,</pc>
-    <w id="d1e433" pos="z" lemma="mura">mura</w>
-    <w id="d1e437" pos="V" lemma="leugh">leugh</w>
-    <w id="d1e440" pos="ns" lemma="duine">daoine</w>
-    <w id="d1e443" pos="ns" lemma="leabhar">leabhraichean</w>
-    <w id="d1e446" pos="p" lemma="an">’nan</w>
-    <w id="d1e449" pos="n" lemma="cànan">cànain</w>
-    <w id="d1e452" lemma="fèin" pos="">fhéin</w>
-    <pc join="left">,</pc>
-    <w id="d1e459" pos="z" lemma="gun">gun</w>
-    <w id="d1e462" pos="v" lemma="rach">téid</w>
-    <w id="d1e465" pos="" lemma="ag">a’</w>
-    <w id="d1e468" pos="n" lemma="cànan">chànain</w>
-    <w id="d1e471" pos="p" lemma="le">leis</w>
-    <w id="d1e475" pos="d" lemma="the">an</w>
-    <w id="d1e484" pos="n" lemma="sruth">t-sruth</w>
-    <w id="d1e487" pos="p" lemma="an">ann an</w>
-    <w id="d1e490" pos="n" lemma="ùine">ùine</w>
-    <w id="d1e494" pos="z" lemma="nach">nach</w>
-    <w id="d1e497" pos="v" lemma="bi">bi</w>
-    <w id="d1e500" pos="a" lemma="fada">fada</w>
-    <pc join="left">.</pc>
-    <sb/>
+    <s>
+      <gd>Ach bha sinn cinnteach as dà nì—gun leugh daoine leabhraichean ma lorgas iad rud-egin
+        inntinneach annta, agus cuideachd, mura leugh daoine leabhraichean ’nan cànain fhéin, gun
+        téid a’ chànain leis an t-sruth ann an ùine nach bi fada.</gd>
+      <en>But we were certain of two things–that peopl will read books if they find something
+        interesting in them, and also, if people don’t read books in their own language, that the
+        language will go with the tide in a time that is not long.</en>
+      <w id="_400-1-1_d1e364" ref="ach">Ach</w>
+      <w id="_400-1-1_d1e367" ref="bi" tags="past">bha</w>
+      <w id="_400-1-1_d1e370">sinn</w>
+      <w id="_400-1-1_d1e373">cinnteach</w>
+      <w id="_400-1-1_d1e376" ref="à">as</w>
+      <w id="_400-1-1_d1e380">dà</w>
+      <w id="_400-1-1_d1e383">nì</w>
+      <pc>—</pc>
+      <w id="_400-1-1_d1e389">gun</w>
+      <w id="_400-1-1_d1e392">leugh</w>
+      <w id="_400-1-1_d1e395" ref="duine" tags="plural">daoine</w>
+      <w id="_400-1-1_d1e399" ref="leabhar" tags="plural">leabhraichean</w>
+      <w id="_400-1-1_d1e402" ref="ma">ma</w>
+      <w id="_400-1-1_d1e405" ref="lorg">lorgas</w>
+      <w id="_400-1-1_d1e408">iad</w>
+      <w id="_400-1-1_d1e411" ref="rudeigin">rud-egin</w>
+      <w id="_400-1-1_d1e414">inntinneach</w>
+      <w id="_400-1-1_d1e418" ref="an-prep">annta</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e424">agus</w>
+      <w id="_400-1-1_d1e427">cuideachd</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e433">mura</w>
+      <w id="_400-1-1_d1e437">leugh</w>
+      <w id="_400-1-1_d1e440" ref="duine" tags="plural">daoine</w>
+      <w id="_400-1-1_d1e443" ref="leabhar" tags="plural">leabhraichean</w>
+      <w id="_400-1-1_d1e446" ref="an-prep">’n</w>
+      <w id="_400-1-1_d1e447" ref="an-poss" join="left">an</w>
+      <w id="_400-1-1_d1e449" ref="cànan">cànain</w>
+      <w id="_400-1-1_d1e452" ref="fhèin">fhéin</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e459">gun</w>
+      <w id="_400-1-1_d1e462" ref="rach">téid</w>
+      <w id="_400-1-1_d1e465" ref="the">a’</w>
+      <w id="_400-1-1_d1e468" ref="cànan">chànain</w>
+      <w id="_400-1-1_d1e471" ref="le">leis</w>
+      <w id="_400-1-1_d1e475" ref="the">an</w>
+      <w id="_400-1-1_d1e484" ref="sruth">t-sruth</w>
+      <w id="_400-1-1_d1e487" ref="an-prep">ann an</w>
+      <w id="_400-1-1_d1e490">ùine</w>
+      <w id="_400-1-1_d1e494">nach</w>
+      <w id="_400-1-1_d1e497">bi</w>
+      <w id="_400-1-1_d1e500">fada</w>
+      <pc>.</pc>
+    </s>
   </p>
   <p>
-    <w id="d1e512" pos="P" lemma="gu">Thuige</w>
-    <w id="d1e515" pos="Dx" lemma="seo">so</w>
-    <pc join="left">,</pc>
-    <w id="d1e521" pos="V" lemma="cuir">chuireadh</w>
-    <w id="d1e524" pos="A" lemma="a-mach">a mach</w>
-    <w id="d1e528" pos="n" lemma="mòran">móran</w>
-    <w id="d1e531" pos="p" lemma="de">de</w>
-    <w id="d1e534" pos="ns" lemma="leabhar">leabhraichean</w>
-    <w id="d1e537" pos="a" lemma="mall">mall</w>
-    <!-- slow -->
-    <pc join="both">-</pc>
-    <w id="d1e546" pos="a" lemma="briathrach">bhriathrach</w>
-    <!-- verbose -->
-    <pc join="left">,</pc>
-    <w id="d1e554" pos="n" lemma="oileanach">oileanach</w>
-    <pc join="left">,</pc>
-    <w id="d1e560" lemma="rx" pos="">a</w>
-    <w id="d1e564" pos="V" lemma="bi">bha</w>
-    <w id="d1e567" pos="p" lemma="gu">gu</w>
-    <w id="d1e570" pos="n" lemma="ùidh">ùidh</w>
-    <w id="d1e573" pos="p" lemma="gu">gu</w>
-    <w id="d1e576" pos="n" lemma="leòr">leòir</w>
-    <w id="d1e579" pos="z" lemma="do">do</w>
-    <w id="d1e583" pos="ns" lemma="sgoilear">sgoilearan</w>
-    <w id="d1e586" lemma="agus" pos="">agus</w>
-    <w id="d1e589" pos="z" lemma="do">do</w>
-    <w id="d1e592" pos="n" lemma="luchd">luchd</w>
-    <pc join="both">-</pc>
-    <w id="d1e598" pos="n" lemma="dreuchd">dreuchd</w>
-    <w id="d1e602" pos="p" lemma="de">de</w>
-    <w id="d1e605" pos="d" lemma="gach">gach</w>
-    <w id="d1e608" pos="n" lemma="seòrsa">seòrsa</w>
-    <pc join="left">;</pc>
-    <w id="d1e614" lemma="ach" pos="">ach</w>
-    <w id="d1e617" pos="V" lemma="bi">tha</w>
-    <w id="d1e621" lemma="the" pos="d">na</w>
-    <w id="d1e624" pos="V" lemma="bi">tha</w>
-    <w id="d1e627" pos="a" lemma="beò">beò</w>
-    <w id="d1e630" pos="p" lemma="de">de’n</w>
-    <w id="d1e636" pos="n" lemma="Gàidhlig">Ghàidhlig</w>
-    <w id="d1e640" pos="A" lemma="an-diugh">an diugh</w>
-    <pc join="left">,</pc>
-    <w id="d1e646" pos="a" lemma="beò">beò</w>
-    <w id="d1e649" pos="p" lemma="air">air</w>
-    <w id="d1e652" pos="ns" lemma="bile">bilean</w>
-    <!-- lip, brim -->
-    <w id="d1e658" pos="d" lemma="the">nan</w>
-    <w id="d1e661" pos="ns" lemma="duine">daoine</w>
-    <w id="d1e664" pos="a" lemma="cumanta">cumanta</w>
-    <w id="d1e667" pos="p" lemma="air">air</w>
-    <w id="d1e670" pos="" lemma="ag">a’</w>
-    <w id="d1e673" pos="n" lemma="Gàidhealtachd">Ghaidhealtachd</w>
-    <pc join="both">—</pc>
-    <w id="d1e680" pos="d" lemma="the">na</w>
-    <w id="d1e683" pos="ns" lemma="croitear">croitearan</w>
-    <w id="d1e686" lemma="agus" pos="">agus</w>
-    <w id="d1e689" pos="d" lemma="the">na</w>
-    <w id="d1e699" pos="ns" lemma="iasgair">h-iasgairean</w>
-    <w id="d1e702" lemma="agus" pos="">agus</w>
-    <w id="d1e705" pos="d" lemma="the">na</w>
-    <w id="d1e708" pos="" lemma="mnathan">mnathan</w>
-    <pc join="both">-</pc>
-    <w id="d1e715" pos="nx" lemma="taigh">tighe</w>
-    <pc join="left">.</pc>
-    <sb/>
-    <w id="d1e724" pos="z" lemma="nuair">An uair</w>
-    <w id="d1e727" lemma="rx" pos="">a</w>
-    <w id="d1e730" pos="V" lemma="trèig">thréigeas</w>
-    <w id="d1e733" pos="D" lemma="iad">iad</w>
-    <w id="d1e736" pos="D" lemma="sin">sin</w>
-    <w id="d1e740" pos="" lemma="ag">a’</w>
-    <w id="d1e743" pos="n" lemma="Gàidhlig">Ghàidhlig</w>
-    <pc join="left">,</pc>
-    <w id="d1e749" pos="V" lemma="bi">bithidh</w>
-    <w id="d1e752" pos="" lemma="ag">a’</w>
-    <w id="d1e755" pos="n" lemma="Gàidhlig">Ghàidhlig</w>
-    <w id="d1e762" pos="A" lemma="a-cheana">a cheana</w>
-    <w id="d1e765" pos="a" lemma="marbh">marbh</w>
-    <pc join="left">,</pc>
-    <w id="d1e771" lemma="agus" pos="">agus</w>
-    <w id="d1e774" pos="z" lemma="cha">cha</w>
-    <w id="d1e778" pos="V" lemma="cùm">chum</w>
-    <w id="d1e781" pos="d" lemma="the">na</w>
-    <w id="d1e784" pos="ns" lemma="sgoilear">sgoilearan</w>
-    <w id="d1e787" pos="n" lemma="deò">deò</w>
-    <!-- breath of air -->
-    <w id="d1e792" pos="P" lemma="an">innte</w>
-    <w id="d1e796" lemma="ach" pos="">ach</w>
-    <w id="d1e799" pos="n" lemma="deò">deò</w>
-    <w id="d1e802" pos="p" lemma="mu">mu</w>
-    <pc join="both">-</pc>
-    <w id="d1e808" pos="nx" lemma="làmh">laimh</w>
-    <pc join="left">.</pc>
-    <sb/>
-    <w id="d1e817" pos="p" lemma="mar">Mar</w>
-    <w id="d1e820" pos="D" lemma="sin">sin</w>
-    <pc join="left">,</pc>
-    <w id="d1e826" pos="" lemma="agus">is</w>
-    <w id="d1e829" pos="P" lemma="an">ann</w>
-    <w id="d1e833" pos="p" lemma="gu">chun</w>
-    <w id="d1e836" pos="d" lemma="the">nan</w>
-    <w id="d1e839" pos="" lemma="trì">trì</w>
-    <w id="d1e842" pos="ns" lemma="buidheann">buidhnean</w>
-    <w id="d1e845" pos="D" lemma="sin">sin</w>
-    <w id="d1e848" pos="p" lemma="gu">gu</w>
-    <w id="d1e852" pos="a" lemma="sònraichte">sònraichte</w>
-    <pc join="left">,</pc>
-    <w id="d1e858" lemma="rx" pos="">a</w>
-    <w id="d1e861" pos="V" lemma="bi">tha</w>
-    <w id="d1e864" pos="N" lemma="Gairm">Gairm</w>
-    <w id="d1e867" lemma="ag" pos="">a’</w>
-    <w id="d1e871" pos="vn" lemma="rach">dol</w>
-    <w id="d1e874" pos="A" lemma="a-mach">a mach</w>
-    <w id="d1e877" pos="p" lemma="le">le</w>
-    <w id="d1e880" pos="d" lemma="ar">ar</w>
-    <w id="d1e883" pos="n" lemma="beannachd">beannachd</w>
-    <pc join="left">.</pc>
+    <s>
+      <gd>Thuige so, chuireadh a mach móran de leabhraichean mall-bhriathrach, oileanach, a bha gu
+        ùidh gu leòir do sgoilearan agus do luchd-dreuchd de gach seòrsa; ach tha na tha beò de’n
+        Ghàidhlig an diugh, beò air bilean nan daoine cumanta air a’ Ghaidhealtachd—na croitearan
+        agus na h-iasgairean agus na mnathan-tighe.</gd>
+      <en>Up to now, many verbose, academic books have come out, which were of enough interest to
+        scholars and to every kind of professional; but there is that which is alive of Gaelic
+        today, alive on the lips of the common people in the Highlands–the crofters and the
+        fishermen and the housewives.</en>
+      <w id="_400-1-1_d1e512" ref="gu">Thuige</w>
+      <w id="_400-1-1_d1e515" ref="seo">so</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e521" ref="cuir" tags="past passive">chuireadh</w>
+      <w id="_400-1-1_d1e524" ref="a-mach">a mach</w>
+      <w id="_400-1-1_d1e528" ref="mòran">móran</w>
+      <w id="_400-1-1_d1e531">de</w>
+      <w id="_400-1-1_d1e534" ref="leabhar" tags="plural">leabhraichean</w>
+      <w id="_400-1-1_d1e537">mall</w>
+      <pc>-</pc>
+      <w id="_400-1-1_d1e546" ref="briathrach" join="left">bhriathrach</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e554">oileanach</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e560" ref="rx">a</w>
+      <w id="_400-1-1_d1e564" ref="bi" tags="past">bha</w>
+      <w id="_400-1-1_d1e567">gu</w>
+      <w id="_400-1-1_d1e570">ùidh</w>
+      <w id="_400-1-1_d1e573">gu</w>
+      <w id="_400-1-1_d1e576" ref="leòr">leòir</w>
+      <w id="_400-1-1_d1e579" ref="do-prep">do</w>
+      <w id="_400-1-1_d1e583" ref="sgoilear" tags="plural">sgoilearan</w>
+      <w id="_400-1-1_d1e586">agus</w>
+      <w id="_400-1-1_d1e589" ref="do-prep">do</w>
+      <w id="_400-1-1_d1e592">luchd</w>
+      <pc>-</pc>
+      <w id="_400-1-1_d1e598" join="left">dreuchd</w>
+      <w id="_400-1-1_d1e602">de</w>
+      <w id="_400-1-1_d1e605">gach</w>
+      <w id="_400-1-1_d1e608">seòrsa</w>
+      <pc>;</pc>
+      <w id="_400-1-1_d1e614">ach</w>
+      <w id="_400-1-1_d1e617" ref="bi" tags="present">tha</w>
+      <w id="_400-1-1_d1e621" ref="rx">na</w>
+      <w id="_400-1-1_d1e624" ref="bi" tags="present">tha</w>
+      <w id="_400-1-1_d1e627">beò</w>
+      <w id="_400-1-1_d1e630">de</w>
+      <w id="_400-1-1_d1e631" ref="the" join="left">’n</w>
+      <w id="_400-1-1_d1e636" ref="Gàidhlig">Ghàidhlig</w>
+      <w id="_400-1-1_d1e640" ref="an-diugh">an diugh</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e646">beò</w>
+      <w id="_400-1-1_d1e649">air</w>
+      <w id="_400-1-1_d1e652" ref="bile" tags="plural">bilean</w>
+      <w id="_400-1-1_d1e658" ref="the">nan</w>
+      <w id="_400-1-1_d1e661" ref="duine" tags="plural">daoine</w>
+      <w id="_400-1-1_d1e664">cumanta</w>
+      <w id="_400-1-1_d1e667">air</w>
+      <w id="_400-1-1_d1e670" ref="the">a’</w>
+      <w id="_400-1-1_d1e673" ref="Gàidhealtachd">Ghaidhealtachd</w>
+      <pc>—</pc>
+      <w id="_400-1-1_d1e680" ref="the" join="left">na</w>
+      <w id="_400-1-1_d1e683" ref="croitear" tags="plural">croitearan</w>
+      <w id="_400-1-1_d1e686">agus</w>
+      <w id="_400-1-1_d1e689" ref="the">na</w>
+      <w id="_400-1-1_d1e699" ref="iasgair" tags="plural">h-iasgairean</w>
+      <w id="_400-1-1_d1e702">agus</w>
+      <w id="_400-1-1_d1e705" ref="the">na</w>
+      <w id="_400-1-1_d1e708" ref="bean" tags="plural">mnathan</w>
+      <pc>-</pc>
+      <w id="_400-1-1_d1e715" ref="taigh" join="left">tighe</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>An uair a thréigeas iad sin a’ Ghàidhlig, bithidh a’ Ghàidhlig a cheana marbh, agus cha
+        chum na sgoilearan deò innte ach deò mu-laimh.</gd>
+      <en>When those people abandon Gaelic, Gaelic will be indeed dead, and the scholars will not
+        keep life in her apart from unspectacular life.</en>
+      <w id="_400-1-1_d1e724" ref="nuair">An uair</w>
+      <w id="_400-1-1_d1e727" ref="rx">a</w>
+      <w id="_400-1-1_d1e730" ref="trèig">thréigeas</w>
+      <w id="_400-1-1_d1e733">iad</w>
+      <w id="_400-1-1_d1e736">sin</w>
+      <w id="_400-1-1_d1e740" ref="the">a’</w>
+      <w id="_400-1-1_d1e743" ref="Gàidhlig">Ghàidhlig</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e749" ref="bi">bithidh</w>
+      <w id="_400-1-1_d1e752" ref="the">a’</w>
+      <w id="_400-1-1_d1e755" ref="Gàidhlig">Ghàidhlig</w>
+      <w id="_400-1-1_d1e762" ref="a-cheana">a cheana</w>
+      <w id="_400-1-1_d1e765">marbh</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e771">agus</w>
+      <w id="_400-1-1_d1e774">cha</w>
+      <w id="_400-1-1_d1e778" ref="cùm">chum</w>
+      <w id="_400-1-1_d1e781" ref="the">na</w>
+      <w id="_400-1-1_d1e784" ref="sgoilear" tags="plural">sgoilearan</w>
+      <w id="_400-1-1_d1e787">deò</w>
+      <w id="_400-1-1_d1e792" ref="an-prep">innte</w>
+      <w id="_400-1-1_d1e796">ach</w>
+      <w id="_400-1-1_d1e799">deò</w>
+      <w id="_400-1-1_d1e802">mu</w>
+      <pc>-</pc>
+      <w id="_400-1-1_d1e808" ref="làmh" join="left">laimh</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Mar sin, is ann chun nan trì buidhnean sin gu sònraichte, a tha Gairm a’ dol a mach le ar
+        beannachd.</gd>
+      <en>Therefore, it is to those three groups especially, that Gairm is going out with our
+        blessing.</en>
+      <w id="_400-1-1_d1e817" ref="mar">Mar</w>
+      <w id="_400-1-1_d1e820">sin</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e826">is</w>
+      <w id="_400-1-1_d1e829" ref="an-prep">ann</w>
+      <w id="_400-1-1_d1e833" ref="gu">chun</w>
+      <w id="_400-1-1_d1e836" ref="the">nan</w>
+      <w id="_400-1-1_d1e839">trì</w>
+      <w id="_400-1-1_d1e842" ref="buidheann" tags="plural">buidhnean</w>
+      <w id="_400-1-1_d1e845">sin</w>
+      <w id="_400-1-1_d1e848">gu</w>
+      <w id="_400-1-1_d1e852">sònraichte</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e858" ref="rx">a</w>
+      <w id="_400-1-1_d1e861" ref="bi" tags="present">tha</w>
+      <w id="_400-1-1_d1e864">Gairm</w>
+      <w id="_400-1-1_d1e867" ref="ag">a’</w>
+      <w id="_400-1-1_d1e871">dol</w>
+      <w id="_400-1-1_d1e874" ref="a-mach">a mach</w>
+      <w id="_400-1-1_d1e877">le</w>
+      <w id="_400-1-1_d1e880" ref="ar-poss">ar</w>
+      <w id="_400-1-1_d1e883">beannachd</w>
+      <pc>.</pc>
+    </s>
   </p>
   <p>
-    <w id="d1e895" lemma="bi" pos="V">Bha</w>
-    <w id="d1e898" lemma="sinn" pos="D">sinn</w>
-    <w id="d1e901" pos="a" lemma="cinnteach">cinnteach</w>
-    <w id="d1e904" pos="" lemma="rx">as</w>
-    <w id="d1e907" lemma="aon" pos="c">aon</w>
-    <w id="d1e911" pos="n" lemma="rud">rud</w>
-    <w id="d1e914" lemma="eile" pos="a">eile</w>
-    <pc join="both">—</pc>
-    <w id="d1e920" lemma="nach" pos="z">nach</w>
-    <w id="d1e923" lemma="bi" pos="v">robh</w>
-    <w id="d1e926" pos="n" lemma="rian">rian</w>
-    <w id="d1e930" lemma="no" pos="">no</w>
-    <w id="d1e933" pos="n" lemma="rathad">rathad</w>
-    <w id="d1e936" pos="P" lemma="aig">againne</w>
-    <w id="d1e939" pos="p" lemma="air">air</w>
-    <w id="d1e942" lemma="gach" pos="d">gach</w>
-    <w id="d1e945" pos="n">cosgais</w>
-    <w id="d1e949" lemma="rx" pos="">a</w>
-    <w id="d1e952" pos="V" lemma="bi">tha</w>
-    <w id="d1e955" lemma="co" pos="px">co</w>
-    <pc join="both">-</pc>
-    <w id="d1e961" pos="a" lemma="ceangailte">cheangailte</w>
-    <w id="d1e964" pos="p" lemma="ri">ri</w>
-    <w id="d1e968" pos="n" lemma="oidhirp">oidhirp</w>
-    <w id="d1e971" pos="p" lemma="de">de’n</w>
-    <w id="d1e977">t</w>
-    <pc join="both">-</pc>
-    <w id="d1e983" pos="n" lemma="seòrsa">seòrsa</w>
-    <w id="d1e987" lemma="seo" pos="Dx">so</w>
-    <w id="d1e990" lemma="rx" pos="">a</w>
-    <w id="d1e993" pos="V" lemma="giùlain">ghiùlain</w>
-    <w id="d1e996" lemma="sinn" pos="D">sinn</w>
-    <w id="d1e999" lemma="fèin" pos="">fhéin</w>
-    <pc join="left">.</pc>
-    <sb/>
-    <w id="d1e1008" lemma="agus" pos="">Agus</w>
-    <w id="d1e1011" lemma="co-dhiù" pos="A">co-dhiùbh</w>
-    <pc join="left">,</pc>
-    <w id="d1e1017" pos="V" lemma="bi">bha</w>
-    <w id="d1e1020" lemma="agus" pos="">agus</w>
-    <w id="d1e1024" pos="V" lemma="bi">tha</w>
-    <w id="d1e1027" pos="D" lemma="sinn">sinn</w>
-    <w id="d1e1030" pos="p" lemma="de">de’n</w>
-    <w id="d1e1036" pos="n" lemma="beachd">bheachd</w>
-    <w id="d1e1039" lemma="nach" pos="z">nach</w>
-    <w id="d1e1043" pos="D" lemma="e">e</w>
-    <w id="d1e1046" pos="n" lemma="gnothach">gnothach</w>
-    <w id="d1e1049" lemma="rx" pos="">a</w>
-    <w id="d1e1052" pos="V" lemma="buin">bhuineas</w>
-    <w id="d1e1055" pos="z" lemma="do">do</w>
-    <w id="d1e1058" pos="n" lemma="còmhlan">chomhlan</w>
-    <w id="d1e1062" pos="a" lemma="beag">beag</w>
-    <w id="d1e1065" lemma="rx" pos="">a</w>
-    <w id="d1e1068" pos="V" lemma="bi">tha</w>
-    <w id="d1e1071" pos="p" lemma="an">anns</w>
-    <w id="d1e1074" lemma="ag" pos="">a’</w>
-    <w id="d1e1077" pos="n" lemma="Gàidhlig">Ghàidhlig</w>
-    <w id="d1e1081" lemma="an-diugh" pos="A">an diugh</w>
-    <pc join="left">,</pc>
-    <w id="d1e1087" lemma="ach" pos="">ach</w>
-    <w id="d1e1090" lemma="gnothach" pos="n">gnothach</w>
-    <w id="d1e1093" pos="d" lemma="gach">gach</w>
-    <w id="d1e1096" pos="n" lemma="mac">mac</w>
-    <pc join="both">-</pc>
-    <w id="d1e1103" pos="nx" lemma="màthair">màthar</w>
-    <w id="d1e1106" lemma="rx" pos="">a</w>
-    <w id="d1e1109" pos="V" lemma="bi">tha</w>
-    <w id="d1e1112" lemma="ag" pos="">a’</w>
-    <w id="d1e1115" pos="vn" lemma="gabh">gabhail</w>
-    <w id="d1e1119" pos="n" lemma="ùidh">ùidh</w>
-    <w id="d1e1122" pos="p" lemma="an">ann an</w>
-    <w id="d1e1125" pos="n" lemma="cànan">cànain</w>
-    <w id="d1e1128" lemma="agus" pos="">is</w>
-    <w id="d1e1131" pos="p" lemma="an">ann an</w>
-    <w id="d1e1134" pos="ns" lemma="gnàths">gnathasan</w>
-    <w id="d1e1138" lemma="the" pos="d">na</w>
-    <w id="d1e1141" pos="n" lemma="Gàidhealtachd">Gaidhealtachd</w>
-    <pc join="left">.</pc>
-    <sb/>
-    <w id="d1e1150" lemma="cha" pos="z">Chan</w>
-    <w id="d1e1153" pos="D" lemma="e">e</w>
-    <w id="d1e1156" pos="n" lemma="deas">deas</w>
-    <!-- accomplished -->
-    <pc join="both">-</pc>
-    <w id="d1e1165" pos="n" lemma="briathrachd">bhriathrachd</w>
-    <!-- eloquence -->
-    <w id="d1e1170" lemma="ach" pos="">ach</w>
-    <w id="d1e1173" pos="n" lemma="deas">deas</w>
-    <pc join="both">-</pc>
-    <w id="d1e1179" pos="n" lemma="seirbheis">sheirbheis</w>
-    <w id="d1e1183" lemma="rx" pos="">a</w>
-    <w id="d1e1186" pos="V" lemma="bi">tha</w>
-    <w id="d1e1189" pos="a" lemma="dìth">dhìth</w>
-    <w id="d1e1192" pos="P" lemma="air">oirnn</w>
-    <pc join="left">.</pc>
-    <w id="d1e1198" pos="V" lemma="cuir">Chuir</w>
-    <w id="d1e1202" pos="D" lemma="sinn">sinn</w>
-    <w id="d1e1205" pos="n" lemma="fios">fios</w>
-    <w id="d1e1208" lemma="a-mach" pos="A">a mach</w>
-    <w id="d1e1211" lemma="thall" pos="A">thall</w>
-    <w id="d1e1214" lemma="agus" pos="">’sa</w>
-    <w id="d1e1217" lemma="a-bhos" pos="A">bhos</w>
-    <pc join="left">,</pc>
-    <w id="d1e1224" pos="p" lemma="airson">airson</w>
-    <w id="d1e1227" pos="vnx" lemma="cuidich">cuideachaidh</w>
-    <pc join="left">,</pc>
-    <w id="d1e1233" lemma="agus" pos="">agus</w>
-    <w id="d1e1236" pos="p" lemma="air">air</w>
-    <w id="d1e1240" pos="nx" lemma="duilleag">duilleig</w>
-    <w id="d1e1243" lemma="eile" pos="a">eile</w>
-    <w id="d1e1246" pos="" lemma="chì">chì</w>
-    <w id="d1e1249" pos="D" lemma="sibh">sibh</w>
-    <w id="d1e1252" pos="p" lemma="mar">mar</w>
-    <w id="d1e1255" lemma="rx" pos="">a</w>
-    <w id="d1e1259" pos="V" lemma="gabh">ghabh</w>
-    <w id="d1e1262" pos="ns" lemma="duine">daoine</w>
-    <w id="d1e1265" pos="p" lemma="ri">ri</w>
-    <w id="d1e1268" pos="d" lemma="ar">ar</w>
-    <w id="d1e1278" pos="n" lemma="iarrtas">n-iarrtas</w>
-    <pc join="left">,</pc>
-    <w id="d1e1284" lemma="agus">is</w>
-    <w id="d1e1287" pos="V" lemma="bi">tha</w>
-    <w id="d1e1290" pos="D" lemma="sinn">sinn</w>
-    <w id="d1e1293" lemma="ag" pos="">a’</w>
-    <w id="d1e1297" pos="vn" lemma="cuir">cur</w>
-    <w id="d1e1300" pos="nx" lemma="taing">tainge</w>
-    <w id="d1e1303" pos="a" lemma="cridheil">chridheil</w>
-    <w id="d1e1306" pos="p+D" lemma="gu">thuca</w>
-    <w id="d1e1309" pos="p" lemma="airson">airson</w>
-    <w id="d1e1312" lemma="the" pos="d">an</w>
-    <w id="d1e1316" pos="n" lemma="cuid">cuid</w>
-    <w id="d1e1319" pos="n">fialaidheachd</w>
-    <!-- generosity -->
-    <pc join="left">.</pc>
-    <sb/>
-    <w id="d1e1330" pos="p" lemma="le">Leis</w>
-    <w id="d1e1333" lemma="rx" pos="">a</w>
-    <w id="d1e1336" lemma="sin" pos="D">sin</w>
-    <pc join="left">,</pc>
-    <w id="d1e1342" pos="V" lemma="bi">tha</w>
-    <w id="d1e1346" pos="N" lemma="Gairm">Gairm</w>
-    <w id="d1e1349" pos="a" lemma="sàbhailte">sàbhailte</w>
-    <w id="d1e1352" pos="p" lemma="airson">airson</w>
-    <w id="d1e1355" pos="c" lemma="dà">dà</w>
-    <w id="d1e1358" pos="n" lemma="bliadhna">bhliadhna</w>
-    <w id="d1e1361" lemma="co-dhiù" pos="A">co-dhiùbh</w>
-    <pc join="left">.</pc>
+    <s>
+      <gd>Bha sinn cinnteach as aon rud eile—nach robh rian no rathad againne air gach cosgais a tha
+        co-cheangailte ri oidhirp de’n t-seòrsa so a ghiùlain sinn fhéin.</gd>
+      <en>We were certain of one other thing–we had no way of bearing ourselves all the expense that
+        is associated with a challenge of this kind.</en>
+      <w id="_400-1-1_d1e895" ref="bi" tags="past">Bha</w>
+      <w id="_400-1-1_d1e898">sinn</w>
+      <w id="_400-1-1_d1e901">cinnteach</w>
+      <w id="_400-1-1_d1e904" ref="rà">as</w>
+      <w id="_400-1-1_d1e907">aon</w>
+      <w id="_400-1-1_d1e911">rud</w>
+      <w id="_400-1-1_d1e914">eile</w>
+      <pc>—</pc>
+      <w id="_400-1-1_d1e920" join="left">nach</w>
+      <w id="_400-1-1_d1e923" ref="bi" tags="past">robh</w>
+      <w id="_400-1-1_d1e926">rian</w>
+      <w id="_400-1-1_d1e930">no</w>
+      <w id="_400-1-1_d1e933">rathad</w>
+      <w id="_400-1-1_d1e936" ref="aig">againne</w>
+      <w id="_400-1-1_d1e939">air</w>
+      <w id="_400-1-1_d1e942">gach</w>
+      <w id="_400-1-1_d1e945">cosgais</w>
+      <w id="_400-1-1_d1e949" ref="rx">a</w>
+      <w id="_400-1-1_d1e952" ref="bi" tags="present">tha</w>
+      <w id="_400-1-1_d1e961">co-cheangailte</w>
+      <w id="_400-1-1_d1e964">ri</w>
+      <w id="_400-1-1_d1e968">oidhirp</w>
+      <w id="_400-1-1_d1e971" ref="de">de</w>
+      <w id="_400-1-1_d1e972" ref="the" join="left">’n</w>
+      <w id="_400-1-1_d1e983" ref="seòrsa">t-seòrsa</w>
+      <w id="_400-1-1_d1e987" ref="seo">so</w>
+      <w id="_400-1-1_d1e990" ref="x">a</w>
+      <w id="_400-1-1_d1e993" ref="giùlain">ghiùlain</w>
+      <w id="_400-1-1_d1e996">sinn</w>
+      <w id="_400-1-1_d1e999" ref="fhèin">fhéin</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Agus co-dhiùbh, bha agus tha sinn de’n bheachd nach e gnothach a bhuineas do chomhlan beag
+        a tha anns a’ Ghàidhlig an diugh, ach gnothach gach mac-màthar a tha a’ gabhail ùidh ann an
+        cànain is ann an gnathasan na Gaidhealtachd.</gd>
+      <en>And anyway, we were and are of the opinion that Gaelic today is not a matter that belongs
+        to a small band, but a matter for every man who takes an interest in the language and
+        customs of the Highlands.</en>
+      <w id="_400-1-1_d1e1008" ref="agus">Agus</w>
+      <w id="_400-1-1_d1e1011" ref="co-dhiù">co-dhiùbh</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e1017" ref="bi" tags="past">bha</w>
+      <w id="_400-1-1_d1e1020">agus</w>
+      <w id="_400-1-1_d1e1024" ref="bi" tags="present">tha</w>
+      <w id="_400-1-1_d1e1027">sinn</w>
+      <w id="_400-1-1_d1e1030">de</w>
+      <w id="_400-1-1_d1e1031" ref="the" join="left">’n</w>
+      <w id="_400-1-1_d1e1036" ref="beachd">bheachd</w>
+      <w id="_400-1-1_d1e1039">nach</w>
+      <w id="_400-1-1_d1e1040" ref="is" />
+      <w id="_400-1-1_d1e1043">e</w>
+      <w id="_400-1-1_d1e1046">gnothach</w>
+      <w id="_400-1-1_d1e1049" ref="rx">a</w>
+      <w id="_400-1-1_d1e1052" ref="buin">bhuineas</w>
+      <w id="_400-1-1_d1e1055" ref="do-prep">do</w>
+      <w id="_400-1-1_d1e1058" ref="còmhlan">chomhlan</w>
+      <w id="_400-1-1_d1e1062">beag</w>
+      <w id="_400-1-1_d1e1065" ref="rx">a</w>
+      <w id="_400-1-1_d1e1068" ref="bi" tags="present">tha</w>
+      <w id="_400-1-1_d1e1071" ref="an-prep">anns</w>
+      <w id="_400-1-1_d1e1074" ref="the">a’</w>
+      <w id="_400-1-1_d1e1077" ref="Gàidhlig">Ghàidhlig</w>
+      <w id="_400-1-1_d1e1081" ref="an-diugh">an diugh</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e1087">ach</w>
+      <w id="_400-1-1_d1e1090" ref="gnothach">gnothach</w>
+      <w id="_400-1-1_d1e1093">gach</w>
+      <w id="_400-1-1_d1e1096">mac</w>
+      <pc>-</pc>
+      <w id="_400-1-1_d1e1103" ref="màthair" join="left">màthar</w>
+      <w id="_400-1-1_d1e1106" ref="rx">a</w>
+      <w id="_400-1-1_d1e1109" ref="bi" tags="present">tha</w>
+      <w id="_400-1-1_d1e1112" ref="ag">a’</w>
+      <w id="_400-1-1_d1e1115">gabhail</w>
+      <w id="_400-1-1_d1e1119">ùidh</w>
+      <w id="_400-1-1_d1e1122" ref="an-prep">ann an</w>
+      <w id="_400-1-1_d1e1125" ref="cànan">cànain</w>
+      <w id="_400-1-1_d1e1128" ref="agus">is</w>
+      <w id="_400-1-1_d1e1131" ref="an-prep">ann an</w>
+      <w id="_400-1-1_d1e1134" ref="gnàths" tags="plural">gnathasan</w>
+      <w id="_400-1-1_d1e1138" ref="the">na</w>
+      <w id="_400-1-1_d1e1141" ref="Gàidhealtachd">Gaidhealtachd</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Chan e deas-bhriathrachd ach deas-sheirbheis a tha dhìth oirnn.</gd>
+      <en>It is not eloquence that we need but service.</en>
+      <w id="_400-1-1_d1e1150" ref="cha">Chan</w>
+      <w id="_400-1-1_d1e1153">e</w>
+      <w id="_400-1-1_d1e1156">deas</w>
+      <pc>-</pc>
+      <w id="_400-1-1_d1e1165" ref="briathrachd" join="left">bhriathrachd</w>
+      <w id="_400-1-1_d1e1170">ach</w>
+      <w id="_400-1-1_d1e1173">deas</w>
+      <pc>-</pc>
+      <w id="_400-1-1_d1e1179" ref="seirbheis" join="left">sheirbheis</w>
+      <w id="_400-1-1_d1e1183" ref="rx">a</w>
+      <w id="_400-1-1_d1e1186" ref="bi" tags="present">tha</w>
+      <w id="_400-1-1_d1e1187" ref="de" />
+      <w id="_400-1-1_d1e1189" ref="dìth">dhìth</w>
+      <w id="_400-1-1_d1e1192" ref="air">oirnn</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Chuir sinn fios a mach thall ’sa bhos, airson cuideachaidh, agus air duilleig eile chì
+        sibh mar a ghabh daoine ri ar n-iarrtas, is tha sinn a’ cur tainge chridheil thuca airson an
+        cuid fialaidheachd.</gd>
+      <en>We have put out information here and there, for help, and on another page you will see how
+        people have taken up our request, and we are sending hearty thanks to them for their
+        generosity.</en>
+      <w id="_400-1-1_d1e1198" ref="cuir" tags="past">Chuir</w>
+      <w id="_400-1-1_d1e1202">sinn</w>
+      <w id="_400-1-1_d1e1205">fios</w>
+      <w id="_400-1-1_d1e1208" ref="a-mach">a mach</w>
+      <w id="_400-1-1_d1e1211">thall</w>
+      <w id="_400-1-1_d1e1214" ref="agus">’s</w>
+      <w id="_400-1-1_d1e1217" ref="a-bhos" join="left">a bhos</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e1224">air</w>
+      <w id="_400-1-1_d1e1225">son</w>
+      <w id="_400-1-1_d1e1227" ref="cuideachadh">cuideachaidh</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e1233">agus</w>
+      <w id="_400-1-1_d1e1236">air</w>
+      <w id="_400-1-1_d1e1240" ref="duilleag">duilleig</w>
+      <w id="_400-1-1_d1e1243">eile</w>
+      <w id="_400-1-1_d1e1246" ref="faic">chì</w>
+      <w id="_400-1-1_d1e1249">sibh</w>
+      <w id="_400-1-1_d1e1252">mar</w>
+      <w id="_400-1-1_d1e1255" ref="rx">a</w>
+      <w id="_400-1-1_d1e1259" ref="gabh" tags="past">ghabh</w>
+      <w id="_400-1-1_d1e1262" ref="duine" tags="plural">daoine</w>
+      <w id="_400-1-1_d1e1265">ri</w>
+      <w id="_400-1-1_d1e1268" ref="ar-poss">ar</w>
+      <w id="_400-1-1_d1e1278" ref="iarrtas">n-iarrtas</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e1284" ref="agus">is</w>
+      <w id="_400-1-1_d1e1287" ref="bi" tags="present">tha</w>
+      <w id="_400-1-1_d1e1290">sinn</w>
+      <w id="_400-1-1_d1e1293" ref="ag">a’</w>
+      <w id="_400-1-1_d1e1297">cur</w>
+      <w id="_400-1-1_d1e1300" ref="taing">tainge</w>
+      <w id="_400-1-1_d1e1303" ref="cridheil">chridheil</w>
+      <w id="_400-1-1_d1e1306" ref="gu">thuca</w>
+      <w id="_400-1-1_d1e1309">air</w>
+      <w id="_400-1-1_d1e1310">son</w>
+      <w id="_400-1-1_d1e1312" ref="an-poss">an</w>
+      <w id="_400-1-1_d1e1316">cuid</w>
+      <w id="_400-1-1_d1e1319">fialaidheachd</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Leis a sin, tha Gairm sàbhailte airson dà bhliadhna co-dhiùbh.</gd>
+      <en>Because of that, Gairm is secure for two years anyway.</en>
+      <w id="_400-1-1_d1e1330" ref="le">Leis</w>
+      <w id="_400-1-1_d1e1336" ref="sin">a sin</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e1342" ref="bi" tags="present">tha</w>
+      <w id="_400-1-1_d1e1346">Gairm</w>
+      <w id="_400-1-1_d1e1349">sàbhailte</w>
+      <w id="_400-1-1_d1e1352">air</w>
+      <w id="_400-1-1_d1e1353">son</w>
+      <w id="_400-1-1_d1e1355">dà</w>
+      <w id="_400-1-1_d1e1358" ref="bliadhna">bhliadhna</w>
+      <w id="_400-1-1_d1e1361" ref="co-dhiù">co-dhiùbh</w>
+      <pc>.</pc>
+    </s>
   </p>
   <p>
-    <w id="d1e1374" lemma="seo" pos="Dx">So</w>
-    <w id="d1e1377" pos="P" lemma="do">dhuibh</w>
-    <w id="d1e1380" pos="D" lemma="e">e</w>
-    <pc join="left">,</pc>
-    <w id="d1e1386" lemma="mar-tha" pos="A">mata</w>
-    <pc join="left">!</pc>
-    <sb/>
-    <w id="d1e1396" pos="V" lemma="bi">Tha</w>
-    <w id="d1e1399" pos="D" lemma="sinn">sinn</w>
-    <w id="d1e1402" lemma="the" pos="d">an</w>
-    <w id="d1e1405" pos="n" lemma="dòchas">dòchas</w>
-    <w id="d1e1408" lemma="gun" pos="z">gun</w>
-    <w id="d1e1412" pos="v" lemma="còrd">còrd</w>
-    <w id="d1e1415" pos="D" lemma="e">e</w>
-    <w id="d1e1418" pos="P" lemma="ri">ruibh</w>
-    <pc join="left">.</pc>
-    <sb/>
-    <w id="d1e1427" lemma="ma" pos="z">Ma</w>
-    <w id="d1e1430" pos="V" lemma="còrd">chòrdas</w>
-    <w id="d1e1433" pos="D" lemma="e">e</w>
-    <w id="d1e1436" pos="p" lemma="ri">ri</w>
-    <w id="d1e1439" pos="n" lemma="fear">fear</w>
-    <w id="d1e1443" lemma="no" pos="">no</w>
-    <w id="d1e1446" pos="n" lemma="tè">tè</w>
-    <w id="d1e1449" lemma="the" pos="d">an</w>
-    <w id="d1e1452" lemma="siud" pos="D">sud</w>
-    <w id="d1e1455" lemma="agus" pos="">is</w>
-    <w id="d1e1458" lemma="the" pos="d">an</w>
-    <w id="d1e1462" lemma="seo" pos="Dx">so</w>
-    <pc join="both">—</pc>
-    <w id="d1e1468" lemma="ma" pos="z">ma</w>
-    <w id="d1e1471" pos="V" lemma="tog">thogas</w>
-    <w id="d1e1474" lemma="e" pos="D">e</w>
-    <w id="d1e1477" pos="n" lemma="fiamh">fiamh</w>
-    <w id="d1e1481" pos="n" lemma="gàire">gàire</w>
-    <w id="d1e1484" lemma="agus" pos="">is</w>
-    <w id="d1e1487" lemma="ma" pos="z">ma</w>
-    <w id="d1e1490" pos="V" lemma="dùisg">dhùisgeas</w>
-    <w id="d1e1493" lemma="e" pos="D">e</w>
-    <w id="d1e1496" pos="n" lemma="smaoin">smuain</w>
-    <pc join="left">,</pc>
-    <w id="d1e1503" pos="V" lemma="bi">bithidh</w>
-    <w id="d1e1506" lemma="sinn" pos="D">sinne</w>
-    <w id="d1e1509" pos="a" lemma="riaraichte">riaraichte</w>
-    <pc join="left">.</pc>
+    <s>
+      <gd>So dhuibh e, mata!</gd>
+      <en>Here it is for you, then!</en>
+      <w id="_400-1-1_d1e1374" ref="seo">So</w>
+      <w id="_400-1-1_d1e1377" ref="do-prep">dhuibh</w>
+      <w id="_400-1-1_d1e1380">e</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e1386" ref="mar-tha">mata</w>
+      <pc>!</pc>
+    </s>
+    <s>
+      <gd>Tha sinn an dòchas gun còrd e ruibh. </gd>
+      <en>We hope that you will like it.</en>
+      <w id="_400-1-1_d1e1396" ref="bi" tags="present">Tha</w>
+      <w id="_400-1-1_d1e1399">sinn</w>
+      <w id="_400-1-1_d1e1402" ref="an-prep">an</w>
+      <w id="_400-1-1_d1e1405">dòchas</w>
+      <w id="_400-1-1_d1e1408">gun</w>
+      <w id="_400-1-1_d1e1412">còrd</w>
+      <w id="_400-1-1_d1e1415">e</w>
+      <w id="_400-1-1_d1e1418" ref="ri">ruibh</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Ma chòrdas e ri fear no tè an sud is an so—ma thogas e fiamh gàire is ma dhùisgeas e
+        smuain, bithidh sinne riaraichte.</gd>
+      <en>If it pleases a man or a woman here and there–if it raises a smile and if it awakens a
+        thought, we will be satisfied.</en>
+      <w id="_400-1-1_d1e1427" ref="ma">Ma</w>
+      <w id="_400-1-1_d1e1430" ref="còrd">chòrdas</w>
+      <w id="_400-1-1_d1e1433">e</w>
+      <w id="_400-1-1_d1e1436">ri</w>
+      <w id="_400-1-1_d1e1439">fear</w>
+      <w id="_400-1-1_d1e1443">no</w>
+      <w id="_400-1-1_d1e1446">tè</w>
+      <w id="_400-1-1_d1e1452" ref="an_siud">an sud</w>
+      <w id="_400-1-1_d1e1455" ref="agus">is</w>
+      <w id="_400-1-1_d1e1462" ref="an_seo">an so</w>
+      <pc>—</pc>
+      <w id="_400-1-1_d1e1468" join="left">ma</w>
+      <w id="_400-1-1_d1e1471" ref="tog">thogas</w>
+      <w id="_400-1-1_d1e1474">e</w>
+      <w id="_400-1-1_d1e1477">fiamh</w>
+      <w id="_400-1-1_d1e1481">gàire</w>
+      <w id="_400-1-1_d1e1484" ref="agus">is</w>
+      <w id="_400-1-1_d1e1487">ma</w>
+      <w id="_400-1-1_d1e1490" ref="dùisg">dhùisgeas</w>
+      <w id="_400-1-1_d1e1493">e</w>
+      <w id="_400-1-1_d1e1496" ref="smaoin">smuain</w>
+      <pc>,</pc>
+      <w id="_400-1-1_d1e1503" ref="bi">bithidh</w>
+      <w id="_400-1-1_d1e1506" ref="sinn">sinne</w>
+      <w id="_400-1-1_d1e1509">riaraichte</w>
+      <pc>.</pc>
+    </s>
   </p>
   <h>
-    <w id="d1e1520" pos="N" lemma="Ruaraidh">RUARAIDH</w>
-    <w id="d1e1523" pos="N" lemma="MacThòmais">MACTHOMAIS</w>
-    <pc join="left">,</pc>
-    <w id="d1e1529" pos="N" lemma="Fionnlagh">FIONNLAGH</w>
-    <w id="d1e1532" pos="N" lemma="Dòmhnallach">DOMHNULLACH</w>
-    <pc join="left">,</pc>
-    <w id="d1e1539" pos="ns" lemma="fear">Fir</w>
-    <pc join="both">-</pc>
-    <w id="d1e1545" pos="nx" lemma="deasachadh">Deasachaidh</w>
-    <pc join="left">.</pc>
+    <gd>RUARAIDH MACTHOMAIS, FIONNLAGH DOMHNULLACH, Fir-Deasachaidh.</gd>
+    <en>Derek Thompson, Finlay MacDonald, Editors.</en>
+    <w id="_400-1-1_d1e1520" ref="Ruaraidh">RUARAIDH</w>
+    <w id="_400-1-1_d1e1523" ref="MacThòmais">MACTHOMAIS</w>
+    <pc>,</pc>
+    <w id="_400-1-1_d1e1529" ref="Fionnlagh">FIONNLAGH</w>
+    <w id="_400-1-1_d1e1532" ref="Dòmhnallach">DOMHNULLACH</w>
+    <pc>,</pc>
+    <w id="_400-1-1_d1e1539" ref="fear" tags="plural">Fir</w>
+    <pc>-</pc>
+    <w id="_400-1-1_d1e1545" ref="deasachadh" join="left">Deasachaidh</w>
+    <pc>.</pc>
   </h>
-  <pb n="14" img="400_Gairm/1/TD14.pdf"/>
 </text>
