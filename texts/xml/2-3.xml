@@ -678,7 +678,8 @@
     <s>
       <gd>Cha robh na balaich fada a’ falbh leis an àirneis agus ghlas mi an doras ’s chaidh mi
         dhachaigh.</gd>
-      <en>The lads were not long in leaving with the furniture and I locked the door and I went home.</en>
+      <en>The lads were not long in leaving with the furniture and I locked the door and I went
+        home.</en>
       <w id="_2-3_d2e10112" ref="cha">Cha</w>
       <w id="_2-3_d2e10115" ref="bi" tags="past">robh</w>
       <w id="_2-3_d2e10118" ref="the">na</w>
@@ -703,108 +704,116 @@
     <s>
       <gd>Cha robh guth agam air a’ chùis gus an d’ fhuair mi fios gu robh Eilidh is Murchadh a’
         tighinn, agus chaidh mi chun a’ phuirt-adhair nan coinneimh.</gd>
+      <en>I didn’t have a voice on the matter until I learned that Helen and Murdo were coming, and
+        I went to the airport to meet them.</en>
       <w id="_2-3_d2e10178" ref="cha">Cha</w>
-      <w id="_2-3_d2e10181" ref="bi">robh</w>
-      <w id="_2-3_d2e10184" ref="guth">guth</w>
+      <w id="_2-3_d2e10181" ref="bi" tags="past">robh</w>
+      <w id="_2-3_d2e10184">guth</w>
       <w id="_2-3_d2e10187" ref="aig">agam</w>
-      <w id="_2-3_d2e10190" ref="air">air</w>
+      <w id="_2-3_d2e10190">air</w>
       <w id="_2-3_d2e10193" ref="the">a’</w>
       <w id="_2-3_d2e10197" ref="cùis">chùis</w>
-      <w id="_2-3_d2e10200" ref="gus">gus</w>
-      <w id="_2-3_d2e10203" ref="an">an</w>
-      <w id="_2-3_d2e10206" ref="do">d’</w>
-      <w id="_2-3_d2e10209" ref="faigh">fhuair</w>
-      <w id="_2-3_d2e10212" ref="mi">mi</w>
-      <w id="_2-3_d2e10216" ref="fios">fios</w>
+      <w id="_2-3_d2e10200">gus</w>
+      <w id="_2-3_d2e10203" ref="an-part">an</w>
+      <w id="_2-3_d2e10206" ref="do-part">d’</w>
+      <w id="_2-3_d2e10209" ref="faigh" tags="past">fhuair</w>
+      <w id="_2-3_d2e10212">mi</w>
+      <w id="_2-3_d2e10216">fios</w>
       <w id="_2-3_d2e10219" ref="gun">gu</w>
-      <w id="_2-3_d2e10222" ref="bi">robh</w>
-      <w id="_2-3_d2e10225" ref="Eilidh">Eilidh</w>
+      <w id="_2-3_d2e10222" ref="bi" tags="past">robh</w>
+      <w id="_2-3_d2e10225">Eilidh</w>
       <w id="_2-3_d2e10228" ref="agus">is</w>
-      <w id="_2-3_d2e10231" ref="Murchadh">Murchadh</w>
+      <w id="_2-3_d2e10231">Murchadh</w>
       <w id="_2-3_d2e10235" ref="ag">a’</w>
-      <w id="_2-3_d2e10238" ref="thig">tighinn</w>
+      <w id="_2-3_d2e10238">tighinn</w>
       <pc>,</pc>
-      <w id="_2-3_d2e10244" ref="agus">agus</w>
-      <w id="_2-3_d2e10247" ref="rach">chaidh</w>
-      <w id="_2-3_d2e10250" ref="mi">mi</w>
+      <w id="_2-3_d2e10244">agus</w>
+      <w id="_2-3_d2e10247" ref="rach" tags="past">chaidh</w>
+      <w id="_2-3_d2e10250">mi</w>
       <w id="_2-3_d2e10254" ref="gu">chun</w>
       <w id="_2-3_d2e10257" ref="the">a’</w>
       <w id="_2-3_d2e10260" ref="port">phuirt</w>
-      <pc join="both">-</pc>
-      <w id="_2-3_d2e10266" ref="adhar">adhair</w>
-      <w id="_2-3_d2e10269" ref="an">nan</w>
+      <pc>-</pc>
+      <w id="_2-3_d2e10266" ref="adhar" join="left">adhair</w>
+      <w id="_2-3_d2e10269" ref="an-prep">n</w>
+      <w id="_2-3_d2e10270" ref="an-poss" join="left">an</w>
       <w id="_2-3_d2e10273" ref="coinneamh">coinneimh</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Ach mo chreach-sa thàinig: nuair a chaidh sinn a-steach dhan taigh chunna mi an t-uamhann
         ann an aghaidh Eilidh.</gd>
+      <en>But my goodness: when we went inside the house I saw the horror on Helen’s face.</en>
       <w id="_2-3_d2e10281" ref="ach">Ach</w>
-      <w id="_2-3_d2e10284" ref="mo">mo</w>
+      <w id="_2-3_d2e10284">mo</w>
       <w id="_2-3_d2e10287" ref="creach">chreach</w>
-      <pc join="both">-</pc>
-      <w id="_2-3_d2e10294" ref="sa">sa</w>
-      <w id="_2-3_d2e10297" ref="thig">thàinig</w>
+      <pc>-</pc>
+      <w id="_2-3_d2e10294" join="left">sa</w>
+      <w id="_2-3_d2e10297" ref="thig" tags="past">thàinig</w>
       <pc>:</pc>
-      <w id="_2-3_d2e10303" ref="nuair">nuair</w>
+      <w id="_2-3_d2e10303">nuair</w>
       <w id="_2-3_d2e10306" ref="rx">a</w>
-      <w id="_2-3_d2e10310" ref="rach">chaidh</w>
-      <w id="_2-3_d2e10313" ref="sinn">sinn</w>
-      <w id="_2-3_d2e10316" ref="a-steach">a-steach</w>
-      <w id="_2-3_d2e10319" ref="do">dhan</w>
-      <w id="_2-3_d2e10322" ref="taigh">taigh</w>
-      <w id="_2-3_d2e10325" ref="faic">chunna</w>
-      <w id="_2-3_d2e10329" ref="mi">mi</w>
+      <w id="_2-3_d2e10310" ref="rach" tags="past">chaidh</w>
+      <w id="_2-3_d2e10313">sinn</w>
+      <w id="_2-3_d2e10316">a-steach</w>
+      <w id="_2-3_d2e10319" ref="do-prep">dha</w>
+      <w id="_2-3_d2e10320" ref="the" join="left">n</w>
+      <w id="_2-3_d2e10322">taigh</w>
+      <w id="_2-3_d2e10325" ref="faic" tags="past">chunna</w>
+      <w id="_2-3_d2e10329">mi</w>
       <w id="_2-3_d2e10332" ref="the">an</w>
       <w id="_2-3_d2e10335" ref="uabhann">t-uamhann</w>
-      <w id="_2-3_d2e10338" ref="an">ann an</w>
-      <w id="_2-3_d2e10341" ref="aghaidh">aghaidh</w>
-      <w id="_2-3_d2e10344" ref="Eilidh">Eilidh</w>
+      <w id="_2-3_d2e10338" ref="an-prep">ann an</w>
+      <w id="_2-3_d2e10341">aghaidh</w>
+      <w id="_2-3_d2e10344">Eilidh</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Bha a h-uile càil luachmhor a bha am broinn an taighe air a ghoid: dà thelebhisean,
         bhidio, dà rèidio, reacòrdair, seudan, camanan goilf agus fiù an cleoc mòr a bha anns an
         talla.</gd>
-      <w id="_2-3_d2e10353" ref="bi">Bha</w>
+      <en>Everything valuable that had been within the house had been stolen: two televisions, a
+        video, two radios, a recorder, jewellery, gold clubs and even the big clock that had been in
+        the hall.</en>
+      <w id="_2-3_d2e10353" ref="bi" tags="past">Bha</w>
       <w id="_2-3_d2e10356" ref="gach">a</w>
       <w id="_2-3_d2e10359" ref="uile">h-uile</w>
-      <w id="_2-3_d2e10362" ref="càil">càil</w>
-      <w id="_2-3_d2e10366" ref="luachmhor">luachmhor</w>
+      <w id="_2-3_d2e10362">càil</w>
+      <w id="_2-3_d2e10366">luachmhor</w>
       <w id="_2-3_d2e10369" ref="rx">a</w>
-      <w id="_2-3_d2e10372" ref="bi">bha</w>
-      <w id="_2-3_d2e10375" ref="an">am</w>
+      <w id="_2-3_d2e10372" ref="bi" tags="past">bha</w>
+      <w id="_2-3_d2e10375" ref="an-prep">am</w>
       <w id="_2-3_d2e10378" ref="brù">broinn</w>
       <w id="_2-3_d2e10381" ref="the">an</w>
-      <w id="_2-3_d2e10385" ref="taigh">taigh</w>
-      <w id="_2-3_d2e10388" ref="air">air</w>
+      <w id="_2-3_d2e10385">taigh</w>
+      <w id="_2-3_d2e10388">air</w>
       <w id="_2-3_d2e10391" ref="x">a</w>
       <w id="_2-3_d2e10394" ref="goid">ghoid</w>
       <pc>:</pc>
-      <w id="_2-3_d2e10400" ref="dà">dà</w>
+      <w id="_2-3_d2e10400">dà</w>
       <w id="_2-3_d2e10404" ref="telebhisean">thelebhisean</w>
       <pc>,</pc>
-      <w id="_2-3_d2e10410" ref="bhidio">bhidio</w>
+      <w id="_2-3_d2e10410">bhidio</w>
       <pc>,</pc>
-      <w id="_2-3_d2e10416" ref="dà">dà</w>
-      <w id="_2-3_d2e10419" ref="rèidio">rèidio</w>
+      <w id="_2-3_d2e10416">dà</w>
+      <w id="_2-3_d2e10419">rèidio</w>
       <pc>,</pc>
-      <w id="_2-3_d2e10426" ref="reacòrdair">reacòrdair</w>
+      <w id="_2-3_d2e10426">reacòrdair</w>
       <pc>,</pc>
-      <w id="_2-3_d2e10432" ref="seud">seudan</w>
+      <w id="_2-3_d2e10432" ref="seud" tags="plural">seudan</w>
       <pc>,</pc>
-      <w id="_2-3_d2e10438" ref="caman">camanan</w>
-      <w id="_2-3_d2e10442" ref="goilf">goilf</w>
-      <w id="_2-3_d2e10445" ref="agus">agus</w>
-      <w id="_2-3_d2e10448" ref="fiù">fiù</w>
+      <w id="_2-3_d2e10438" ref="caman" tags="plural">camanan</w>
+      <w id="_2-3_d2e10442">goilf</w>
+      <w id="_2-3_d2e10445">agus</w>
+      <w id="_2-3_d2e10448">fiù</w>
       <w id="_2-3_d2e10451" ref="the">an</w>
-      <w id="_2-3_d2e10454" ref="cleoc">cleoc</w>
-      <w id="_2-3_d2e10457" ref="mòr">mòr</w>
+      <w id="_2-3_d2e10454">cleoc</w>
+      <w id="_2-3_d2e10457">mòr</w>
       <w id="_2-3_d2e10461" ref="rx">a</w>
-      <w id="_2-3_d2e10464" ref="bi">bha</w>
-      <w id="_2-3_d2e10467" ref="an">anns</w>
+      <w id="_2-3_d2e10464" ref="bi" tags="past">bha</w>
+      <w id="_2-3_d2e10467" ref="an-prep">anns</w>
       <w id="_2-3_d2e10470" ref="the">an</w>
-      <w id="_2-3_d2e10473" ref="talla">talla</w>
+      <w id="_2-3_d2e10473">talla</w>
       <pc>.</pc>
     </s>
   </p>
