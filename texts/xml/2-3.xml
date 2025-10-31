@@ -821,61 +821,66 @@
     <s>
       <gd>Chaidh sinn timcheall an taighe a shealltainn an robh doras no uinneag fosgailte, ach cha
         robh.</gd>
-      <w id="_2-3_d2e10485" ref="rach">Chaidh</w>
-      <w id="_2-3_d2e10488" ref="sinn">sinn</w>
-      <w id="_2-3_d2e10491" ref="timcheall">timcheall</w>
+      <en>We went around the house checking whether a door or window was open but they were not.</en>
+      <w id="_2-3_d2e10485" ref="rach" tags="past">Chaidh</w>
+      <w id="_2-3_d2e10488">sinn</w>
+      <w id="_2-3_d2e10491">timcheall</w>
       <w id="_2-3_d2e10494" ref="the">an</w>
       <w id="_2-3_d2e10497" ref="taigh">taighe</w>
-      <w id="_2-3_d2e10501" ref="x">a</w>
-      <w id="_2-3_d2e10504" ref="seall">shealltainn</w>
-      <w id="_2-3_d2e10507" ref="an">an</w>
-      <w id="_2-3_d2e10510" ref="bi">robh</w>
-      <w id="_2-3_d2e10513" ref="doras">doras</w>
-      <w id="_2-3_d2e10516" ref="no">no</w>
-      <w id="_2-3_d2e10520" ref="uinneag">uinneag</w>
-      <w id="_2-3_d2e10523" ref="fosgailte">fosgailte</w>
+      <w id="_2-3_d2e10501" ref="do-prep">a</w>
+      <w id="_2-3_d2e10504" ref="sealltainn">shealltainn</w>
+      <w id="_2-3_d2e10507" ref="an-part">an</w>
+      <w id="_2-3_d2e10510" ref="bi" tags="past">robh</w>
+      <w id="_2-3_d2e10513">doras</w>
+      <w id="_2-3_d2e10516">no</w>
+      <w id="_2-3_d2e10520">uinneag</w>
+      <w id="_2-3_d2e10523">fosgailte</w>
       <pc>,</pc>
-      <w id="_2-3_d2e10529" ref="ach">ach</w>
-      <w id="_2-3_d2e10532" ref="cha">cha</w>
-      <w id="_2-3_d2e10535" ref="bi">robh</w>
+      <w id="_2-3_d2e10529">ach</w>
+      <w id="_2-3_d2e10532">cha</w>
+      <w id="_2-3_d2e10535" ref="bi" tags="past">robh</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>“Robh sibh còmhla ri na daoine fad na tìde?” ars Eilidh.</gd>
-      <pc join="right">“</pc>
-      <w id="_2-3_d2e10547" ref="bi">Robh</w>
-      <w id="_2-3_d2e10550" ref="sibh">sibh</w>
-      <w id="_2-3_d2e10553" ref="còmhla">còmhla</w>
-      <w id="_2-3_d2e10557" ref="ri">ri</w>
+      <en>“Were you with the men the whole time?“ Helen asked.</en>
+      <pc>“</pc>
+      <w id="_2-3_d2e10546" ref="an-part" />
+      <w id="_2-3_d2e10547" ref="bi" tags="past" join="left">Robh</w>
+      <w id="_2-3_d2e10550">sibh</w>
+      <w id="_2-3_d2e10553">còmhla</w>
+      <w id="_2-3_d2e10557">ri</w>
       <w id="_2-3_d2e10560" ref="the">na</w>
-      <w id="_2-3_d2e10563" ref="duine">daoine</w>
-      <w id="_2-3_d2e10566" ref="fad">fad</w>
+      <w id="_2-3_d2e10563" ref="duine" tags="plural">daoine</w>
+      <w id="_2-3_d2e10565" ref="null-prep" />
+      <w id="_2-3_d2e10566">fad</w>
       <w id="_2-3_d2e10569" ref="the">na</w>
-      <w id="_2-3_d2e10572" ref="tìde">tìde</w>
-      <pc join="both">?</pc>
+      <w id="_2-3_d2e10572">tìde</w>
+      <pc>?</pc>
       <pc>”</pc>
       <w id="_2-3_d2e10582" ref="arsa">ars</w>
-      <w id="_2-3_d2e10585" ref="Eilidh">Eilidh</w>
+      <w id="_2-3_d2e10585">Eilidh</w>
       <pc>.</pc>
     </s>
   </p>
   <p>
     <s>
       <gd>“Cha do leig mi aon mhionaid às mo shealladh iad,” arsa mise.</gd>
-      <pc join="right">“</pc>
-      <w id="_2-3_d2e10599" ref="cha">Cha</w>
-      <w id="_2-3_d2e10602" ref="do">do</w>
-      <w id="_2-3_d2e10605" ref="leig">leig</w>
-      <w id="_2-3_d2e10608" ref="mi">mi</w>
-      <w id="_2-3_d2e10612" ref="aon">aon</w>
+      <en>“I didn’t let them out of my sight for one minute,” I said.</en>
+      <pc>“</pc>
+      <w id="_2-3_d2e10599" ref="cha" join="left">Cha</w>
+      <w id="_2-3_d2e10602" ref="do-part">do</w>
+      <w id="_2-3_d2e10605">leig</w>
+      <w id="_2-3_d2e10608">mi</w>
+      <w id="_2-3_d2e10612">aon</w>
       <w id="_2-3_d2e10615" ref="mionaid">mhionaid</w>
       <w id="_2-3_d2e10618" ref="à">às</w>
-      <w id="_2-3_d2e10621" ref="mo">mo</w>
+      <w id="_2-3_d2e10621">mo</w>
       <w id="_2-3_d2e10624" ref="sealladh">shealladh</w>
-      <w id="_2-3_d2e10627" ref="iad">iad</w>
-      <pc join="both">,</pc>
+      <w id="_2-3_d2e10627">iad</w>
+      <pc>,</pc>
       <pc>”</pc>
-      <w id="_2-3_d2e10637" ref="arsa">arsa</w>
+      <w id="_2-3_d2e10637">arsa</w>
       <w id="_2-3_d2e10640" ref="mi">mise</w>
       <pc>.</pc>
     </s>
@@ -883,230 +888,251 @@
   <p>
     <s>
       <gd>Cha b’ fhada gus an tàinig dà lorg-phoileas agus abair gun rinn iad sgrùdadh ormsa.”</gd>
+      <en>“It was not long until two police detectives came and they really examined me.”</en>
       <w id="_2-3_d2e10651" ref="cha">Cha</w>
-      <w id="_2-3_d2e10654" ref="is">b’</w>
+      <w id="_2-3_d2e10654" ref="is" tags="past">b’</w>
       <w id="_2-3_d2e10657" ref="fada">fhada</w>
-      <w id="_2-3_d2e10660" ref="gus">gus</w>
-      <w id="_2-3_d2e10663" ref="an">an</w>
-      <w id="_2-3_d2e10667" ref="thig">tàinig</w>
-      <w id="_2-3_d2e10670" ref="dà">dà</w>
-      <w id="_2-3_d2e10673" ref="lorg">lorg</w>
-      <pc join="both">-</pc>
-      <w id="_2-3_d2e10679" ref="poileas">phoileas</w>
-      <w id="_2-3_d2e10682" ref="agus">agus</w>
-      <w id="_2-3_d2e10686" ref="abair">abair</w>
-      <pb n="15" img="2_Sgeulachdan_Dhoomhnaill_Alasdair/TD15.pdf" />
-      <w id="_2-3_d2e10691" ref="gun">gun</w>
-      <w id="_2-3_d2e10694" ref="dèan">rinn</w>
-      <w id="_2-3_d2e10697" ref="iad">iad</w>
-      <w id="_2-3_d2e10700" ref="sgrùdadh">sgrùdadh</w>
+      <w id="_2-3_d2e10660">gus</w>
+      <w id="_2-3_d2e10663" ref="an-part">an</w>
+      <w id="_2-3_d2e10667" ref="thig" tags="past">tàinig</w>
+      <w id="_2-3_d2e10670">dà</w>
+      <w id="_2-3_d2e10673">lorg</w>
+      <pc>-</pc>
+      <w id="_2-3_d2e10679" ref="poileas" join="left">phoileas</w>
+      <w id="_2-3_d2e10682">agus</w>
+      <w id="_2-3_d2e10686">abair</w>
+      <pb n="15" />
+      <w id="_2-3_d2e10691">gun</w>
+      <w id="_2-3_d2e10692" tags="an-part" />
+      <w id="_2-3_d2e10694" ref="dèan" tags="past">rinn</w>
+      <w id="_2-3_d2e10697">iad</w>
+      <w id="_2-3_d2e10700">sgrùdadh</w>
       <w id="_2-3_d2e10704" ref="air">ormsa</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Bha amharas aca gu robh gnothaich air choreigin agam ris an eucoir.</gd>
-      <w id="_2-3_d2e10712" ref="bi">Bha</w>
-      <w id="_2-3_d2e10715" ref="amharas">amharas</w>
+      <en>They had a suspicion that I had something or other to do with the crime.</en>
+      <w id="_2-3_d2e10712" ref="bi" tags="past">Bha</w>
+      <w id="_2-3_d2e10715">amharas</w>
       <w id="_2-3_d2e10718" ref="aig">aca</w>
       <w id="_2-3_d2e10722" ref="gun">gu</w>
-      <w id="_2-3_d2e10725" ref="bi">robh</w>
+      <w id="_2-3_d2e10725" ref="bi" tags="past">robh</w>
       <w id="_2-3_d2e10728" ref="gnothach">gnothaich</w>
-      <w id="_2-3_d2e10731" ref="air">air</w>
+      <w id="_2-3_d2e10731">air</w>
       <w id="_2-3_d2e10734" ref="coireigin">choreigin</w>
       <w id="_2-3_d2e10737" ref="aig">agam</w>
       <w id="_2-3_d2e10741" ref="ri">ris</w>
       <w id="_2-3_d2e10744" ref="the">an</w>
-      <w id="_2-3_d2e10747" ref="eucoir">eucoir</w>
+      <w id="_2-3_d2e10747">eucoir</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Ach nuair a chuala iad mo sgeulachd, mhothaich mi gun tug iad sùil air a chèile.</gd>
+      <en>But when they heard my story, I noticed that thy glanced at each other.</en>
       <w id="_2-3_d2e10755" ref="ach">Ach</w>
-      <w id="_2-3_d2e10759" ref="nuair">nuair</w>
+      <w id="_2-3_d2e10759">nuair</w>
       <w id="_2-3_d2e10762" ref="rx">a</w>
-      <w id="_2-3_d2e10765" ref="cluinn">chuala</w>
-      <w id="_2-3_d2e10768" ref="iad">iad</w>
-      <w id="_2-3_d2e10771" ref="mo">mo</w>
-      <w id="_2-3_d2e10774" ref="sgeulachd">sgeulachd</w>
+      <w id="_2-3_d2e10765" ref="cluinn" tags="past">chuala</w>
+      <w id="_2-3_d2e10768">iad</w>
+      <w id="_2-3_d2e10771">mo</w>
+      <w id="_2-3_d2e10774">sgeulachd</w>
       <pc>,</pc>
-      <w id="_2-3_d2e10781" ref="mothaich">mhothaich</w>
-      <w id="_2-3_d2e10784" ref="mi">mi</w>
-      <w id="_2-3_d2e10787" ref="gun">gun</w>
-      <w id="_2-3_d2e10790" ref="thoir">tug</w>
-      <w id="_2-3_d2e10793" ref="iad">iad</w>
-      <w id="_2-3_d2e10797" ref="sùil">sùil</w>
-      <w id="_2-3_d2e10800" ref="air">air</w>
-      <w id="_2-3_d2e10803" ref="a">a</w>
+      <w id="_2-3_d2e10781" ref="mothaich" tags="past">mhothaich</w>
+      <w id="_2-3_d2e10784">mi</w>
+      <w id="_2-3_d2e10787">gun</w>
+      <w id="_2-3_d2e10790" ref="thoir" tags="past">tug</w>
+      <w id="_2-3_d2e10793">iad</w>
+      <w id="_2-3_d2e10797">sùil</w>
+      <w id="_2-3_d2e10800">air</w>
+      <w id="_2-3_d2e10803" ref="de">a</w>
       <w id="_2-3_d2e10806" ref="cèile">chèile</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Thuirt an dara fear rium: “Cha leig thu leas a bhith gad àrach fhèin.</gd>
-      <w id="_2-3_d2e10815" ref="abair">Thuirt</w>
+      <en>The second one said to me: “You needn’t bother blaming yourself.</en>
+      <w id="_2-3_d2e10815" ref="abair" tags="past">Thuirt</w>
       <w id="_2-3_d2e10818" ref="the">an</w>
       <w id="_2-3_d2e10821" ref="dàrna">dara</w>
-      <w id="_2-3_d2e10824" ref="fear">fear</w>
+      <w id="_2-3_d2e10824">fear</w>
       <w id="_2-3_d2e10827" ref="ri">rium</w>
       <pc>:</pc>
-      <pc join="right">“</pc>
+      <pc join="no">“</pc>
       <w id="_2-3_d2e10839" ref="cha">Cha</w>
-      <w id="_2-3_d2e10842" ref="leig">leig</w>
-      <w id="_2-3_d2e10845" ref="thu">thu</w>
-      <w id="_2-3_d2e10848" ref="leas">leas</w>
+      <w id="_2-3_d2e10842">leig</w>
+      <w id="_2-3_d2e10845">thu</w>
+      <w id="_2-3_d2e10848">leas</w>
       <w id="_2-3_d2e10852" ref="x">a</w>
-      <w id="_2-3_d2e10855" ref="bi">bhith</w>
-      <w id="_2-3_d2e10858" ref="ag">gad</w>
-      <w id="_2-3_d2e10861" ref="àraich">àrach</w>
-      <w id="_2-3_d2e10864" ref="fèin">fhèin</w>
+      <w id="_2-3_d2e10855" ref="bith">bhith</w>
+      <w id="_2-3_d2e10858" ref="ag">ga</w>
+      <w id="_2-3_d2e10859" ref="do-poss" join="left">d</w>
+      <w id="_2-3_d2e10861">àrach</w>
+      <w id="_2-3_d2e10864">fhèin</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Tha an dearbh rud air tachairt sa bhaile dà thuras an t-seachdain seo.</gd>
-      <w id="_2-3_d2e10873" ref="bi">Tha</w>
+      <en>The same thing happened in the town twice this week.</en>
+      <w id="_2-3_d2e10873" ref="bi" tags="present">Tha</w>
       <w id="_2-3_d2e10876" ref="the">an</w>
-      <w id="_2-3_d2e10879" ref="dearbh">dearbh</w>
-      <w id="_2-3_d2e10882" ref="rud">rud</w>
-      <w id="_2-3_d2e10885" ref="air">air</w>
-      <w id="_2-3_d2e10889" ref="tachair">tachairt</w>
-      <w id="_2-3_d2e10892" ref="an">sa</w>
+      <w id="_2-3_d2e10879">dearbh</w>
+      <w id="_2-3_d2e10882">rud</w>
+      <w id="_2-3_d2e10885">air</w>
+      <w id="_2-3_d2e10889">tachairt</w>
+      <w id="_2-3_d2e10892" ref="an-prep">s</w>
+      <w id="_2-3_d2e10893" ref="the" join="left">a</w>
       <w id="_2-3_d2e10895" ref="baile">bhaile</w>
-      <w id="_2-3_d2e10898" ref="dà">dà</w>
+      <w id="_2-3_d2e10898">dà</w>
       <w id="_2-3_d2e10901" ref="turas">thuras</w>
       <w id="_2-3_d2e10904" ref="the">an</w>
       <w id="_2-3_d2e10908" ref="seachdain">t-seachdain</w>
-      <w id="_2-3_d2e10911" ref="seo">seo</w>
-      <pc join="both">.</pc>
+      <w id="_2-3_d2e10911">seo</w>
+      <pc>.</pc>
       <pc>”</pc>
     </s>
   </p>
   <p>
     <s>
       <gd>“Dè mar a fhuair iad a-steach?” dh’fhaighnich Murchadh.</gd>
-      <pc join="right">“</pc>
-      <w id="_2-3_d2e10929" ref="dè">Dè</w>
-      <w id="_2-3_d2e10932" ref="mar">mar</w>
+      <en>“How did they get in?” Murdo asked.</en>
+      <pc>“</pc>
+      <w id="_2-3_d2e10929" ref="dè" join="left">Dè</w>
+      <w id="_2-3_d2e10932">mar</w>
       <w id="_2-3_d2e10935" ref="rx">a</w>
-      <w id="_2-3_d2e10938" ref="faigh">fhuair</w>
-      <w id="_2-3_d2e10942" ref="iad">iad</w>
-      <w id="_2-3_d2e10945" ref="a-steach">a-steach</w>
-      <pc join="both">?</pc>
+      <w id="_2-3_d2e10938" ref="faigh" tags="past">fhuair</w>
+      <w id="_2-3_d2e10942">iad</w>
+      <w id="_2-3_d2e10945">a-steach</w>
+      <pc>?</pc>
       <pc>”</pc>
-      <w id="_2-3_d2e10954" ref="faighnich">dh’fhaighnich</w>
-      <w id="_2-3_d2e10957" ref="Murchadh">Murchadh</w>
+      <w id="_2-3_d2e10954" ref="faighnich" tags="past">dh’fhaighnich</w>
+      <w id="_2-3_d2e10957">Murchadh</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>“Chan eil comharradh sam bith gun bhris iad a-steach.”</gd>
-      <pc join="right">“</pc>
-      <w id="_2-3_d2e10969" ref="cha">Chan</w>
-      <w id="_2-3_d2e10972" ref="bi">eil</w>
-      <w id="_2-3_d2e10975" ref="comharradh">comharradh</w>
-      <w id="_2-3_d2e10979" ref="sam bith">sam bith</w>
-      <w id="_2-3_d2e10982" ref="gun">gun</w>
-      <w id="_2-3_d2e10985" ref="bris">bhris</w>
-      <w id="_2-3_d2e10988" ref="iad">iad</w>
-      <w id="_2-3_d2e10991" ref="a-steach">a-steach</w>
-      <pc join="both">.</pc>
+      <en>“There is no sign at all that they broke in.”</en>
+      <pc>“</pc>
+      <w id="_2-3_d2e10969" ref="cha" join="left">Chan</w>
+      <w id="_2-3_d2e10972" ref="bi" tags="present">eil</w>
+      <w id="_2-3_d2e10975">comharradh</w>
+      <w id="_2-3_d2e10979">sam</w>
+      <w id="_2-3_d2e10980">bith</w>
+      <w id="_2-3_d2e10982">gun</w>
+      <w id="_2-3_d2e10983" ref="do-part" />
+      <w id="_2-3_d2e10985" ref="bris" tags="past">bhris</w>
+      <w id="_2-3_d2e10988">iad</w>
+      <w id="_2-3_d2e10991">a-steach</w>
+      <pc>.</pc>
       <pc>”</pc>
     </s>
   </p>
   <p>
     <s>
       <gd>“Cha do bhris iad a-steach idir,” ars am poileasman.</gd>
-      <pc join="right">“</pc>
-      <w id="_2-3_d2e11009" ref="cha">Cha</w>
-      <w id="_2-3_d2e11012" ref="do">do</w>
-      <w id="_2-3_d2e11015" ref="bris">bhris</w>
-      <w id="_2-3_d2e11018" ref="iad">iad</w>
-      <w id="_2-3_d2e11022" ref="a-steach">a-steach</w>
-      <w id="_2-3_d2e11025" ref="idir">idir</w>
-      <pc join="both">,</pc>
+      <en>“They didn’t break in at all,” said the policeman.</en>
+      <pc>“</pc>
+      <w id="_2-3_d2e11009" ref="cha" join="left">Cha</w>
+      <w id="_2-3_d2e11012" ref="do-part">do</w>
+      <w id="_2-3_d2e11015" ref="bris" tags="past">bhris</w>
+      <w id="_2-3_d2e11018">iad</w>
+      <w id="_2-3_d2e11022">a-steach</w>
+      <w id="_2-3_d2e11025">idir</w>
+      <pc>,</pc>
       <pc>”</pc>
       <w id="_2-3_d2e11034" ref="arsa">ars</w>
       <w id="_2-3_d2e11037" ref="the">am</w>
-      <w id="_2-3_d2e11041" ref="poileasman">poileasman</w>
+      <w id="_2-3_d2e11041">poileasman</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>“Tha iad nas teòma na sin.</gd>
-      <pc join="right">“</pc>
-      <w id="_2-3_d2e11052" ref="bi">Tha</w>
-      <w id="_2-3_d2e11055" ref="iad">iad</w>
-      <w id="_2-3_d2e11059" ref="na">nas</w>
-      <w id="_2-3_d2e11062" ref="teòma">teòma</w>
-      <!-- ingenious -->
-      <w id="_2-3_d2e11067" ref="na">na</w>
-      <w id="_2-3_d2e11070" ref="sin">sin</w>
+      <en>“The were more ingenious than that.</en>
+      <pc>“</pc>
+      <w id="_2-3_d2e11052" ref="bi" tags="present" join="left">Tha</w>
+      <w id="_2-3_d2e11055">iad</w>
+      <w id="_2-3_d2e11059" ref="rx">na</w>
+      <w id="_2-3_d2e11060" ref="is" join="left">s</w>
+      <w id="_2-3_d2e11062">teòma</w>
+      <w id="_2-3_d2e11067">na</w>
+      <w id="_2-3_d2e11070">sin</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Tha sinne cinnteach dè mar a tha iad ga dhèanamh.</gd>
-      <w id="_2-3_d2e11079" ref="bi">Tha</w>
+      <en>We are sure how they are doing it.</en>
+      <w id="_2-3_d2e11079" ref="bi" tags="present">Tha</w>
       <w id="_2-3_d2e11082" ref="sinn">sinne</w>
-      <w id="_2-3_d2e11085" ref="cinnteach">cinnteach</w>
-      <w id="_2-3_d2e11088" ref="dè">dè</w>
-      <w id="_2-3_d2e11091" ref="mar">mar</w>
+      <w id="_2-3_d2e11085">cinnteach</w>
+      <w id="_2-3_d2e11088">dè</w>
+      <w id="_2-3_d2e11091">mar</w>
       <w id="_2-3_d2e11095" ref="rx">a</w>
-      <w id="_2-3_d2e11098" ref="bi">tha</w>
-      <w id="_2-3_d2e11101" ref="iad">iad</w>
-      <w id="_2-3_d2e11104" ref="ag">ga</w>
-      <w id="_2-3_d2e11107" ref="dèan">dhèanamh</w>
+      <w id="_2-3_d2e11098" ref="bi" tags="present">tha</w>
+      <w id="_2-3_d2e11101">iad</w>
+      <w id="_2-3_d2e11104" ref="ag">g</w>
+      <w id="_2-3_d2e11105" ref="a-poss" join="left">a</w>
+      <w id="_2-3_d2e11107" ref="dèanamh">dhèanamh</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Nuair a thig iad leis an àirneis, bidh duine beag aca na bhroinn.</gd>
+      <en>When they come with the furniture, they have a small person inside it.</en>
       <w id="_2-3_d2e11116" ref="nuair">Nuair</w>
       <w id="_2-3_d2e11119" ref="rx">a</w>
-      <w id="_2-3_d2e11122" ref="thig">thig</w>
-      <w id="_2-3_d2e11125" ref="iad">iad</w>
+      <w id="_2-3_d2e11122">thig</w>
+      <w id="_2-3_d2e11125">iad</w>
       <w id="_2-3_d2e11128" ref="le">leis</w>
       <w id="_2-3_d2e11132" ref="the">an</w>
-      <w id="_2-3_d2e11135" ref="àirneis">àirneis</w>
+      <w id="_2-3_d2e11135">àirneis</w>
       <pc>,</pc>
       <w id="_2-3_d2e11141" ref="bi">bidh</w>
-      <w id="_2-3_d2e11144" ref="duine">duine</w>
-      <w id="_2-3_d2e11147" ref="beag">beag</w>
+      <w id="_2-3_d2e11144">duine</w>
+      <w id="_2-3_d2e11147">beag</w>
       <w id="_2-3_d2e11151" ref="aig">aca</w>
-      <w id="_2-3_d2e11154" ref="an">na</w>
+      <w id="_2-3_d2e11154" ref="an-prep">n</w>
+      <w id="_2-3_d2e11155" ref="a-poss" join="left">a</w>
       <w id="_2-3_d2e11157" ref="brù">bhroinn</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Mus till iad ga iarraidh bidh esan air am preas aodaich a lìonadh, agus bidh e fhèin
         còmhla ris an stuth nuair a dh’fhalbhas an dithis eile leis a’ phreas aodaich.”</gd>
+      <en>Before they return to fetch it he fills up the wardrobe, and he himself will be with the
+        stuff when the two others leave with the wardrobe.</en>
       <w id="_2-3_d2e11165" ref="mus">Mus</w>
-      <w id="_2-3_d2e11169" ref="till">till</w>
-      <w id="_2-3_d2e11172" ref="iad">iad</w>
-      <w id="_2-3_d2e11175" ref="ag">ga</w>
-      <w id="_2-3_d2e11178" ref="iarr">iarraidh</w>
+      <w id="_2-3_d2e11169">till</w>
+      <w id="_2-3_d2e11172">iad</w>
+      <w id="_2-3_d2e11175" ref="do-prep">g</w>
+      <w id="_2-3_d2e11176" ref="a-poss" join="left">a</w>
+      <w id="_2-3_d2e11178">iarraidh</w>
       <w id="_2-3_d2e11181" ref="bi">bidh</w>
       <w id="_2-3_d2e11184" ref="e">esan</w>
-      <w id="_2-3_d2e11188" ref="air">air</w>
+      <w id="_2-3_d2e11188">air</w>
       <w id="_2-3_d2e11191" ref="the">am</w>
-      <w id="_2-3_d2e11194" ref="preas">preas</w>
+      <w id="_2-3_d2e11194">preas</w>
       <w id="_2-3_d2e11197" ref="aodach">aodaich</w>
       <w id="_2-3_d2e11200" ref="x">a</w>
-      <w id="_2-3_d2e11203" ref="lìon">lìonadh</w>
+      <w id="_2-3_d2e11203">lìonadh</w>
       <pc>,</pc>
-      <w id="_2-3_d2e11210" ref="agus">agus</w>
+      <w id="_2-3_d2e11210">agus</w>
       <w id="_2-3_d2e11213" ref="bi">bidh</w>
-      <w id="_2-3_d2e11216" ref="e">e</w>
-      <w id="_2-3_d2e11219" ref="fèin">fhèin</w>
-      <w id="_2-3_d2e11222" ref="còmhla">còmhla</w>
+      <w id="_2-3_d2e11216">e</w>
+      <w id="_2-3_d2e11219">fhèin</w>
+      <w id="_2-3_d2e11222">còmhla</w>
       <w id="_2-3_d2e11226" ref="ri">ris</w>
       <w id="_2-3_d2e11229" ref="the">an</w>
-      <w id="_2-3_d2e11232" ref="stuth">stuth</w>
-      <w id="_2-3_d2e11235" ref="nuair">nuair</w>
+      <w id="_2-3_d2e11232">stuth</w>
+      <w id="_2-3_d2e11235">nuair</w>
       <w id="_2-3_d2e11238" ref="rx">a</w>
       <w id="_2-3_d2e11241" ref="falbh">dh’fhalbhas</w>
       <w id="_2-3_d2e11245" ref="the">an</w>
-      <w id="_2-3_d2e11248" ref="dithis">dithis</w>
-      <w id="_2-3_d2e11251" ref="eile">eile</w>
+      <w id="_2-3_d2e11248">dithis</w>
+      <w id="_2-3_d2e11251">eile</w>
       <w id="_2-3_d2e11254" ref="le">leis</w>
       <w id="_2-3_d2e11257" ref="the">a’</w>
       <w id="_2-3_d2e11260" ref="preas">phreas</w>
       <w id="_2-3_d2e11264" ref="aodach">aodaich</w>
-      <pc join="both">.</pc>
+      <pc>.</pc>
       <pc>”</pc>
     </s>
   </p>
@@ -1114,44 +1140,48 @@
     <s>
       <gd>Nuair a bha iad a’ falbh, dh’fhaighnich fear aca dhomh na mhothaich mi an robh miotagan
         air na daoine, agus thuirt mi gu robh.</gd>
+      <en>When they were leaving, one of them asked me whether I had noticed if the men had been
+        wearing gloves, and I said that they had.</en>
       <w id="_2-3_d2e11278" ref="nuair">Nuair</w>
       <w id="_2-3_d2e11281" ref="rx">a</w>
-      <w id="_2-3_d2e11284" ref="bi">bha</w>
-      <w id="_2-3_d2e11287" ref="iad">iad</w>
+      <w id="_2-3_d2e11284" ref="bi" tags="past">bha</w>
+      <w id="_2-3_d2e11287">iad</w>
       <w id="_2-3_d2e11290" ref="ag">a’</w>
-      <w id="_2-3_d2e11294" ref="falbh">falbh</w>
+      <w id="_2-3_d2e11294">falbh</w>
       <pc>,</pc>
-      <w id="_2-3_d2e11300" ref="faighnich">dh’fhaighnich</w>
-      <w id="_2-3_d2e11303" ref="fear">fear</w>
+      <w id="_2-3_d2e11300" ref="faighnich" tags="past">dh’fhaighnich</w>
+      <w id="_2-3_d2e11303">fear</w>
       <w id="_2-3_d2e11306" ref="aig">aca</w>
-      <w id="_2-3_d2e11309" ref="do">dhomh</w>
-      <w id="_2-3_d2e11313" ref="na">na</w>
-      <w id="_2-3_d2e11316" ref="mothaich">mhothaich</w>
-      <w id="_2-3_d2e11319" ref="mi">mi</w>
-      <w id="_2-3_d2e11322" ref="an">an</w>
-      <w id="_2-3_d2e11325" ref="bi">robh</w>
-      <w id="_2-3_d2e11328" ref="miotag">miotagan</w>
-      <w id="_2-3_d2e11332" ref="air">air</w>
+      <w id="_2-3_d2e11309" ref="do-prep">dhomh</w>
+      <w id="_2-3_d2e11313" ref="an-part">n</w>
+      <w id="_2-3_d2e11314" ref="do-part" join="left">a</w>
+      <w id="_2-3_d2e11316" ref="mothaich" tags="past">mhothaich</w>
+      <w id="_2-3_d2e11319">mi</w>
+      <w id="_2-3_d2e11322" ref="an-part">an</w>
+      <w id="_2-3_d2e11325" ref="bi" tags="past">robh</w>
+      <w id="_2-3_d2e11328" ref="miotag" tags="plural">miotagan</w>
+      <w id="_2-3_d2e11332">air</w>
       <w id="_2-3_d2e11335" ref="the">na</w>
-      <w id="_2-3_d2e11338" ref="duine">daoine</w>
+      <w id="_2-3_d2e11338" ref="duine" tags="plural">daoine</w>
       <pc>,</pc>
-      <w id="_2-3_d2e11344" ref="agus">agus</w>
-      <w id="_2-3_d2e11347" ref="abair">thuirt</w>
-      <w id="_2-3_d2e11351" ref="mi">mi</w>
+      <w id="_2-3_d2e11344">agus</w>
+      <w id="_2-3_d2e11347" ref="abair" tags="past">thuirt</w>
+      <w id="_2-3_d2e11351">mi</w>
       <w id="_2-3_d2e11354" ref="gun">gu</w>
-      <w id="_2-3_d2e11357" ref="bi">robh</w>
+      <w id="_2-3_d2e11357" ref="bi" tags="past">robh</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>“Cha tug iad dhiubh idir iad?” ars esan.</gd>
-      <pc join="right">“</pc>
-      <w id="_2-3_d2e11369" ref="cha">Cha</w>
-      <w id="_2-3_d2e11372" ref="thoir">tug</w>
-      <w id="_2-3_d2e11375" ref="iad">iad</w>
+      <en>“They didn’t take them off at all?” he said.</en>
+      <pc>“</pc>
+      <w id="_2-3_d2e11369" ref="cha" join="left">Cha</w>
+      <w id="_2-3_d2e11372" ref="thoir" tags="past">tug</w>
+      <w id="_2-3_d2e11375">iad</w>
       <w id="_2-3_d2e11378" ref="de">dhiubh</w>
-      <w id="_2-3_d2e11381" ref="idir">idir</w>
-      <w id="_2-3_d2e11384" ref="iad">iad</w>
-      <pc join="both">?</pc>
+      <w id="_2-3_d2e11381">idir</w>
+      <w id="_2-3_d2e11384">iad</w>
+      <pc>?</pc>
       <pc>”</pc>
       <w id="_2-3_d2e11394" ref="arsa">ars</w>
       <w id="_2-3_d2e11397" ref="e">esan</w>
@@ -1162,91 +1192,99 @@
     <s>
       <gd>Chuimhnich mi an uair sin air a’ chofaidh a thug mi dhaibh, agus gun teagamh thug iad
         dhiubh na miotagan fhad ’s a bha iad ga òl.</gd>
-      <w id="_2-3_d2e11408" ref="cuimhnich">Chuimhnich</w>
-      <w id="_2-3_d2e11411" ref="mi">mi</w>
+      <en>I remembered then the coffee that I had given them, and without doubt they had taken off
+        the gloves while they were drinking it.</en>
+      <w id="_2-3_d2e11408" ref="cuimhnich" tags="past">Chuimhnich</w>
+      <w id="_2-3_d2e11411">mi</w>
       <w id="_2-3_d2e11414" ref="the">an</w>
-      <w id="_2-3_d2e11417" ref="uair">uair</w>
-      <w id="_2-3_d2e11420" ref="sin">sin</w>
-      <w id="_2-3_d2e11424" ref="air">air</w>
+      <w id="_2-3_d2e11417">uair</w>
+      <w id="_2-3_d2e11420">sin</w>
+      <w id="_2-3_d2e11424">air</w>
       <w id="_2-3_d2e11427" ref="the">a’</w>
       <w id="_2-3_d2e11430" ref="cofaidh">chofaidh</w>
       <w id="_2-3_d2e11433" ref="rx">a</w>
-      <w id="_2-3_d2e11436" ref="thoir">thug</w>
-      <w id="_2-3_d2e11439" ref="mi">mi</w>
-      <w id="_2-3_d2e11443" ref="do">dhaibh</w>
+      <w id="_2-3_d2e11436" ref="thoir" tags="past">thug</w>
+      <w id="_2-3_d2e11439">mi</w>
+      <w id="_2-3_d2e11443" ref="do-prep">dhaibh</w>
       <pc>,</pc>
-      <w id="_2-3_d2e11449" ref="agus">agus</w>
-      <w id="_2-3_d2e11452" ref="gun">gun</w>
-      <w id="_2-3_d2e11455" ref="teagamh">teagamh</w>
-      <w id="_2-3_d2e11458" ref="thoir">thug</w>
-      <w id="_2-3_d2e11462" ref="iad">iad</w>
+      <w id="_2-3_d2e11449">agus</w>
+      <w id="_2-3_d2e11452" ref="gun-without">gun</w>
+      <w id="_2-3_d2e11455">teagamh</w>
+      <w id="_2-3_d2e11458" ref="thoir" tags="past">thug</w>
+      <w id="_2-3_d2e11462">iad</w>
       <w id="_2-3_d2e11465" ref="de">dhiubh</w>
       <w id="_2-3_d2e11468" ref="the">na</w>
-      <w id="_2-3_d2e11471" ref="miotag">miotagan</w>
+      <w id="_2-3_d2e11471" ref="miotag" tags="plural">miotagan</w>
       <w id="_2-3_d2e11474" ref="fad">fhad</w>
       <w id="_2-3_d2e11477" ref="agus">’s</w>
       <w id="_2-3_d2e11481" ref="rx">a</w>
-      <w id="_2-3_d2e11484" ref="bi">bha</w>
-      <w id="_2-3_d2e11487" ref="iad">iad</w>
-      <w id="_2-3_d2e11490" ref="ag">ga</w>
-      <w id="_2-3_d2e11493" ref="òl">òl</w>
+      <w id="_2-3_d2e11484" ref="bi" tags="past">bha</w>
+      <w id="_2-3_d2e11487">iad</w>
+      <w id="_2-3_d2e11490" ref="ag">g</w>
+      <w id="_2-3_d2e11491" ref="a-poss" join="left">a</w>
+      <w id="_2-3_d2e11493">òl</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Bha na mugaichean sa chidsin far na dh’fhàg mi iad gun an nighe, oir cha robh mi airson na
         daoine a leigeil às mo shealladh.</gd>
-      <w id="_2-3_d2e11502" ref="bi">Bha</w>
+      <en>The mugs were in the kitchen where I had left them without washing them, because I had not wanted the let the men out of my sight.</en>
+      <w id="_2-3_d2e11502" ref="bi" tags="past">Bha</w>
       <w id="_2-3_d2e11505" ref="the">na</w>
-      <w id="_2-3_d2e11508" ref="muga">mugaichean</w>
-      <w id="_2-3_d2e11511" ref="an">sa</w>
+      <w id="_2-3_d2e11508" ref="muga" tags="plural">mugaichean</w>
+      <w id="_2-3_d2e11511" ref="an-prep">s</w>
+      <w id="_2-3_d2e11512" ref="the" join="left">a</w>
       <w id="_2-3_d2e11514" ref="cidsin">chidsin</w>
-      <w id="_2-3_d2e11518" ref="far">far</w>
-      <w id="_2-3_d2e11521" ref="rx">na</w>
-      <w id="_2-3_d2e11524" ref="fàg">dh’fhàg</w>
-      <w id="_2-3_d2e11527" ref="mi">mi</w>
-      <w id="_2-3_d2e11530" ref="iad">iad</w>
-      <w id="_2-3_d2e11533" ref="gun">gun</w>
-      <w id="_2-3_d2e11537" ref="an">an</w>
-      <w id="_2-3_d2e11540" ref="nigh">nighe</w>
+      <w id="_2-3_d2e11518">far</w>
+      <w id="_2-3_d2e11521" ref="an-part">n</w>
+      <w id="_2-3_d2e11522" ref="do-part">a</w>
+      <w id="_2-3_d2e11524" ref="fàg" tags="past">dh’fhàg</w>
+      <w id="_2-3_d2e11527">mi</w>
+      <w id="_2-3_d2e11530">iad</w>
+      <w id="_2-3_d2e11533" ref="gun-without">gun</w>
+      <w id="_2-3_d2e11537" ref="an-poss">an</w>
+      <w id="_2-3_d2e11540">nighe</w>
       <pc>,</pc>
-      <w id="_2-3_d2e11546" ref="oir">oir</w>
-      <w id="_2-3_d2e11549" ref="cha">cha</w>
-      <w id="_2-3_d2e11552" ref="bi">robh</w>
-      <w id="_2-3_d2e11556" ref="mi">mi</w>
-      <w id="_2-3_d2e11559" ref="airson">airson</w>
+      <w id="_2-3_d2e11546">oir</w>
+      <w id="_2-3_d2e11549">cha</w>
+      <w id="_2-3_d2e11552" ref="bi" tags="past">robh</w>
+      <w id="_2-3_d2e11556">mi</w>
+      <w id="_2-3_d2e11559">air</w>
+      <w id="_2-3_d2e11560">son</w>
       <w id="_2-3_d2e11562" ref="the">na</w>
-      <w id="_2-3_d2e11565" ref="duine">daoine</w>
+      <w id="_2-3_d2e11565" ref="duine" tags="plural">daoine</w>
       <w id="_2-3_d2e11568" ref="x">a</w>
-      <w id="_2-3_d2e11571" ref="leig">leigeil</w>
+      <w id="_2-3_d2e11571">leigeil</w>
       <w id="_2-3_d2e11575" ref="à">às</w>
-      <w id="_2-3_d2e11578" ref="mo">mo</w>
+      <w id="_2-3_d2e11578">mo</w>
       <w id="_2-3_d2e11581" ref="sealladh">shealladh</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>’S ann mar sin a chaidh na h-eucoraich a dhìteadh.</gd>
+      <en>It was like that that the criminals were convicted.</en>
       <w id="_2-3_d2e11589" ref="is">’S</w>
-      <w id="_2-3_d2e11593" ref="an">ann</w>
-      <w id="_2-3_d2e11596" ref="mar">mar</w>
-      <w id="_2-3_d2e11599" ref="sin">sin</w>
+      <w id="_2-3_d2e11593" ref="an-prep">ann</w>
+      <w id="_2-3_d2e11596">mar</w>
+      <w id="_2-3_d2e11599">sin</w>
       <w id="_2-3_d2e11602" ref="rx">a</w>
-      <w id="_2-3_d2e11605" ref="rach">chaidh</w>
+      <w id="_2-3_d2e11605" ref="rach" tags="past">chaidh</w>
       <w id="_2-3_d2e11608" ref="the">na</w>
-      <w id="_2-3_d2e11612" ref="eucoireach">h-eucoraich</w>
+      <w id="_2-3_d2e11612" ref="eucoireach" tags="plural">h-eucoraich</w>
       <w id="_2-3_d2e11615" ref="x">a</w>
-      <w id="_2-3_d2e11618" ref="dìt">dhìteadh</w>
-      <!-- convict -->
+      <w id="_2-3_d2e11618" ref="dìteadh">dhìteadh</w>
       <pc>.</pc>
     </s>
     <s>
       <gd>Bha làraich am meuran air an dà mhuga. </gd>
+      <en>Their fingerprints were on the two mugs.</en>
       <w id="_2-3_d2e11629" ref="bi">Bha</w>
-      <w id="_2-3_d2e11632" ref="làrach">làraich</w>
-      <w id="_2-3_d2e11635" ref="an">am</w>
-      <w id="_2-3_d2e11638" ref="meur">meuran</w>
-      <w id="_2-3_d2e11641" ref="air">air</w>
+      <w id="_2-3_d2e11632" ref="làrach" tags="plural">làraich</w>
+      <w id="_2-3_d2e11635" ref="an-poss">am</w>
+      <w id="_2-3_d2e11638" ref="meur" tags="plural">meuran</w>
+      <w id="_2-3_d2e11641">air</w>
       <w id="_2-3_d2e11644" ref="the">an</w>
-      <w id="_2-3_d2e11648" ref="dà">dà</w>
+      <w id="_2-3_d2e11648">dà</w>
       <w id="_2-3_d2e11651" ref="muga">mhuga</w>
       <pc>.</pc>
     </s>
