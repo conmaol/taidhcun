@@ -639,323 +639,318 @@
       <pc>.</pc>
     </s>
   </p>
-
+  <p>
+    <s>
+      <gd>Tha so a’ dearbhadh gur h-e Gaidheil air fad a bh’ unnta agus tha
+        luchd-rannsachaidh de’n bheachd nach e gineil nan ceud Hiortach a bha san eilean an 1930 ge
+        b’ e air bith co as a thàinig iad.</gd>
+      <en>This shows that they were all Gaels and researchers are of the opinion that it was not the
+        progeny of the first Saint Kildans who were on the island in 1930 wherever they came from.</en>
+      <w id="_400-1-2_d2e50160" ref="bi" tags="present">Tha</w>
+      <w id="_400-1-2_d2e50163" ref="seo">so</w>
+      <w id="_400-1-2_d2e50166" ref="ag">a’</w>
+      <w id="_400-1-2_d2e50172">dearbhadh</w>
+      <w id="_400-1-2_d2e50176" ref="gun">gu</w>
+      <w id="_400-1-2_d2e50177" ref="is" join="left">r</w>
+      <w id="_400-1-2_d2e50185" ref="e">h-e</w>
+      <w id="_400-1-2_d2e50188" ref="Gàidheal" tags="plural">Gaidheil</w>
+      <w id="_400-1-2_d2e50191">air</w>
+      <w id="_400-1-2_d2e50195">fad</w>
+      <w id="_400-1-2_d2e50198" ref="rx">a</w>
+      <w id="_400-1-2_d2e50201" ref="bi" tags="past">bh’</w>
+      <w id="_400-1-2_d2e50207" ref="an-prep">unnta</w>
+      <w id="_400-1-2_d2e50210">agus</w>
+      <w id="_400-1-2_d2e50214" ref="bi" tags="present">tha</w>
+      <w id="_400-1-2_d2e50217">luchd</w>
+      <pc>-</pc>
+      <w id="_400-1-2_d2e50223" ref="rannsachadh" join="left">rannsachaidh</w>
+      <w id="_400-1-2_d2e50226">de</w>
+      <w id="_400-1-2_d2e50233" ref="the" join="left">’n</w>
+      <w id="_400-1-2_d2e50236" ref="beachd">bheachd</w>
+      <w id="_400-1-2_d2e50239">nach</w>
+      <w id="_400-1-2_d2e50242">e</w>
+      <w id="_400-1-2_d2e50245" ref="gineal" tags="plural">gineil</w>
+      <w id="_400-1-2_d2e50248" ref="the">nan</w>
+      <w id="_400-1-2_d2e50252" ref="ciad">ceud</w>
+      <w id="_400-1-2_d2e50255" tags="plural">Hiortach</w>
+      <w id="_400-1-2_d2e50258" ref="rx">a</w>
+      <w id="_400-1-2_d2e50261" ref="bi" tags="past">bha</w>
+      <w id="_400-1-2_d2e50264" ref="an-prep">s</w>
+      <w id="_400-1-2_d2e50265" ref="the" join="left">an</w>
+      <w id="_400-1-2_d2e50267">eilean</w>
+      <w id="_400-1-2_d2e50271" ref="an-prep">an</w>
+      <w id="_400-1-2_d2e50272">1930</w>
+      <w id="_400-1-2_d2e50276">ge</w>
+      <w id="_400-1-2_d2e50279" ref="is" tags="past">b’</w>
+      <w id="_400-1-2_d2e50285">e</w>
+      <w id="_400-1-2_d2e50289">air</w>
+      <w id="_400-1-2_d2e50292">bith</w>
+      <w id="_400-1-2_d2e50295" ref="cò">co</w>
+      <w id="_400-1-2_d2e50298" ref="à">as</w>
+      <w id="_400-1-2_d2e50301" ref="rx">a</w>
+      <w id="_400-1-2_d2e50304" ref="thig" tags="past">thàinig</w>
+      <w id="_400-1-2_d2e50308">iad</w>
+      <pc>.</pc>
+    </s>
+  </p>
+  <p>
+    <s>
+      <gd>Bha iad fhéin a’ smaoineachadh gur h-ann a Uidhist a thàinig an athraichean.</gd>
+      <en>They themselves thought that it was from Uist that their fathers came.</en>
+      <w id="_400-1-2_d2e50320" ref="bi" tags="past">Bha</w>
+      <w id="_400-1-2_d2e50323">iad</w>
+      <w id="_400-1-2_d2e50326" ref="fhèin">fhéin</w>
+      <w id="_400-1-2_d2e50329" ref="ag">a’</w>
+      <w id="_400-1-2_d2e50336">smaoineachadh</w>
+      <w id="_400-1-2_d2e50339" ref="gun">gu</w>
+      <w id="_400-1-2_d2e50340" ref="is" join="left">r</w>
+      <w id="_400-1-2_d2e50348" ref="an-prep">h-ann</w>
+      <w id="_400-1-2_d2e50351" ref="à">a</w>
+      <w id="_400-1-2_d2e50355" ref="Uibhist">Uidhist</w>
+      <w id="_400-1-2_d2e50358" ref="rx">a</w>
+      <w id="_400-1-2_d2e50361" ref="thig" tags="past">thàinig</w>
+      <w id="_400-1-2_d2e50364" ref="an-poss">an</w>
+      <w id="_400-1-2_d2e50367" ref="athair" tags="plural">athraichean</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Tha ainm no dhà an Hiort a tha nas sine na ám nan Lochlannach.</gd>
+      <en>There are one or two names in Saint Kilda that are older than the time of the Vikings.</en>
+      <w id="_400-1-2_d2e50376" ref="bi" tags="present">Tha</w>
+      <w id="_400-1-2_d2e50379">ainm</w>
+      <w id="_400-1-2_d2e50382">no</w>
+      <w id="_400-1-2_d2e50385" ref="dà">dhà</w>
+      <w id="_400-1-2_d2e50388" ref="an-prep">an</w>
+      <w id="_400-1-2_d2e50392">Hiort</w>
+      <w id="_400-1-2_d2e50395" ref="rx">a</w>
+      <w id="_400-1-2_d2e50398" ref="bi" tags="present">tha</w>
+      <w id="_400-1-2_d2e50401">na</w>
+      <w id="_400-1-2_d2e50402" ref="is" join="left">s</w>
+      <w id="_400-1-2_d2e50404" ref="sean" tags="comparative">sine</w>
+      <w id="_400-1-2_d2e50407">na</w>
+      <w id="_400-1-2_d2e50411" ref="àm">ám</w>
+      <w id="_400-1-2_d2e50414" ref="the">nan</w>
+      <w id="_400-1-2_d2e50417" tags="plural">Lochlannach</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Tha againn ainm an eilein fhéin bho’n t-seann
+        Ghàidhlig: hirt, irt, (i.e. bàs) ainm co-cheangailte ris gach cruaidh-chàs is fòirneart a
+        choinnicheadh neach troimh a bhith fuireach san àite iomallach so a tha, am beachd sluagh
+        Innse Gall, na dhubh-phrìosan ’s chan e pàrras (MacBhàtair).</gd>
+      <en>We have the name of the island itself from old Gaelic: hirt, irt (i.e. death) a name
+        connected with every hardship and violence that somepne would meet through living in this
+        remote place which is, in the opinion of the people of the Hebrides, a dark prison and not a
+        paradise.</en>
+      <w id="_400-1-2_d2e50426" ref="bi" tags="present">Tha</w>
+      <w id="_400-1-2_d2e50429" ref="aig">againn</w>
+      <w id="_400-1-2_d2e50432">ainm</w>
+      <w id="_400-1-2_d2e50435" ref="the">an</w>
+      <w id="_400-1-2_d2e50438" ref="eilean">eilein</w>
+      <w id="_400-1-2_d2e50442" ref="fhèin">fhéin</w>
+      <w id="_400-1-2_d2e50445">bho</w>
+      <w id="_400-1-2_d2e50451" ref="the" join="left">’n</w>
+      <w id="_400-1-2_d2e50461" ref="seann">t-seann</w>
+      <w id="_400-1-2_d2e50464" ref="Gàidhlig">Ghàidhlig</w>
+      <pc>:</pc>
+      <w id="_400-1-2_d2e50470">hirt</w>
+      <pc>,</pc>
+      <w id="_400-1-2_d2e50476">irt</w>
+      <pc>,</pc>
+      <pc join="no">(</pc>
+      <pc>i.e.</pc>
+      <w id="_400-1-2_d2e50488">bàs</w>
+      <pc>)</pc>
+      <w id="_400-1-2_d2e50494">ainm</w>
+      <w id="_400-1-2_d2e50504">co-cheangailte</w>
+      <w id="_400-1-2_d2e50507" ref="ri">ris</w>
+      <w id="_400-1-2_d2e50510">gach</w>
+      <w id="_400-1-2_d2e50513">cruaidh</w>
+      <pc>-</pc>
+      <w id="_400-1-2_d2e50520" ref="càs" join="left">chàs</w>
+      <w id="_400-1-2_d2e50523" ref="agus">is</w>
+      <w id="_400-1-2_d2e50526">fòirneart</w>
+      <w id="_400-1-2_d2e50529" ref="rx">a</w>
+      <w id="_400-1-2_d2e50532" ref="coinnich" tags="conditional">choinnicheadh</w>
+      <w id="_400-1-2_d2e50536">neach</w>
+      <w id="_400-1-2_d2e50539" ref="tro">troimh</w>
+      <w id="_400-1-2_d2e50542" ref="x">a</w>
+      <w id="_400-1-2_d2e50545" ref="bith">bhith</w>
+      <w id="_400-1-2_d2e50546" ref="ag" />
+      <w id="_400-1-2_d2e50548">fuireach</w>
+      <w id="_400-1-2_d2e50551" ref="an-prep">s</w>
+      <w id="_400-1-2_d2e50552" ref="the" join="left">an</w>
+      <w id="_400-1-2_d2e50555">àite</w>
+      <w id="_400-1-2_d2e50558">iomallach</w>
+      <w id="_400-1-2_d2e50561" ref="seo">so</w>
+      <w id="_400-1-2_d2e50564" ref="rx">a</w>
+      <w id="_400-1-2_d2e50567" ref="bi" tags="present">tha</w>
+      <pc>,</pc>
+      <w id="_400-1-2_d2e50574" ref="an-prep">am</w>
+      <w id="_400-1-2_d2e50577">beachd</w>
+      <w id="_400-1-2_d2e50580">sluagh</w>
+      <w id="_400-1-2_d2e50583" ref="innis" tags="plural">Innse</w>
+      <w id="_400-1-2_d2e50586">Gall</w>
+      <pc>,</pc>
+      <w id="_400-1-2_d2e50593" ref="an-prep">n</w>
+      <w id="_400-1-2_d2e50594" ref="a-poss" join="left">a</w>
+      <w id="_400-1-2_d2e50596" ref="dubh">dhubh</w>
+      <pc>-</pc>
+      <w id="_400-1-2_d2e50602" ref="prìosan" join="left">phrìosan</w>
+      <w id="_400-1-2_d2e50608" ref="agus">’s</w>
+      <w id="_400-1-2_d2e50612" ref="cha">chan</w>
+      <w id="_400-1-2_d2e50615">e</w>
+      <w id="_400-1-2_d2e50618" ref="pàrras">pàrras</w>
+      <pc join="no">(</pc>
+      <w id="_400-1-2_d2e50624" join="left">MacBhàtair</w>
+      <pc>)</pc>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Tha againn cuideachd Dun Fir Volg (i.e. Dun Fear Bholg)—Daingneach nam Fear
+        Bhalg.</gd>
+      <en>We also have Dun Fir Volg (i.e. Dun Fear Bholg)–Stronghold of the Bag Men.</en>
+      <w id="_400-1-2_d2e50637" ref="bi" tags="present">Tha</w>
+      <w id="_400-1-2_d2e50640" ref="aig">againn</w>
+      <w id="_400-1-2_d2e50643">cuideachd</w>
+      <w id="_400-1-2_d2e50644">Dun Fir Volg</w>
+      <pc join="no">(</pc>
+      <pc>i.e.</pc>
+      <w id="_400-1-2_d2e50654" ref="dùn">Dun</w>
+      <w id="_400-1-2_d2e50657" ref="fear">Fear</w>
+      <w id="_400-1-2_d2e50660" ref="balg">Bholg</w>
+      <pc>)</pc>
+      <pc>—</pc>
+      <w id="_400-1-2_d2e50670" ref="daingneach" join="left">Daingneach</w>
+      <w id="_400-1-2_d2e50673" ref="the">nam</w>
+      <w id="_400-1-2_d2e50676" ref="fear" tags="plural">Fear</w>
+      <w id="_400-1-2_d2e50679" ref="balg">Bhalg</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Thaobh an t-ainm St. Kilda, cha robh naomh air an robh an t-ainm is chan eil.</gd>
+      <en>Regarding the name St. Kilda, there was not and is not a saint of that name.</en>
+      <w id="_400-1-2_d2e50688" ref="taobh">Thaobh</w>
+      <w id="_400-1-2_d2e50691" ref="the">an</w>
+      <w id="_400-1-2_d2e50700" ref="ainm">t-ainm</w>
+      <w id="_400-1-2_d2e50701">St. Kilda</w>
+      <pc>,</pc>
+      <w id="_400-1-2_d2e50709">cha</w>
+      <w id="_400-1-2_d2e50712" ref="bi" tags="past">robh</w>
+      <w id="_400-1-2_d2e50715">naomh</w>
+      <w id="_400-1-2_d2e50718">air</w>
+      <w id="_400-1-2_d2e50722" ref="an-part">an</w>
+      <w id="_400-1-2_d2e50725" ref="bi" tags="past">robh</w>
+      <w id="_400-1-2_d2e50728" ref="the">an</w>
+      <w id="_400-1-2_d2e50737" ref="ainm">t-ainm</w>
+      <w id="_400-1-2_d2e50741" ref="agus">is</w>
+      <w id="_400-1-2_d2e50744" ref="cha">chan</w>
+      <w id="_400-1-2_d2e50747" ref="bi" tags="present">eil</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Tha am facal a’ ciallachadh “tobair”—Kelda ’s a’ chànain Lochlannaich—is tha e
+        r’ a fhaicinn an cairt mara Olaindeach (1666).</gd>
+      <en>The word means “well”–Kelda in the Norse language–and it is to be seen on a Dutch maritime
+        map (1666).</en>
+      <w id="_400-1-2_d2e50757" ref="bi" tags="present">Tha</w>
+      <w id="_400-1-2_d2e50760" ref="the">am</w>
+      <w id="_400-1-2_d2e50763">facal</w>
+      <w id="_400-1-2_d2e50766" ref="ag">a’</w>
+      <w id="_400-1-2_d2e50773">ciallachadh</w>
+      <pc join="no">“</pc>
+      <w id="_400-1-2_d2e50779" ref="tobar" join="left">tobair</w>
+      <pc>”</pc>
+      <pc>—</pc>
+      <w id="_400-1-2_d2e50780">Kelda</w>
+      <w id="_400-1-2_d2e50794" ref="an-prep">’s</w>
+      <w id="_400-1-2_d2e50797" ref="the">a’</w>
+      <w id="_400-1-2_d2e50803" ref="cànan">chànain</w>
+      <w id="_400-1-2_d2e50806" ref="Lochlannach">Lochlannaich</w>
+      <pc>—</pc>
+      <w id="_400-1-2_d2e50813" ref="agus" join="left">is</w>
+      <w id="_400-1-2_d2e50816" ref="bi" tags="present">tha</w>
+      <w id="_400-1-2_d2e50819">e</w>
+      <w id="_400-1-2_d2e50822" ref="ri">r’</w>
+      <w id="_400-1-2_d2e50829" ref="a-poss">a</w>
+      <w id="_400-1-2_d2e50832" ref="faicinn">fhaicinn</w>
+      <w id="_400-1-2_d2e50835" ref="an-prep">an</w>
+      <w id="_400-1-2_d2e50838" ref="cairt">cairt</w>
+      <w id="_400-1-2_d2e50841" ref="muir">mara</w>
+      <w id="_400-1-2_d2e50844">Olaindeach</w>
+      <pc join="no">(</pc>
+      <w id="_400-1-2_d2e50845" join="left">1666</w>
+      <pc>)</pc>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Tha an tobair faisg air an laimhrig far am biodh na h-Olaindich a’ tadhal nuair a bhiodh
+        iad ag iasgach ’s a’ chuan shiar san t-seachdamh linne deug.</gd>
+      <en>The well is near the harbour where the Dutch would visit when they would be fishing on the
+        Atlantic ocean in the seventeenth century.</en>
+      <w id="_400-1-2_d2e50862" ref="bi" tags="present">Tha</w>
+      <w id="_400-1-2_d2e50865" ref="the">an</w>
+      <w id="_400-1-2_d2e50868" ref="tobar">tobair</w>
+      <w id="_400-1-2_d2e50871">faisg</w>
+      <w id="_400-1-2_d2e50874">air</w>
+      <w id="_400-1-2_d2e50878" ref="the">an</w>
+      <w id="_400-1-2_d2e50881">laimhrig</w>
+      <w id="_400-1-2_d2e50884">far</w>
+      <w id="_400-1-2_d2e50887" ref="an-prep">am</w>
+      <w id="_400-1-2_d2e50890" ref="bi" tags="conditional">biodh</w>
+      <w id="_400-1-2_d2e50893" ref="the">na</w>
+      <w id="_400-1-2_d2e50903" ref="Olaindeach">h-Olaindich</w>
+      <w id="_400-1-2_d2e50906" ref="rx">a’</w>
+      <w id="_400-1-2_d2e50912">tadhal</w>
+      <w id="_400-1-2_d2e50916">nuair</w>
+      <w id="_400-1-2_d2e50919" ref="rx">a</w>
+      <w id="_400-1-2_d2e50922" ref="bi" tags="conditional">bhiodh</w>
+      <w id="_400-1-2_d2e50925">iad</w>
+      <w id="_400-1-2_d2e50928">ag</w>
+      <w id="_400-1-2_d2e50931">iasgach</w>
+      <w id="_400-1-2_d2e50938" ref="an-prep">’s</w>
+      <w id="_400-1-2_d2e50941" ref="the">a’</w>
+      <w id="_400-1-2_d2e50947" ref="cuan">chuan</w>
+      <w id="_400-1-2_d2e50950" ref="siar">shiar</w>
+      <w id="_400-1-2_d2e50954" ref="an-prep">s</w>
+      <w id="_400-1-2_d2e50955" ref="the" join="left">an</w>
+      <w id="_400-1-2_d2e50963" ref="seachdamh">t-seachdamh</w>
+      <w id="_400-1-2_d2e50966" ref="linn">linne</w>
+      <w id="_400-1-2_d2e50969">deug</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Tha cuideachd tighean fo thalamh ann is altairean pàganach
+        is tursachan cloiche a’ nochdadh làmh an duine is a làthaireachd bho shean.</gd>
+      <en>There are also underground houses and pagan altars and standing stones manifesting the hand of man
+        and his presence from old.</en>
+      <w id="_400-1-2_d2e50979" ref="bi" tags="present">Tha</w>
+      <w id="_400-1-2_d2e50982">cuideachd</w>
+      <w id="_400-1-2_d2e50985" ref="taigh" tags="plural">tighean</w>
+      <w id="_400-1-2_d2e50988">fo</w>
+      <w id="_400-1-2_d2e50991" ref="talamh">thalamh</w>
+      <w id="_400-1-2_d2e50995" ref="an-prep">ann</w>
+      <w id="_400-1-2_d2e50998" ref="agus">is</w>
+      <w id="_400-1-2_d2e51001" ref="altair" tags="plural">altairean</w>
+      <w id="_400-1-2_d2e51004">pàganach</w>
+      <w id="_400-1-2_d2e51007" ref="agus">is</w>
+      <w id="_400-1-2_d2e51010" ref="tursa" tags="plural">tursachan</w>
+      <w id="_400-1-2_d2e51014" ref="clach">cloiche</w>
+      <w id="_400-1-2_d2e51017" ref="ag">a’</w>
+      <w id="_400-1-2_d2e51023">nochdadh</w>
+      <w id="_400-1-2_d2e51026">làmh</w>
+      <w id="_400-1-2_d2e51029" ref="the">an</w>
+      <w id="_400-1-2_d2e51033">duine</w>
+      <w id="_400-1-2_d2e51036" ref="agus">is</w>
+      <w id="_400-1-2_d2e51039" ref="a-poss">a</w>
+      <w id="_400-1-2_d2e51042">làthaireachd</w>
+      <w id="_400-1-2_d2e51045">bho</w>
+      <w id="_400-1-2_d2e51048" ref="sean">shean</w>
+      <pc>.</pc>
+    </s>
+  </p>
 
   <!--
-
-  Tha so a’ dearbhadh gur h-e Gaidheil air fad a bh’ unnta agus tha luchd-rannsachaidh de’n bheachd
-  nach e gineil nan ceud Hiortach a bha san eilean an 1930 ge b’ e air bith co as a thàinig iad.
-
-  <p>
-
-    <w id="_400-1-2_d2e50160" ref="Tha">Tha</w>
-    <w id="_400-1-2_d2e50163" ref="seo">so</w>
-    <w id="_400-1-2_d2e50166" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-2_d2e50172" ref="dearbhadh">dearbhadh</w>
-    <w id="_400-1-2_d2e50176" ref="gun">gur</w>
-    <w id="_400-1-2_d2e50179" ref="h">h</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50185" ref="e">e</w>
-    <w id="_400-1-2_d2e50188" ref="Gàidheal">Gaidheil</w>
-    <w id="_400-1-2_d2e50191" ref="air">air</w>
-    <w id="_400-1-2_d2e50195" ref="fad">fad</w>
-    <w id="_400-1-2_d2e50198" ref="rx">a</w>
-    <w id="_400-1-2_d2e50201" ref="bh">bh</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-2_d2e50207" ref="unnta">unnta</w>
-    <w id="_400-1-2_d2e50210" ref="agus">agus</w>
-    <w id="_400-1-2_d2e50214" ref="bi">tha</w>
-    <w id="_400-1-2_d2e50217" ref="luchd">luchd</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50223" ref="rannsachadh">rannsachaidh</w>
-    <w id="_400-1-2_d2e50226" ref="de">de</w>
-    <pc join="both">’</pc>
-    <w id="_400-1-2_d2e50233" ref="the">n</w>
-    <w id="_400-1-2_d2e50236" ref="beachd">bheachd</w>
-    <w id="_400-1-2_d2e50239" ref="nach">nach</w>
-    <w id="_400-1-2_d2e50242" ref="e">e</w>
-    <w id="_400-1-2_d2e50245" ref="gineil">gineil</w>
-    <w id="_400-1-2_d2e50248" ref="the">nan</w>
-    <w id="_400-1-2_d2e50252" ref="ceud">ceud</w>
-    <w id="_400-1-2_d2e50255" ref="Hiortach">Hiortach</w>
-    <w id="_400-1-2_d2e50258" ref="rx">a</w>
-    <w id="_400-1-2_d2e50261" ref="bi">bha</w>
-    <w id="_400-1-2_d2e50264" ref="an">san</w>
-    <w id="_400-1-2_d2e50267" ref="eilean">eilean</w>
-    <w id="_400-1-2_d2e50271" ref="the">an</w>
-    <o>1930</o>
-    <w id="_400-1-2_d2e50276" ref="ge">ge</w>
-    <w id="_400-1-2_d2e50279" ref="b">b</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-2_d2e50285" ref="e">e</w>
-    <w id="_400-1-2_d2e50289" ref="air">air</w>
-    <w id="_400-1-2_d2e50292" ref="bi">bith</w>
-    <w id="_400-1-2_d2e50295" ref="cò">co</w>
-    <w id="_400-1-2_d2e50298" ref="rx">as</w>
-    <w id="_400-1-2_d2e50301" ref="rx">a</w>
-    <w id="_400-1-2_d2e50304" ref="thig">thàinig</w>
-    <w id="_400-1-2_d2e50308" ref="iad">iad</w>
-    <pc join="left">.</pc>
-    <sb />
-  </p>
-  <p>
-Bha iad fhéin a’ smaoineachadh gur h-ann a Uidhist a thàinig an athraichean. Tha ainm no dhà an
-  Hiort a tha nas sine na ám nan Lochlannach. Tha againn ainm an eilein fhéin bho’n t-seann
-  Ghàidhlig: hirt, irt, (i.e. bàs) ainm co-cheangailte ris gach cruaidh-chàs is fòirneart a
-  choinnicheadh neach troimh a bhith fuireach san àite iomallach so a tha, am beachd sluagh Innse
-  Gall, na dhubh-phrìosan ’s chan e pàrras (MacBhàtair). Tha againn cuideachd <eng>Dun Fir Volg<gai>
-  (i.e. Dun Fear Bholg)—Daingneach nam Fear Bhalg. Thaobh an t-ainm <eng>St. Kilda,<gai> cha robh
-  naomh air an robh an t-ainm is chan eil. Tha am facal a’ ciallachadh “tobair”—<eng>Kelda<gai> ’s
-  a’ chànain Lochlannaich—is tha e r’ a fhaicinn an cairt mara Olaindeach (1666). Tha an tobair
-  faisg air an laimhrig far am biodh na h-Olaindich a’ tadhal nuair a bhiodh iad ag iasgach ’s a’
-  chuan shiar san t-seachdamh linne deug. Tha cuideachd tighean fo thalamh ann is altairean pàganach
-  is tursachan cloiche a’ nochdadh làmh an duine is a làthaireachd bho shean.
-
-    <w id="_400-1-2_d2e50320" ref="bi">Bha</w>
-    <w id="_400-1-2_d2e50323" ref="iad">iad</w>
-    <w id="_400-1-2_d2e50326" ref="fèin">fhéin</w>
-    <w id="_400-1-2_d2e50329" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-2_d2e50336" ref="smaoinich">smaoineachadh</w>
-    <w id="_400-1-2_d2e50339" ref="gun">gur</w>
-    <w id="_400-1-2_d2e50342" ref="h">h</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50348" ref="an">ann</w>
-    <w id="_400-1-2_d2e50351" ref="rx">a</w>
-    <w id="_400-1-2_d2e50355" ref="Uidhist">Uidhist</w>
-    <w id="_400-1-2_d2e50358" ref="rx">a</w>
-    <w id="_400-1-2_d2e50361" ref="thig">thàinig</w>
-    <w id="_400-1-2_d2e50364" ref="the">an</w>
-    <w id="_400-1-2_d2e50367" ref="athraichean">athraichean</w>
-    <pc join="left">.</pc>
-    <sb />
-
-    <w id="_400-1-2_d2e50376" ref="Tha">Tha</w>
-    <w id="_400-1-2_d2e50379" ref="ainm">ainm</w>
-    <w id="_400-1-2_d2e50382" ref="no">no</w>
-    <w id="_400-1-2_d2e50385" ref="dà">dhà</w>
-    <w id="_400-1-2_d2e50388" ref="the">an</w>
-    <w id="_400-1-2_d2e50392" ref="Hiort">Hiort</w>
-    <w id="_400-1-2_d2e50395" ref="rx">a</w>
-    <w id="_400-1-2_d2e50398" ref="bi">tha</w>
-    <w id="_400-1-2_d2e50401" ref="rx">nas</w>
-    <w id="_400-1-2_d2e50404" ref="sine">sine</w>
-    <w id="_400-1-2_d2e50407" ref="the">na</w>
-    <w id="_400-1-2_d2e50411" ref="àm">ám</w>
-    <w id="_400-1-2_d2e50414" ref="the">nan</w>
-    <w id="_400-1-2_d2e50417" ref="Lochlannach">Lochlannach</w>
-    <pc join="left">.</pc>
-    <sb />
-
-    <w id="_400-1-2_d2e50426" ref="Tha">Tha</w>
-    <w id="_400-1-2_d2e50429" ref="aig">againn</w>
-    <w id="_400-1-2_d2e50432" ref="ainm">ainm</w>
-    <w id="_400-1-2_d2e50435" ref="the">an</w>
-    <w id="_400-1-2_d2e50438" ref="eilean">eilein</w>
-    <w id="_400-1-2_d2e50442" ref="fèin">fhéin</w>
-    <w id="_400-1-2_d2e50445" ref="bho">bho</w>
-    <pc join="both">’</pc>
-    <w id="_400-1-2_d2e50451" ref="the">n</w>
-    <w id="_400-1-2_d2e50454" ref="t">t</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50461" ref="sean">seann</w>
-    <w id="_400-1-2_d2e50464" ref="Gàidhlig">Ghàidhlig</w>
-    <pc join="left">:</pc>
-    <w id="_400-1-2_d2e50470" ref="hirt">hirt</w>
-    <pc join="left">,</pc>
-    <w id="_400-1-2_d2e50476" ref="irt">irt</w>
-    <pc join="left">,</pc>
-    <pc join="right">(</pc>
-    <o>i.e.</o>
-    <w id="_400-1-2_d2e50488" ref="bàs">bàs</w>
-    <pc join="left">)</pc>
-    <w id="_400-1-2_d2e50494" ref="ainm">ainm</w>
-    <w id="_400-1-2_d2e50498" ref="cò">co</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50504" ref="ceangailte">cheangailte</w>
-    <w id="_400-1-2_d2e50507" ref="ri">ris</w>
-    <w id="_400-1-2_d2e50510" ref="gach">gach</w>
-    <w id="_400-1-2_d2e50513" ref="cruaidh">cruaidh</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50520" ref="chàs">chàs</w>
-    <w id="_400-1-2_d2e50523" ref="agus">is</w>
-    <w id="_400-1-2_d2e50526" ref="fòirneart">fòirneart</w>
-    <w id="_400-1-2_d2e50529" ref="rx">a</w>
-    <w id="_400-1-2_d2e50532" ref="choinnicheadh">choinnicheadh</w>
-    <w id="_400-1-2_d2e50536" ref="neach">neach</w>
-    <w id="_400-1-2_d2e50539" ref="tro">troimh</w>
-    <w id="_400-1-2_d2e50542" ref="rx">a</w>
-    <w id="_400-1-2_d2e50545" ref="bi">bhith</w>
-    <w id="_400-1-2_d2e50548" ref="fuirich">fuireach</w>
-    <w id="_400-1-2_d2e50551" ref="an">san</w>
-    <w id="_400-1-2_d2e50555" ref="àite">àite</w>
-    <w id="_400-1-2_d2e50558" ref="iomallach">iomallach</w>
-    <w id="_400-1-2_d2e50561" ref="seo">so</w>
-    <w id="_400-1-2_d2e50564" ref="rx">a</w>
-    <w id="_400-1-2_d2e50567" ref="bi">tha</w>
-    <pc join="left">,</pc>
-    <w id="_400-1-2_d2e50574" ref="the">am</w>
-    <w id="_400-1-2_d2e50577" ref="beachd">beachd</w>
-    <w id="_400-1-2_d2e50580" ref="sluagh">sluagh</w>
-    <w id="_400-1-2_d2e50583" ref="innis">Innse</w>
-    <w id="_400-1-2_d2e50586" ref="Gall">Gall</w>
-    <pc join="left">,</pc>
-    <w id="_400-1-2_d2e50593" ref="the">na</w>
-    <w id="_400-1-2_d2e50596" ref="dubh">dhubh</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50602" ref="prìosan">phrìosan</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-2_d2e50608" ref="is">s</w>
-    <w id="_400-1-2_d2e50612" ref="cha">chan</w>
-    <w id="_400-1-2_d2e50615" ref="e">e</w>
-    <w id="_400-1-2_d2e50618" ref="pàrras">pàrras</w>
-    <pc join="right">(</pc>
-    <w id="_400-1-2_d2e50624" ref="MacBhàtair">MacBhàtair</w>
-    <pc join="both">)</pc>
-    <pc join="left">.</pc>
-    <sb />
-
-    <w id="_400-1-2_d2e50637" ref="Tha">Tha</w>
-    <w id="_400-1-2_d2e50640" ref="aig">againn</w>
-    <w id="_400-1-2_d2e50643" ref="cuideachd">cuideachd</w>
-    <o>Dun Fir Volg</o>
-    <pc join="right">(</pc>
-    <o>i.e.</o>
-    <w id="_400-1-2_d2e50654" ref="dùn">Dun</w>
-    <w id="_400-1-2_d2e50657" ref="fear">Fear</w>
-    <w id="_400-1-2_d2e50660" ref="Bholg">Bholg</w>
-    <pc join="both">)</pc>
-    <pc join="both">—</pc>
-    <w id="_400-1-2_d2e50670" ref="Daingneach">Daingneach</w>
-    <w id="_400-1-2_d2e50673" ref="an">nam</w>
-    <w id="_400-1-2_d2e50676" ref="fear">Fear</w>
-    <w id="_400-1-2_d2e50679" ref="Bhalg">Bhalg</w>
-    <pc join="left">.</pc>
-    <sb />
-
-    <w id="_400-1-2_d2e50688" ref="taobh">Thaobh</w>
-    <w id="_400-1-2_d2e50691" ref="the">an</w>
-    <w id="_400-1-2_d2e50694" ref="t">t</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50700" ref="ainm">ainm</w>
-    <o>St. Kilda</o>
-    <pc join="left">,</pc>
-    <w id="_400-1-2_d2e50709" ref="cha">cha</w>
-    <w id="_400-1-2_d2e50712" ref="bi">robh</w>
-    <w id="_400-1-2_d2e50715" ref="naomh">naomh</w>
-    <w id="_400-1-2_d2e50718" ref="air">air</w>
-    <w id="_400-1-2_d2e50722" ref="the">an</w>
-    <w id="_400-1-2_d2e50725" ref="bi">robh</w>
-    <w id="_400-1-2_d2e50728" ref="the">an</w>
-    <w id="_400-1-2_d2e50731" ref="t">t</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50737" ref="ainm">ainm</w>
-    <w id="_400-1-2_d2e50741" ref="agus">is</w>
-    <w id="_400-1-2_d2e50744" ref="cha">chan</w>
-    <w id="_400-1-2_d2e50747" ref="bi">eil</w>
-    <pc join="left">.</pc>
-    <sb />
-
-    <w id="_400-1-2_d2e50757" ref="Tha">Tha</w>
-    <w id="_400-1-2_d2e50760" ref="the">am</w>
-    <w id="_400-1-2_d2e50763" ref="facal">facal</w>
-    <w id="_400-1-2_d2e50766" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-2_d2e50773" ref="ciallaich">ciallachadh</w>
-    <pc join="right">“</pc>
-    <w id="_400-1-2_d2e50779" ref="tobair">tobair</w>
-    <pc join="both">”</pc>
-    <pc join="both">—</pc>
-    <o>Kelda</o>
-    <pc join="right">’</pc>
-    <w id="_400-1-2_d2e50794" ref="is">s</w>
-    <w id="_400-1-2_d2e50797" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-2_d2e50803" ref="cànan">chànain</w>
-    <w id="_400-1-2_d2e50806" ref="Lochlannaich">Lochlannaich</w>
-    <pc join="both">—</pc>
-    <w id="_400-1-2_d2e50813" ref="agus">is</w>
-    <w id="_400-1-2_d2e50816" ref="bi">tha</w>
-    <w id="_400-1-2_d2e50819" ref="e">e</w>
-    <w id="_400-1-2_d2e50822" ref="r">r</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-2_d2e50829" ref="rx">a</w>
-    <w id="_400-1-2_d2e50832" ref="faic">fhaicinn</w>
-    <w id="_400-1-2_d2e50835" ref="the">an</w>
-    <w id="_400-1-2_d2e50838" ref="cairt">cairt</w>
-    <w id="_400-1-2_d2e50841" ref="muir">mara</w>
-    <w id="_400-1-2_d2e50844" ref="Olaindeach">Olaindeach</w>
-    <pc join="right">(</pc>
-    <o>1666</o>
-    <pc join="both">)</pc>
-    <pc join="left">.</pc>
-    <sb />
-
-    <w id="_400-1-2_d2e50862" ref="Tha">Tha</w>
-    <w id="_400-1-2_d2e50865" ref="the">an</w>
-    <w id="_400-1-2_d2e50868" ref="tobair">tobair</w>
-    <w id="_400-1-2_d2e50871" ref="faisg">faisg</w>
-    <w id="_400-1-2_d2e50874" ref="air">air</w>
-    <w id="_400-1-2_d2e50878" ref="the">an</w>
-    <w id="_400-1-2_d2e50881" ref="laimhrig">laimhrig</w>
-    <w id="_400-1-2_d2e50884" ref="far">far</w>
-    <w id="_400-1-2_d2e50887" ref="the">am</w>
-    <w id="_400-1-2_d2e50890" ref="bi">biodh</w>
-    <w id="_400-1-2_d2e50893" ref="the">na</w>
-    <w id="_400-1-2_d2e50897" ref="h">h</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50903" ref="Olaindich">Olaindich</w>
-    <w id="_400-1-2_d2e50906" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-2_d2e50912" ref="tadhail">tadhal</w>
-    <w id="_400-1-2_d2e50916" ref="nuair">nuair</w>
-    <w id="_400-1-2_d2e50919" ref="rx">a</w>
-    <w id="_400-1-2_d2e50922" ref="bi">bhiodh</w>
-    <w id="_400-1-2_d2e50925" ref="iad">iad</w>
-    <w id="_400-1-2_d2e50928" ref="ag">ag</w>
-    <w id="_400-1-2_d2e50931" ref="iasgach">iasgach</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-2_d2e50938" ref="is">s</w>
-    <w id="_400-1-2_d2e50941" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-2_d2e50947" ref="cuan">chuan</w>
-    <w id="_400-1-2_d2e50950" ref="siar">shiar</w>
-    <w id="_400-1-2_d2e50954" ref="an">san</w>
-    <w id="_400-1-2_d2e50957" ref="t">t</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-2_d2e50963" ref="seachdamh">seachdamh</w>
-    <w id="_400-1-2_d2e50966" ref="linne">linne</w>
-    <w id="_400-1-2_d2e50969" ref="deug">deug</w>
-    <pc join="left">.</pc>
-    <sb />
-
-    <w id="_400-1-2_d2e50979" ref="Tha">Tha</w>
-    <w id="_400-1-2_d2e50982" ref="cuideachd">cuideachd</w>
-    <w id="_400-1-2_d2e50985" ref="taigh">tighean</w>
-    <w id="_400-1-2_d2e50988" ref="fo">fo</w>
-    <w id="_400-1-2_d2e50991" ref="talamh">thalamh</w>
-    <w id="_400-1-2_d2e50995" ref="an">ann</w>
-    <w id="_400-1-2_d2e50998" ref="agus">is</w>
-    <w id="_400-1-2_d2e51001" ref="altairean">altairean</w>
-    <w id="_400-1-2_d2e51004" ref="pàganach">pàganach</w>
-    <w id="_400-1-2_d2e51007" ref="agus">is</w>
-    <w id="_400-1-2_d2e51010" ref="tursachan">tursachan</w>
-    <w id="_400-1-2_d2e51014" ref="clach">cloiche</w>
-    <w id="_400-1-2_d2e51017" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-2_d2e51023" ref="nochd">nochdadh</w>
-    <w id="_400-1-2_d2e51026" ref="làmh">làmh</w>
-    <w id="_400-1-2_d2e51029" ref="the">an</w>
-    <w id="_400-1-2_d2e51033" ref="duine">duine</w>
-    <w id="_400-1-2_d2e51036" ref="agus">is</w>
-    <w id="_400-1-2_d2e51039" ref="rx">a</w>
-    <w id="_400-1-2_d2e51042" ref="làthaireachd">làthaireachd</w>
-    <w id="_400-1-2_d2e51045" ref="bho">bho</w>
-    <w id="_400-1-2_d2e51048" ref="sean">shean</w>
-    <pc join="left">.</pc>
-    <sb />
-  </p>
   <p>
 Bha e ’na chleachdadh aig muinntir an eilein togalaichean beaga de bhallachan cloiche a’
   dhèanamh—‘cleitean,’ mar theireadh iad—chum am bàrr is an tràthach a thiormachadh is air son na
