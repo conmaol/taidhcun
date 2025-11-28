@@ -1197,7 +1197,7 @@
       <pc>,</pc>
       <w id="_400-1-3_d2e56038" ref="agus">’s</w>
       <w id="_400-1-3_d2e56041">e</w>
-      <w id="_400-1-3_d2e56042" ref="ag"/>
+      <w id="_400-1-3_d2e56042" ref="ag" />
       <w id="_400-1-3_d2e56044">dol</w>
       <w id="_400-1-3_d2e56048">seachad</w>
       <w id="_400-1-3_d2e56051" ref="air">oirre</w>
@@ -1208,466 +1208,535 @@
       <pc>.</pc>
     </s>
   </p>
+  <p>
+    <s>
+      <gd>Shuidh e aig ceann bòrd a’ chidsin, far an robh truinnsear lit is muga bainne a’ feitheamh
+        air.</gd>
+      <en>He sat down at the head of the kitchen table, where a plate of porridge and a mug of milk
+        was waiting for him.</en>
+      <w id="_400-1-3_d2e56076" ref="suidh" tags="past">Shuidh</w>
+      <w id="_400-1-3_d2e56079">e</w>
+      <w id="_400-1-3_d2e56082">aig</w>
+      <w id="_400-1-3_d2e56085">ceann</w>
+      <w id="_400-1-3_d2e56088">bòrd</w>
+      <w id="_400-1-3_d2e56092" ref="the">a’</w>
+      <w id="_400-1-3_d2e56098" ref="cidsin">chidsin</w>
+      <pc>,</pc>
+      <w id="_400-1-3_d2e56104">far</w>
+      <w id="_400-1-3_d2e56107" ref="an-part">an</w>
+      <w id="_400-1-3_d2e56111" ref="bi" tags="past">robh</w>
+      <w id="_400-1-3_d2e56114">truinnsear</w>
+      <w id="_400-1-3_d2e56117" ref="lite">lit</w>
+      <w id="_400-1-3_d2e56120" ref="agus">is</w>
+      <w id="_400-1-3_d2e56123">muga</w>
+      <w id="_400-1-3_d2e56126">bainne</w>
+      <w id="_400-1-3_d2e56130" ref="ag">a’</w>
+      <w id="_400-1-3_d2e56136">feitheamh</w>
+      <w id="_400-1-3_d2e56139">air</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Mar a bha e lomadh air a lit chuala e gloc cridheil bho Iain a mhac.</gd>
+      <en>As he was shearing his porridge he heard a hearty laugh from John his son.</en>
+      <w id="_400-1-3_d2e56145" ref="mar">Mar</w>
+      <w id="_400-1-3_d2e56149" ref="rx">a</w>
+      <w id="_400-1-3_d2e56152" ref="bi" tags="past">bha</w>
+      <w id="_400-1-3_d2e56155">e</w>
+      <w id="_400-1-3_d2e56156" ref="ag" />
+      <w id="_400-1-3_d2e56158">lomadh</w>
+      <w id="_400-1-3_d2e56161">air</w>
+      <w id="_400-1-3_d2e56164" ref="a-poss">a</w>
+      <w id="_400-1-3_d2e56168" ref="lite">lit</w>
+      <w id="_400-1-3_d2e56171" ref="cluinn" tags="past">chuala</w>
+      <w id="_400-1-3_d2e56174">e</w>
+      <w id="_400-1-3_d2e56177">gloc</w>
+      <w id="_400-1-3_d2e56180">cridheil</w>
+      <w id="_400-1-3_d2e56183">bho</w>
+      <w id="_400-1-3_d2e56187">Iain</w>
+      <w id="_400-1-3_d2e56190" ref="a-poss">a</w>
+      <w id="_400-1-3_d2e56193" ref="mac">mhac</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Thàinig e steach is sheas e am meadhon an làir is e cur thairis le gàireachdainn.</gd>
+      <en>He went insode and he stood in the middle of the floor, overcome with laughing.</en>
+      <w id="_400-1-3_d2e56199" ref="thig" tags="past">Thàinig</w>
+      <w id="_400-1-3_d2e56202">e</w>
+      <w id="_400-1-3_d2e56206" ref="a-steach">steach</w>
+      <w id="_400-1-3_d2e56209" ref="agus">is</w>
+      <w id="_400-1-3_d2e56212" ref="seas" tags="past">sheas</w>
+      <w id="_400-1-3_d2e56215">e</w>
+      <w id="_400-1-3_d2e56218" ref="an-prep">am</w>
+      <w id="_400-1-3_d2e56221" ref="meadhan">meadhon</w>
+      <w id="_400-1-3_d2e56225" ref="the">an</w>
+      <w id="_400-1-3_d2e56228" ref="làr">làir</w>
+      <w id="_400-1-3_d2e56231" ref="agus">is</w>
+      <w id="_400-1-3_d2e56234">e</w>
+      <w id="_400-1-3_d2e56235" ref="ag" />
+      <w id="_400-1-3_d2e56237">cur</w>
+      <w id="_400-1-3_d2e56240">thairis</w>
+      <w id="_400-1-3_d2e56244">le</w>
+      <w id="_400-1-3_d2e56247">gàireachdainn</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Nuair a fhuair Iain comas bruidhinn, “A dhuine bhochd,” ars esan, “am faca sibh a’ chearc
+        gheal ud, ’s i dol cho luath ris a’ Chomet?”</gd>
+      <en>When John found the ability to speak, “You poor man,” he said, “did you see that white
+        hen, going as fast as the Comet?”</en>
+      <w id="_400-1-3_d2e56253" ref="nuair">Nuair</w>
+      <w id="_400-1-3_d2e56256" ref="rx">a</w>
+      <w id="_400-1-3_d2e56259" ref="faigh" tags="past">fhuair</w>
+      <w id="_400-1-3_d2e56263">Iain</w>
+      <w id="_400-1-3_d2e56266">comas</w>
+      <w id="_400-1-3_d2e56269">bruidhinn</w>
+      <pc>,</pc>
+      <pc join="no">“</pc>
+      <w id="_400-1-3_d2e56278" ref="voc" join="left">A</w>
+      <w id="_400-1-3_d2e56282" ref="duine">dhuine</w>
+      <w id="_400-1-3_d2e56285" ref="bochd">bhochd</w>
+      <pc>,</pc>
+      <pc>”</pc>
+      <w id="_400-1-3_d2e56294" ref="arsa">ars</w>
+      <w id="_400-1-3_d2e56297" ref="e">esan</w>
+      <pc>,</pc>
+      <pc join="no">“</pc>
+      <w id="_400-1-3_d2e56307" ref="an-part" join="left">am</w>
+      <w id="_400-1-3_d2e56310" ref="faic" tags="past">faca</w>
+      <w id="_400-1-3_d2e56313">sibh</w>
+      <w id="_400-1-3_d2e56316" ref="the">a’</w>
+      <w id="_400-1-3_d2e56323" ref="cearc">chearc</w>
+      <w id="_400-1-3_d2e56326" ref="geal">gheal</w>
+      <w id="_400-1-3_d2e56329" ref="siud">ud</w>
+      <pc>,</pc>
+      <w id="_400-1-3_d2e56339" ref="agus">’s</w>
+      <w id="_400-1-3_d2e56342">i</w>
+      <w id="_400-1-3_d2e56343" ref="ag" />
+      <w id="_400-1-3_d2e56345">dol</w>
+      <w id="_400-1-3_d2e56348">cho</w>
+      <w id="_400-1-3_d2e56351">luath</w>
+      <w id="_400-1-3_d2e56354" ref="ri">ris</w>
+      <w id="_400-1-3_d2e56358" ref="the">a’</w>
+      <w id="_400-1-3_d2e56364" ref="Comet">Chomet</w>
+      <pc>?</pc>
+      <pc>”</pc>
+    </s>
+  </p>
+  <p>
+    <s>
+      <gd>“Uisd,” ars athair, “mus cluinn do mhàthair thu.”</gd>
+      <en>“Wheesht,” said his father, “before your mother hears you.”</en>
+      <pc>“</pc>
+      <w id="_400-1-3_d2e56379" ref="uist" join="left">Uisd</w>
+      <pc>,</pc>
+      <pc>”</pc>
+      <w id="_400-1-3_d2e56388" ref="arsa">ars</w>
+      <w id="_400-1-3_d2e56389" ref="a-poss" />
+      <w id="_400-1-3_d2e56392">athair</w>
+      <pc>,</pc>
+      <pc join="no">“</pc>
+      <w id="_400-1-3_d2e56401" join="left">mus</w>
+      <w id="_400-1-3_d2e56404">cluinn</w>
+      <w id="_400-1-3_d2e56407" ref="do-poss">do</w>
+      <w id="_400-1-3_d2e56411" ref="màthair">mhàthair</w>
+      <w id="_400-1-3_d2e56414">thu</w>
+      <pc>.</pc>
+      <pc>”</pc>
+    </s>
+    <s>
+      <gd>—Bha comhradh bhoireannach air taobh muigh an doruis, is Iain a’ glocadaich a stigh—</gd>
+      <en>–There was a female conversation outside the door, John guffawing inside–</en>
+      <pc>—</pc>
+      <w id="_400-1-3_d2e56426" ref="bi" tags="past" join="left">Bha</w>
+      <w id="_400-1-3_d2e56430" ref="còmhradh">comhradh</w>
+      <w id="_400-1-3_d2e56433" ref="boireannach">bhoireannach</w>
+      <w id="_400-1-3_d2e56436">air</w>
+      <w id="_400-1-3_d2e56439">taobh</w>
+      <w id="_400-1-3_d2e56442" ref="a-muigh">muigh</w>
+      <w id="_400-1-3_d2e56445" ref="the">an</w>
+      <w id="_400-1-3_d2e56449" ref="doras">doruis</w>
+      <pc>,</pc>
+      <w id="_400-1-3_d2e56455" ref="agus">is</w>
+      <w id="_400-1-3_d2e56458">Iain</w>
+      <w id="_400-1-3_d2e56461" ref="ag">a’</w>
+      <w id="_400-1-3_d2e56468">glocadaich</w>
+      <w id="_400-1-3_d2e56474" ref="a-staigh">a stigh</w>
+      <pc>—</pc>
+    </s>
+    <s>
+      <gd>“Bha Iain Beag a’ foighneachd,” ars Iain, “an ann ’ga sgiùrsadh sìos a thigh na bainnse a
+        bha thu.”</gd>
+      <en>“Little John was asking,” said John, “if you were scourging down his wedding house.”</en>
+      <pc>“</pc>
+      <w id="_400-1-3_d2e56483" ref="bi" tags="past" join="left">Bha</w>
+      <w id="_400-1-3_d2e56487">Iain</w>
+      <w id="_400-1-3_d2e56490" ref="beag">Beag</w>
+      <w id="_400-1-3_d2e56493" ref="ag">a’</w>
+      <w id="_400-1-3_d2e56499" ref="faighneachd">foighneachd</w>
+      <pc>,</pc>
+      <pc>”</pc>
+      <w id="_400-1-3_d2e56509" ref="arsa">ars</w>
+      <w id="_400-1-3_d2e56512">Iain</w>
+      <pc>,</pc>
+      <pc join="no">“</pc>
+      <w id="_400-1-3_d2e56521" ref="an-part" join="left">an</w>
+      <w id="_400-1-3_d2e56525" ref="an-prep">ann</w>
+      <w id="_400-1-3_d2e56531" ref="ag">’ga</w>
+      <w id="_400-1-3_d2e56534">sgiùrsadh</w>
+      <w id="_400-1-3_d2e56537">sìos</w>
+      <w id="_400-1-3_d2e56540" ref="a-poss">a</w>
+      <w id="_400-1-3_d2e56544" ref="taigh">thigh</w>
+      <w id="_400-1-3_d2e56547" ref="the">na</w>
+      <w id="_400-1-3_d2e56550" ref="banais">bainnse</w>
+      <w id="_400-1-3_d2e56553" ref="rx">a</w>
+      <w id="_400-1-3_d2e56556" ref="bi" tags="past">bha</w>
+      <w id="_400-1-3_d2e56559">thu</w>
+      <pc>.</pc>
+      <pc>”</pc>
+    </s>
+  </p>
+  <p>
+    <s>
+      <gd>Stad Murchadh, imcheist ’na shùilean.</gd>
+      <en>Murdo stopped, confusion in his eyes.</en>
+      <w id="_400-1-3_d2e56572" ref="stad" tags="past">Stad</w>
+      <w id="_400-1-3_d2e56575">Murchadh</w>
+      <pc>,</pc>
+      <w id="_400-1-3_d2e56581">imcheist</w>
+      <w id="_400-1-3_d2e56588" ref="an-prep">’n</w>
+      <w id="_400-1-3_d2e56589" ref="a-poss" join="left">a</w>
+      <w id="_400-1-3_d2e56591" ref="sùil" tags="plural">shùilean</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>“Cha robh cuimhne agam,” ars esan, “gur h-e nochd oidhche banais Nèill.</gd>
+      <en>“I didn’t remember,” he said, “that it’s Neil’s wedding night tonight.</en>
+      <pc>“</pc>
+      <w id="_400-1-3_d2e56600" ref="cha" join="left">Cha</w>
+      <w id="_400-1-3_d2e56603" ref="bi" tags="past">robh</w>
+      <w id="_400-1-3_d2e56607">cuimhne</w>
+      <w id="_400-1-3_d2e56610" ref="aig">agam</w>
+      <pc>,</pc>
+      <pc>”</pc>
+      <w id="_400-1-3_d2e56619" ref="arsa">ars</w>
+      <w id="_400-1-3_d2e56622" ref="e">esan</w>
+      <pc>,</pc>
+      <pc join="no">“</pc>
+      <w id="_400-1-3_d2e56632" ref="gun">gu</w>
+      <w id="_400-1-3_d2e56632" ref="is" join="left">r</w>
+      <w id="_400-1-3_d2e56641" ref="e">h-e</w>
+      <w id="_400-1-3_d2e56645" ref="a-nochd">nochd</w>
+      <w id="_400-1-3_d2e56648">oidhche</w>
+      <w id="_400-1-3_d2e56651">banais</w>
+      <w id="_400-1-3_d2e56654" ref="Niall">Nèill</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>’S e so fhéin am mortadh chearc a chuala mi aice-se ’s a’ mhaduinn . . .</gd>
+      <en>It was the killing of hens that I heard from her in the morning ...</en>
+      <w id="_400-1-3_d2e56664" ref="is">’S</w>
+      <w id="_400-1-3_d2e56667">e</w>
+      <w id="_400-1-3_d2e56670" ref="seo">so</w>
+      <w id="_400-1-3_d2e56673" ref="fhèin">fhéin</w>
+      <w id="_400-1-3_d2e56676" ref="the">am</w>
+      <w id="_400-1-3_d2e56679">mortadh</w>
+      <w id="_400-1-3_d2e56683" ref="cearc">chearc</w>
+      <w id="_400-1-3_d2e56686" ref="rx">a</w>
+      <w id="_400-1-3_d2e56689" ref="cluinn" tags="past">chuala</w>
+      <w id="_400-1-3_d2e56692">mi</w>
+      <w id="_400-1-3_d2e56695" ref="aig">aice-se</w>
+      <w id="_400-1-3_d2e56708" ref="an-prep">’s</w>
+      <w id="_400-1-3_d2e56711" ref="the">a’</w>
+      <w id="_400-1-3_d2e56717" ref="madainn">mhaduinn</w>
+      <pc join="no">. . .</pc>
+    </s>
+    <s>
+      <gd>Bheil iad a’ gàgail a muigh a sin fhathast?</gd>
+      <en>Are they cackling out there still?</en>
+      <w id="_400-1-3_d2e56730" ref="bi" tags="present">Bheil</w>
+      <w id="_400-1-3_d2e56733">iad</w>
+      <w id="_400-1-3_d2e56736" ref="ag">a’</w>
+      <w id="_400-1-3_d2e56743">gàgail</w>
+      <w id="_400-1-3_d2e56749" ref="a-muigh">a muigh</w>
+      <w id="_400-1-3_d2e56755" ref="an_sin">a sin</w>
+      <w id="_400-1-3_d2e56759">fhathast</w>
+      <pc>?</pc>
+    </s>
+    <s>
+      <gd>Nuair thig ise steach chan ann gu mo bhanais-sa.”</gd>
+      <en>When she comes inside it’s not to my wedding.”</en>
+      <w id="_400-1-3_d2e56765" ref="nuair">Nuair</w>
+      <w id="_400-1-3_d2e56766" ref="rx" />
+      <w id="_400-1-3_d2e56768" ref="thig">thig</w>
+      <w id="_400-1-3_d2e56771" ref="i">ise</w>
+      <w id="_400-1-3_d2e56774" ref="a-steach">steach</w>
+      <w id="_400-1-3_d2e56778" ref="cha">chan</w>
+      <w id="_400-1-3_d2e56781" ref="an-prep">ann</w>
+      <w id="_400-1-3_d2e56784">gu</w>
+      <w id="_400-1-3_d2e56787">mo</w>
+      <w id="_400-1-3_d2e56790" ref="banais">bhanais</w>
+      <w id="_400-1-3_d2e56797" join="left">-sa</w>
+      <pc>.</pc>
+      <pc>”</pc>
+    </s>
+  </p>
+  <p>
+    <s>
+      <gd>Bha Murchadh air éirigh bho a bhracaisd nuair a nochd Anna ’san dorus gun fhios da.</gd>
+      <w id="_400-1-3_d2e56809" ref="bi">Bha</w>
+      <w id="_400-1-3_d2e56812" ref="Murchadh">Murchadh</w>
+      <w id="_400-1-3_d2e56815" ref="air">air</w>
+      <w id="_400-1-3_d2e56818" ref="èirich">éirigh</w>
+      <w id="_400-1-3_d2e56821" ref="bho">bho</w>
+      <w id="_400-1-3_d2e56825" ref="rx">a</w>
+      <w id="_400-1-3_d2e56828" ref="bhracaisd">bhracaisd</w>
+      <w id="_400-1-3_d2e56831" ref="nuair">nuair</w>
+      <w id="_400-1-3_d2e56834" ref="rx">a</w>
+      <w id="_400-1-3_d2e56837" ref="nochd">nochd</w>
+      <w id="_400-1-3_d2e56840" ref="Anna">Anna</w>
+      <pc join="right">’</pc>
+      <w id="_400-1-3_d2e56847" ref="an">san</w>
+      <w id="_400-1-3_d2e56850" ref="doras">dorus</w>
+      <w id="_400-1-3_d2e56853" ref="gun">gun</w>
+      <w id="_400-1-3_d2e56856" ref="fios">fhios</w>
+      <w id="_400-1-3_d2e56859" ref="dà">da</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Thòisich i air sgioblachadh an tighe, is mar a bha i a’ dol bha i a’ toirt a chliù is a
+        theisteanas do Mhurchadh—duine a ràinig an dà fhichead bliadhna a ràinig e, ’na chùis
+        fhanaid ’s a’ bhaile.</gd>
+      <w id="_400-1-3_d2e56866" ref="tòisich">Thòisich</w>
+      <w id="_400-1-3_d2e56869" ref="i">i</w>
+      <w id="_400-1-3_d2e56872" ref="air">air</w>
+      <w id="_400-1-3_d2e56875" ref="sgioblachadh">sgioblachadh</w>
+      <w id="_400-1-3_d2e56878" ref="the">an</w>
+      <w id="_400-1-3_d2e56882" ref="taigh">tighe</w>
+      <pc>,</pc>
+      <w id="_400-1-3_d2e56888" ref="agus">is</w>
+      <w id="_400-1-3_d2e56891" ref="mar">mar</w>
+      <w id="_400-1-3_d2e56894" ref="rx">a</w>
+      <w id="_400-1-3_d2e56897" ref="bi">bha</w>
+      <w id="_400-1-3_d2e56901" ref="i">i</w>
+      <w id="_400-1-3_d2e56904" ref="rx">a</w>
+      <pc>’</pc>
+      <w id="_400-1-3_d2e56910" ref="rach">dol</w>
+      <w id="_400-1-3_d2e56913" ref="bi">bha</w>
+      <w id="_400-1-3_d2e56916" ref="i">i</w>
+      <w id="_400-1-3_d2e56920" ref="rx">a</w>
+      <pc>’</pc>
+      <w id="_400-1-3_d2e56926" ref="thoir">toirt</w>
+      <w id="_400-1-3_d2e56929" ref="rx">a</w>
+      <w id="_400-1-3_d2e56932" ref="cliù">chliù</w>
+      <w id="_400-1-3_d2e56935" ref="agus">is</w>
+      <w id="_400-1-3_d2e56939" ref="rx">a</w>
+      <w id="_400-1-3_d2e56942" ref="teisteanas">theisteanas</w>
+      <w id="_400-1-3_d2e56945" ref="do">do</w>
+      <w id="_400-1-3_d2e56948" ref="Murchadh">Mhurchadh</w>
+      <pc join="both">—</pc>
+      <w id="_400-1-3_d2e56954" ref="duine">duine</w>
+      <w id="_400-1-3_d2e56958" ref="rx">a</w>
+      <w id="_400-1-3_d2e56961" ref="ruig">ràinig</w>
+      <w id="_400-1-3_d2e56964" ref="the">an</w>
+      <w id="_400-1-3_d2e56967" ref="dà">dà</w>
+      <w id="_400-1-3_d2e56970" ref="fichead">fhichead</w>
+      <w id="_400-1-3_d2e56973" ref="bliadhna">bliadhna</w>
+      <w id="_400-1-3_d2e56977" ref="rx">a</w>
+      <w id="_400-1-3_d2e56980" ref="ruig">ràinig</w>
+      <w id="_400-1-3_d2e56983" ref="e">e</w>
+      <pc>,</pc>
+      <pc join="right">’</pc>
+      <w id="_400-1-3_d2e56992" ref="the">na</w>
+      <w id="_400-1-3_d2e56996" ref="cùis">chùis</w>
+      <w id="_400-1-3_d2e56999" ref="fanaid">fhanaid</w>
+      <pc join="right">’</pc>
+      <w id="_400-1-3_d2e57005" ref="is">s</w>
+      <w id="_400-1-3_d2e57008" ref="rx">a</w>
+      <pc>’</pc>
+      <w id="_400-1-3_d2e57015" ref="baile">bhaile</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Cha robh sean na òg ’s a’ chreag nach robh a’ dèanamh spòrs air an sgrios a rinn e air a
+        chearcan fhéin.</gd>
+      <w id="_400-1-3_d2e57021" ref="cha">Cha</w>
+      <w id="_400-1-3_d2e57024" ref="bi">robh</w>
+      <w id="_400-1-3_d2e57027" ref="sean">sean</w>
+      <w id="_400-1-3_d2e57030" ref="the">na</w>
+      <w id="_400-1-3_d2e57034" ref="òg">òg</w>
+      <pc join="right">’</pc>
+      <w id="_400-1-3_d2e57040" ref="is">s</w>
+      <w id="_400-1-3_d2e57043" ref="rx">a</w>
+      <pc>’</pc>
+      <w id="_400-1-3_d2e57049" ref="creag">chreag</w>
+      <w id="_400-1-3_d2e57053" ref="nach">nach</w>
+      <w id="_400-1-3_d2e57056" ref="bi">robh</w>
+      <w id="_400-1-3_d2e57059" ref="rx">a</w>
+      <pc>’</pc>
+      <w id="_400-1-3_d2e57065" ref="dèan">dèanamh</w>
+      <w id="_400-1-3_d2e57068" ref="spòrs">spòrs</w>
+      <w id="_400-1-3_d2e57072" ref="air">air</w>
+      <w id="_400-1-3_d2e57075" ref="the">an</w>
+      <w id="_400-1-3_d2e57078" ref="sgrios">sgrios</w>
+      <w id="_400-1-3_d2e57081" ref="rx">a</w>
+      <w id="_400-1-3_d2e57084" ref="dèan">rinn</w>
+      <w id="_400-1-3_d2e57087" ref="e">e</w>
+      <w id="_400-1-3_d2e57091" ref="air">air</w>
+      <w id="_400-1-3_d2e57094" ref="rx">a</w>
+      <w id="_400-1-3_d2e57097" ref="cearc">chearcan</w>
+      <w id="_400-1-3_d2e57100" ref="fèin">fhéin</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Bha fhios aig do liadh gur h-e cumail ’na thosd a b’ fheàrr, agus nach robh i dad ach air
+        tòiseachadh, oir cha b’ e so a’ cheud uair a thoill e breitheanas nam ban.</gd>
+      <w id="_400-1-3_d2e57106" ref="bi">Bha</w>
+      <w id="_400-1-3_d2e57110" ref="fios">fhios</w>
+      <w id="_400-1-3_d2e57113" ref="aig">aig</w>
+      <w id="_400-1-3_d2e57116" ref="do">do</w>
+      <w id="_400-1-3_d2e57119" ref="liadh">liadh</w>
+      <w id="_400-1-3_d2e57122" ref="gun">gur</w>
+      <w id="_400-1-3_d2e57125" ref="h">h</w>
+      <pc join="both">-</pc>
+      <w id="_400-1-3_d2e57132" ref="e">e</w>
+      <w id="_400-1-3_d2e57135" ref="cùm">cumail</w>
+      <pc join="right">’</pc>
+      <w id="_400-1-3_d2e57141" ref="the">na</w>
+      <w id="_400-1-3_d2e57144" ref="thosd">thosd</w>
+      <w id="_400-1-3_d2e57148" ref="rx">a</w>
+      <w id="_400-1-3_d2e57151" ref="b">b</w>
+      <pc>’</pc>
+      <w id="_400-1-3_d2e57157" ref="math">fheàrr</w>
+      <pc>,</pc>
+      <w id="_400-1-3_d2e57163" ref="agus">agus</w>
+      <w id="_400-1-3_d2e57167" ref="nach">nach</w>
+      <w id="_400-1-3_d2e57170" ref="bi">robh</w>
+      <w id="_400-1-3_d2e57173" ref="i">i</w>
+      <w id="_400-1-3_d2e57176" ref="dad">dad</w>
+      <w id="_400-1-3_d2e57179" ref="ach">ach</w>
+      <w id="_400-1-3_d2e57182" ref="air">air</w>
+      <w id="_400-1-3_d2e57186" ref="tòisich">tòiseachadh</w>
+      <pc>,</pc>
+      <w id="_400-1-3_d2e57192" ref="oir">oir</w>
+      <w id="_400-1-3_d2e57195" ref="cha">cha</w>
+      <w id="_400-1-3_d2e57198" ref="b">b</w>
+      <pc>’</pc>
+      <w id="_400-1-3_d2e57205" ref="e">e</w>
+      <w id="_400-1-3_d2e57208" ref="seo">so</w>
+      <w id="_400-1-3_d2e57211" ref="rx">a</w>
+      <pc>’</pc>
+      <w id="_400-1-3_d2e57217" ref="ciad">cheud</w>
+      <w id="_400-1-3_d2e57220" ref="uair">uair</w>
+      <w id="_400-1-3_d2e57224" ref="rx">a</w>
+      <w id="_400-1-3_d2e57227" ref="toill">thoill</w>
+      <w id="_400-1-3_d2e57230" ref="e">e</w>
+      <w id="_400-1-3_d2e57233" ref="breitheanas">breitheanas</w>
+      <w id="_400-1-3_d2e57236" ref="an">nam</w>
+      <w id="_400-1-3_d2e57239" ref="bean">ban</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Thug Anna leatha na lion-sgaradh làithean eile air na nàirich e e-fhéin is na bhuineadh
+        dha.</gd>
+      <w id="_400-1-3_d2e57246" ref="thoir">Thug</w>
+      <w id="_400-1-3_d2e57249" ref="Anna">Anna</w>
+      <w id="_400-1-3_d2e57252" ref="le">leatha</w>
+      <w id="_400-1-3_d2e57255" ref="the">na</w>
+      <w id="_400-1-3_d2e57258" ref="lion">lion</w>
+      <pc join="both">-</pc>
+      <w id="_400-1-3_d2e57265" ref="sgaradh">sgaradh</w>
+      <w id="_400-1-3_d2e57268" ref="latha">làithean</w>
+      <w id="_400-1-3_d2e57271" ref="eile">eile</w>
+      <w id="_400-1-3_d2e57274" ref="air">air</w>
+      <w id="_400-1-3_d2e57277" ref="the">na</w>
+      <w id="_400-1-3_d2e57281" ref="nàirich">nàirich</w>
+      <w id="_400-1-3_d2e57284" ref="e">e</w>
+      <w id="_400-1-3_d2e57287" ref="e">e</w>
+      <pc join="both">-</pc>
+      <w id="_400-1-3_d2e57293" ref="fèin">fhéin</w>
+      <w id="_400-1-3_d2e57296" ref="agus">is</w>
+      <w id="_400-1-3_d2e57300" ref="the">na</w>
+      <w id="_400-1-3_d2e57303" ref="buin">bhuineadh</w>
+      <w id="_400-1-3_d2e57306" ref="do">dha</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Agus nan deidheadh e chun na bainnse a nochd bha i deimhinnte gun nàiricheadh e am baile.</gd>
+      <w id="_400-1-3_d2e57312" ref="agus">Agus</w>
+      <w id="_400-1-3_d2e57315" ref="the">nan</w>
+      <w id="_400-1-3_d2e57319" ref="rach">deidheadh</w>
+      <w id="_400-1-3_d2e57322" ref="e">e</w>
+      <w id="_400-1-3_d2e57325" ref="gu">chun</w>
+      <w id="_400-1-3_d2e57328" ref="the">na</w>
+      <w id="_400-1-3_d2e57331" ref="banais">bainnse</w>
+      <w id="_400-1-3_d2e57334" ref="rx">a</w>
+      <w id="_400-1-3_d2e57338" ref="nochd">nochd</w>
+      <w id="_400-1-3_d2e57341" ref="bi">bha</w>
+      <w id="_400-1-3_d2e57344" ref="i">i</w>
+      <w id="_400-1-3_d2e57347" ref="deimhinnte">deimhinnte</w>
+      <w id="_400-1-3_d2e57350" ref="gun">gun</w>
+      <w id="_400-1-3_d2e57353" ref="nàiricheadh">nàiricheadh</w>
+      <w id="_400-1-3_d2e57357" ref="e">e</w>
+      <w id="_400-1-3_d2e57360" ref="the">am</w>
+      <w id="_400-1-3_d2e57363" ref="baile">baile</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Rud eile, bha ’n gloc a bhris e an sud fhathast ’na stad.</gd>
+      <w id="_400-1-3_d2e57369" ref="rud">Rud</w>
+      <w id="_400-1-3_d2e57372" ref="eile">eile</w>
+      <pc>,</pc>
+      <w id="_400-1-3_d2e57379" ref="bi">bha</w>
+      <pc join="right">’</pc>
+      <w id="_400-1-3_d2e57385" ref="the">n</w>
+      <w id="_400-1-3_d2e57388" ref="gloc">gloc</w>
+      <w id="_400-1-3_d2e57391" ref="rx">a</w>
+      <w id="_400-1-3_d2e57395" ref="bris">bhris</w>
+      <w id="_400-1-3_d2e57398" ref="e">e</w>
+      <w id="_400-1-3_d2e57401" ref="the">an</w>
+      <w id="_400-1-3_d2e57404" ref="siud">sud</w>
+      <w id="_400-1-3_d2e57407" ref="fhathast">fhathast</w>
+      <pc join="right">’</pc>
+      <w id="_400-1-3_d2e57414" ref="the">na</w>
+      <w id="_400-1-3_d2e57417" ref="stad">stad</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Bhiodh strainnsearan a’ tadhal ’s a’ foighneachd dé an uair a bha e.</gd>
+      <w id="_400-1-3_d2e57423" ref="bi">Bhiodh</w>
+      <w id="_400-1-3_d2e57426" ref="strainnsearan">strainnsearan</w>
+      <w id="_400-1-3_d2e57429" ref="rx">a</w>
+      <pc>’</pc>
+      <w id="_400-1-3_d2e57436" ref="tadhail">tadhal</w>
+      <pc join="right">’</pc>
+      <w id="_400-1-3_d2e57442" ref="is">s</w>
+      <w id="_400-1-3_d2e57445" ref="rx">a</w>
+      <pc>’</pc>
+      <w id="_400-1-3_d2e57452" ref="faighnich">foighneachd</w>
+      <w id="_400-1-3_d2e57455" ref="dè">dé</w>
+      <w id="_400-1-3_d2e57458" ref="the">an</w>
+      <w id="_400-1-3_d2e57461" ref="uair">uair</w>
+      <w id="_400-1-3_d2e57464" ref="rx">a</w>
+      <w id="_400-1-3_d2e57467" ref="bi">bha</w>
+      <w id="_400-1-3_d2e57471" ref="e">e</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Ach bha foighidinn Mhurchaidh air ruith a mach.</gd>
+      <w id="_400-1-3_d2e57477" ref="ach">Ach</w>
+      <w id="_400-1-3_d2e57480" ref="bi">bha</w>
+      <w id="_400-1-3_d2e57483" ref="foighidinn">foighidinn</w>
+      <w id="_400-1-3_d2e57486" ref="Murchadh">Mhurchaidh</w>
+      <w id="_400-1-3_d2e57490" ref="air">air</w>
+      <w id="_400-1-3_d2e57493" ref="ruith">ruith</w>
+      <w id="_400-1-3_d2e57496" ref="rx">a</w>
+      <w id="_400-1-3_d2e57499" ref="a-mach">mach</w>
+      <pc>.</pc>
+    </s>
+  </p>
 
 
   <!--
-  <p>
-    <w id="_400-1-3_d2e56076" ref="suidh">Shuidh</w>
-    <w id="_400-1-3_d2e56079" ref="e">e</w>
-    <w id="_400-1-3_d2e56082" ref="aig">aig</w>
-    <w id="_400-1-3_d2e56085" ref="ceann">ceann</w>
-    <w id="_400-1-3_d2e56088" ref="bòrd">bòrd</w>
-    <w id="_400-1-3_d2e56092" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e56098" ref="cidsin">chidsin</w>
-    <pc>,</pc>
-    <w id="_400-1-3_d2e56104" ref="far">far</w>
-    <w id="_400-1-3_d2e56107" ref="the">an</w>
-    <w id="_400-1-3_d2e56111" ref="bi">robh</w>
-    <w id="_400-1-3_d2e56114" ref="truinnsear">truinnsear</w>
-    <w id="_400-1-3_d2e56117" ref="lit">lit</w>
-    <w id="_400-1-3_d2e56120" ref="agus">is</w>
-    <w id="_400-1-3_d2e56123" ref="muga">muga</w>
-    <w id="_400-1-3_d2e56126" ref="bainne">bainne</w>
-    <w id="_400-1-3_d2e56130" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e56136" ref="feith">feitheamh</w>
-    <w id="_400-1-3_d2e56139" ref="air">air</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e56145" ref="mar">Mar</w>
-    <w id="_400-1-3_d2e56149" ref="rx">a</w>
-    <w id="_400-1-3_d2e56152" ref="bi">bha</w>
-    <w id="_400-1-3_d2e56155" ref="e">e</w>
-    <w id="_400-1-3_d2e56158" ref="lomadh">lomadh</w>
-    <w id="_400-1-3_d2e56161" ref="air">air</w>
-    <w id="_400-1-3_d2e56164" ref="rx">a</w>
-    <w id="_400-1-3_d2e56168" ref="lit">lit</w>
-    <w id="_400-1-3_d2e56171" ref="cluinn">chuala</w>
-    <w id="_400-1-3_d2e56174" ref="e">e</w>
-    <w id="_400-1-3_d2e56177" ref="gloc">gloc</w>
-    <w id="_400-1-3_d2e56180" ref="cridheil">cridheil</w>
-    <w id="_400-1-3_d2e56183" ref="bho">bho</w>
-    <w id="_400-1-3_d2e56187" ref="Iain">Iain</w>
-    <w id="_400-1-3_d2e56190" ref="rx">a</w>
-    <w id="_400-1-3_d2e56193" ref="mac">mhac</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e56199" ref="thig">Thàinig</w>
-    <w id="_400-1-3_d2e56202" ref="e">e</w>
-    <w id="_400-1-3_d2e56206" ref="a-steach">steach</w>
-    <w id="_400-1-3_d2e56209" ref="agus">is</w>
-    <w id="_400-1-3_d2e56212" ref="seas">sheas</w>
-    <w id="_400-1-3_d2e56215" ref="e">e</w>
-    <w id="_400-1-3_d2e56218" ref="the">am</w>
-    <w id="_400-1-3_d2e56221" ref="meadhan">meadhon</w>
-    <w id="_400-1-3_d2e56225" ref="the">an</w>
-    <w id="_400-1-3_d2e56228" ref="làr">làir</w>
-    <w id="_400-1-3_d2e56231" ref="agus">is</w>
-    <w id="_400-1-3_d2e56234" ref="e">e</w>
-    <w id="_400-1-3_d2e56237" ref="cuir">cur</w>
-    <w id="_400-1-3_d2e56240" ref="thairis">thairis</w>
-    <w id="_400-1-3_d2e56244" ref="le">le</w>
-    <w id="_400-1-3_d2e56247" ref="gàir">gàireachdainn</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e56253" ref="nuair">Nuair</w>
-    <w id="_400-1-3_d2e56256" ref="rx">a</w>
-    <w id="_400-1-3_d2e56259" ref="faigh">fhuair</w>
-    <w id="_400-1-3_d2e56263" ref="Iain">Iain</w>
-    <w id="_400-1-3_d2e56266" ref="comas">comas</w>
-    <w id="_400-1-3_d2e56269" ref="bruidhinn">bruidhinn</w>
-    <pc>,</pc>
-    <pc join="right">“</pc>
-    <w id="_400-1-3_d2e56278" ref="rx">A</w>
-    <w id="_400-1-3_d2e56282" ref="duine">dhuine</w>
-    <w id="_400-1-3_d2e56285" ref="bochd">bhochd</w>
-    <pc join="both">,</pc>
-    <pc>”</pc>
-    <w id="_400-1-3_d2e56294" ref="arsa">ars</w>
-    <w id="_400-1-3_d2e56297" ref="e">esan</w>
-    <pc>,</pc>
-    <pc join="right">“</pc>
-    <w id="_400-1-3_d2e56307" ref="the">am</w>
-    <w id="_400-1-3_d2e56310" ref="faic">faca</w>
-    <w id="_400-1-3_d2e56313" ref="sibh">sibh</w>
-    <w id="_400-1-3_d2e56316" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e56323" ref="cearc">chearc</w>
-    <w id="_400-1-3_d2e56326" ref="geal">gheal</w>
-    <w id="_400-1-3_d2e56329" ref="siud">ud</w>
-    <pc>,</pc>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e56339" ref="is">s</w>
-    <w id="_400-1-3_d2e56342" ref="i">i</w>
-    <w id="_400-1-3_d2e56345" ref="rach">dol</w>
-    <w id="_400-1-3_d2e56348" ref="cho">cho</w>
-    <w id="_400-1-3_d2e56351" ref="luath">luath</w>
-    <w id="_400-1-3_d2e56354" ref="ri">ris</w>
-    <w id="_400-1-3_d2e56358" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e56364" ref="Chomet">Chomet</w>
-    <pc join="both">?</pc>
-    <pc>”</pc>
-  </p>
-  <p>
-    <pc join="right">“</pc>
-    <w id="_400-1-3_d2e56379" ref="Uisd">Uisd</w>
-    <pc join="both">,</pc>
-    <pc>”</pc>
-    <w id="_400-1-3_d2e56388" ref="arsa">ars</w>
-    <w id="_400-1-3_d2e56392" ref="athair">athair</w>
-    <pc>,</pc>
-    <pc join="right">“</pc>
-    <w id="_400-1-3_d2e56401" ref="mus">mus</w>
-    <w id="_400-1-3_d2e56404" ref="cluinn">cluinn</w>
-    <w id="_400-1-3_d2e56407" ref="do">do</w>
-    <w id="_400-1-3_d2e56411" ref="màthair">mhàthair</w>
-    <w id="_400-1-3_d2e56414" ref="thu">thu</w>
-    <pc join="both">.</pc>
-    <pc join="right">”</pc>
-    <pc join="both">—</pc>
-    <w id="_400-1-3_d2e56426" ref="bi">Bha</w>
-    <w id="_400-1-3_d2e56430" ref="còmhradh">comhradh</w>
-    <w id="_400-1-3_d2e56433" ref="boireannach">bhoireannach</w>
-    <w id="_400-1-3_d2e56436" ref="air">air</w>
-    <w id="_400-1-3_d2e56439" ref="taobh">taobh</w>
-    <w id="_400-1-3_d2e56442" ref="a-muigh">muigh</w>
-    <w id="_400-1-3_d2e56445" ref="the">an</w>
-    <w id="_400-1-3_d2e56449" ref="doras">doruis</w>
-    <pc>,</pc>
-    <w id="_400-1-3_d2e56455" ref="agus">is</w>
-    <w id="_400-1-3_d2e56458" ref="Iain">Iain</w>
-    <w id="_400-1-3_d2e56461" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e56468" ref="glocadaich">glocadaich</w>
-    <w id="_400-1-3_d2e56471" ref="rx">a</w>
-    <w id="_400-1-3_d2e56474" ref="a-staigh">stigh</w>
-    <pc join="both">—</pc>
-    <pc join="both">“</pc>
-    <w id="_400-1-3_d2e56483" ref="bi">Bha</w>
-    <w id="_400-1-3_d2e56487" ref="Iain">Iain</w>
-    <w id="_400-1-3_d2e56490" ref="beag">Beag</w>
-    <w id="_400-1-3_d2e56493" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e56499" ref="faighnich">foighneachd</w>
-    <pc join="both">,</pc>
-    <pc>”</pc>
-    <w id="_400-1-3_d2e56509" ref="arsa">ars</w>
-    <w id="_400-1-3_d2e56512" ref="Iain">Iain</w>
-    <pc>,</pc>
-    <pc join="right">“</pc>
-    <w id="_400-1-3_d2e56521" ref="the">an</w>
-    <w id="_400-1-3_d2e56525" ref="an">ann</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e56531" ref="ag">ga</w>
-    <w id="_400-1-3_d2e56534" ref="sgiùrs">sgiùrsadh</w>
-    <w id="_400-1-3_d2e56537" ref="sìos">sìos</w>
-    <w id="_400-1-3_d2e56540" ref="rx">a</w>
-    <w id="_400-1-3_d2e56544" ref="taigh">thigh</w>
-    <w id="_400-1-3_d2e56547" ref="the">na</w>
-    <w id="_400-1-3_d2e56550" ref="banais">bainnse</w>
-    <w id="_400-1-3_d2e56553" ref="rx">a</w>
-    <w id="_400-1-3_d2e56556" ref="bi">bha</w>
-    <w id="_400-1-3_d2e56559" ref="thu">thu</w>
-    <pc join="both">.</pc>
-    <pc>”</pc>
-  </p>
-  <p>
-    <w id="_400-1-3_d2e56572" ref="stad">Stad</w>
-    <w id="_400-1-3_d2e56575" ref="Murchadh">Murchadh</w>
-    <pc>,</pc>
-    <w id="_400-1-3_d2e56581" ref="imcheist">imcheist</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e56588" ref="the">na</w>
-    <w id="_400-1-3_d2e56591" ref="sùil">shùilean</w>
-    <pc>.</pc>
-    <pc join="right">“</pc>
-    <w id="_400-1-3_d2e56600" ref="cha">Cha</w>
-    <w id="_400-1-3_d2e56603" ref="bi">robh</w>
-    <w id="_400-1-3_d2e56607" ref="cuimhne">cuimhne</w>
-    <w id="_400-1-3_d2e56610" ref="aig">agam</w>
-    <pc join="both">,</pc>
-    <pc>”</pc>
-    <w id="_400-1-3_d2e56619" ref="arsa">ars</w>
-    <w id="_400-1-3_d2e56622" ref="e">esan</w>
-    <pc>,</pc>
-    <pc join="right">“</pc>
-    <w id="_400-1-3_d2e56632" ref="gun">gur</w>
-    <w id="_400-1-3_d2e56635" ref="h">h</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-3_d2e56641" ref="e">e</w>
-    <w id="_400-1-3_d2e56645" ref="nochd">nochd</w>
-    <w id="_400-1-3_d2e56648" ref="oidhche">oidhche</w>
-    <w id="_400-1-3_d2e56651" ref="banais">banais</w>
-    <w id="_400-1-3_d2e56654" ref="Nèill">Nèill</w>
-    <pc>.</pc>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e56664" ref="is">S</w>
-    <w id="_400-1-3_d2e56667" ref="e">e</w>
-    <w id="_400-1-3_d2e56670" ref="seo">so</w>
-    <w id="_400-1-3_d2e56673" ref="fèin">fhéin</w>
-    <w id="_400-1-3_d2e56676" ref="the">am</w>
-    <w id="_400-1-3_d2e56679" ref="mortadh">mortadh</w>
-    <w id="_400-1-3_d2e56683" ref="cearc">chearc</w>
-    <w id="_400-1-3_d2e56686" ref="rx">a</w>
-    <w id="_400-1-3_d2e56689" ref="cluinn">chuala</w>
-    <w id="_400-1-3_d2e56692" ref="mi">mi</w>
-    <w id="_400-1-3_d2e56695" ref="aig">aice</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-3_d2e56702" ref="e">se</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e56708" ref="is">s</w>
-    <w id="_400-1-3_d2e56711" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e56717" ref="madainn">mhaduinn</w>
-    <pc join="no">.</pc>
-    <pc>.</pc>
-    <pc join="no">.</pc>
-    <w id="_400-1-3_d2e56730" ref="Bheil">Bheil</w>
-    <w id="_400-1-3_d2e56733" ref="iad">iad</w>
-    <w id="_400-1-3_d2e56736" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e56743" ref="gàgail">gàgail</w>
-    <w id="_400-1-3_d2e56746" ref="rx">a</w>
-    <w id="_400-1-3_d2e56749" ref="a-muigh">muigh</w>
-    <w id="_400-1-3_d2e56752" ref="rx">a</w>
-    <w id="_400-1-3_d2e56755" ref="sin">sin</w>
-    <w id="_400-1-3_d2e56759" ref="fhathast">fhathast</w>
-    <pc>?</pc>
-    <w id="_400-1-3_d2e56765" ref="nuair">Nuair</w>
-    <w id="_400-1-3_d2e56768" ref="thig">thig</w>
-    <w id="_400-1-3_d2e56771" ref="i">ise</w>
-    <w id="_400-1-3_d2e56774" ref="a-steach">steach</w>
-    <w id="_400-1-3_d2e56778" ref="cha">chan</w>
-    <w id="_400-1-3_d2e56781" ref="an">ann</w>
-    <w id="_400-1-3_d2e56784" ref="gu">gu</w>
-    <w id="_400-1-3_d2e56787" ref="mo">mo</w>
-    <w id="_400-1-3_d2e56790" ref="banais">bhanais</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-3_d2e56797" ref="an">sa</w>
-    <pc join="both">.</pc>
-    <pc>”</pc>
-  </p>
-  <p>
-    <w id="_400-1-3_d2e56809" ref="bi">Bha</w>
-    <w id="_400-1-3_d2e56812" ref="Murchadh">Murchadh</w>
-    <w id="_400-1-3_d2e56815" ref="air">air</w>
-    <w id="_400-1-3_d2e56818" ref="èirich">éirigh</w>
-    <w id="_400-1-3_d2e56821" ref="bho">bho</w>
-    <w id="_400-1-3_d2e56825" ref="rx">a</w>
-    <w id="_400-1-3_d2e56828" ref="bhracaisd">bhracaisd</w>
-    <w id="_400-1-3_d2e56831" ref="nuair">nuair</w>
-    <w id="_400-1-3_d2e56834" ref="rx">a</w>
-    <w id="_400-1-3_d2e56837" ref="nochd">nochd</w>
-    <w id="_400-1-3_d2e56840" ref="Anna">Anna</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e56847" ref="an">san</w>
-    <w id="_400-1-3_d2e56850" ref="doras">dorus</w>
-    <w id="_400-1-3_d2e56853" ref="gun">gun</w>
-    <w id="_400-1-3_d2e56856" ref="fios">fhios</w>
-    <w id="_400-1-3_d2e56859" ref="dà">da</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e56866" ref="tòisich">Thòisich</w>
-    <w id="_400-1-3_d2e56869" ref="i">i</w>
-    <w id="_400-1-3_d2e56872" ref="air">air</w>
-    <w id="_400-1-3_d2e56875" ref="sgioblachadh">sgioblachadh</w>
-    <w id="_400-1-3_d2e56878" ref="the">an</w>
-    <w id="_400-1-3_d2e56882" ref="taigh">tighe</w>
-    <pc>,</pc>
-    <w id="_400-1-3_d2e56888" ref="agus">is</w>
-    <w id="_400-1-3_d2e56891" ref="mar">mar</w>
-    <w id="_400-1-3_d2e56894" ref="rx">a</w>
-    <w id="_400-1-3_d2e56897" ref="bi">bha</w>
-    <w id="_400-1-3_d2e56901" ref="i">i</w>
-    <w id="_400-1-3_d2e56904" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e56910" ref="rach">dol</w>
-    <w id="_400-1-3_d2e56913" ref="bi">bha</w>
-    <w id="_400-1-3_d2e56916" ref="i">i</w>
-    <w id="_400-1-3_d2e56920" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e56926" ref="thoir">toirt</w>
-    <w id="_400-1-3_d2e56929" ref="rx">a</w>
-    <w id="_400-1-3_d2e56932" ref="cliù">chliù</w>
-    <w id="_400-1-3_d2e56935" ref="agus">is</w>
-    <w id="_400-1-3_d2e56939" ref="rx">a</w>
-    <w id="_400-1-3_d2e56942" ref="teisteanas">theisteanas</w>
-    <w id="_400-1-3_d2e56945" ref="do">do</w>
-    <w id="_400-1-3_d2e56948" ref="Murchadh">Mhurchadh</w>
-    <pc join="both">—</pc>
-    <w id="_400-1-3_d2e56954" ref="duine">duine</w>
-    <w id="_400-1-3_d2e56958" ref="rx">a</w>
-    <w id="_400-1-3_d2e56961" ref="ruig">ràinig</w>
-    <w id="_400-1-3_d2e56964" ref="the">an</w>
-    <w id="_400-1-3_d2e56967" ref="dà">dà</w>
-    <w id="_400-1-3_d2e56970" ref="fichead">fhichead</w>
-    <w id="_400-1-3_d2e56973" ref="bliadhna">bliadhna</w>
-    <w id="_400-1-3_d2e56977" ref="rx">a</w>
-    <w id="_400-1-3_d2e56980" ref="ruig">ràinig</w>
-    <w id="_400-1-3_d2e56983" ref="e">e</w>
-    <pc>,</pc>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e56992" ref="the">na</w>
-    <w id="_400-1-3_d2e56996" ref="cùis">chùis</w>
-    <w id="_400-1-3_d2e56999" ref="fanaid">fhanaid</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e57005" ref="is">s</w>
-    <w id="_400-1-3_d2e57008" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e57015" ref="baile">bhaile</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e57021" ref="cha">Cha</w>
-    <w id="_400-1-3_d2e57024" ref="bi">robh</w>
-    <w id="_400-1-3_d2e57027" ref="sean">sean</w>
-    <w id="_400-1-3_d2e57030" ref="the">na</w>
-    <w id="_400-1-3_d2e57034" ref="òg">òg</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e57040" ref="is">s</w>
-    <w id="_400-1-3_d2e57043" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e57049" ref="creag">chreag</w>
-    <w id="_400-1-3_d2e57053" ref="nach">nach</w>
-    <w id="_400-1-3_d2e57056" ref="bi">robh</w>
-    <w id="_400-1-3_d2e57059" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e57065" ref="dèan">dèanamh</w>
-    <w id="_400-1-3_d2e57068" ref="spòrs">spòrs</w>
-    <w id="_400-1-3_d2e57072" ref="air">air</w>
-    <w id="_400-1-3_d2e57075" ref="the">an</w>
-    <w id="_400-1-3_d2e57078" ref="sgrios">sgrios</w>
-    <w id="_400-1-3_d2e57081" ref="rx">a</w>
-    <w id="_400-1-3_d2e57084" ref="dèan">rinn</w>
-    <w id="_400-1-3_d2e57087" ref="e">e</w>
-    <w id="_400-1-3_d2e57091" ref="air">air</w>
-    <w id="_400-1-3_d2e57094" ref="rx">a</w>
-    <w id="_400-1-3_d2e57097" ref="cearc">chearcan</w>
-    <w id="_400-1-3_d2e57100" ref="fèin">fhéin</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e57106" ref="bi">Bha</w>
-    <w id="_400-1-3_d2e57110" ref="fios">fhios</w>
-    <w id="_400-1-3_d2e57113" ref="aig">aig</w>
-    <w id="_400-1-3_d2e57116" ref="do">do</w>
-    <w id="_400-1-3_d2e57119" ref="liadh">liadh</w>
-    <w id="_400-1-3_d2e57122" ref="gun">gur</w>
-    <w id="_400-1-3_d2e57125" ref="h">h</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-3_d2e57132" ref="e">e</w>
-    <w id="_400-1-3_d2e57135" ref="cùm">cumail</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e57141" ref="the">na</w>
-    <w id="_400-1-3_d2e57144" ref="thosd">thosd</w>
-    <w id="_400-1-3_d2e57148" ref="rx">a</w>
-    <w id="_400-1-3_d2e57151" ref="b">b</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e57157" ref="math">fheàrr</w>
-    <pc>,</pc>
-    <w id="_400-1-3_d2e57163" ref="agus">agus</w>
-    <w id="_400-1-3_d2e57167" ref="nach">nach</w>
-    <w id="_400-1-3_d2e57170" ref="bi">robh</w>
-    <w id="_400-1-3_d2e57173" ref="i">i</w>
-    <w id="_400-1-3_d2e57176" ref="dad">dad</w>
-    <w id="_400-1-3_d2e57179" ref="ach">ach</w>
-    <w id="_400-1-3_d2e57182" ref="air">air</w>
-    <w id="_400-1-3_d2e57186" ref="tòisich">tòiseachadh</w>
-    <pc>,</pc>
-    <w id="_400-1-3_d2e57192" ref="oir">oir</w>
-    <w id="_400-1-3_d2e57195" ref="cha">cha</w>
-    <w id="_400-1-3_d2e57198" ref="b">b</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e57205" ref="e">e</w>
-    <w id="_400-1-3_d2e57208" ref="seo">so</w>
-    <w id="_400-1-3_d2e57211" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e57217" ref="ciad">cheud</w>
-    <w id="_400-1-3_d2e57220" ref="uair">uair</w>
-    <w id="_400-1-3_d2e57224" ref="rx">a</w>
-    <w id="_400-1-3_d2e57227" ref="toill">thoill</w>
-    <w id="_400-1-3_d2e57230" ref="e">e</w>
-    <w id="_400-1-3_d2e57233" ref="breitheanas">breitheanas</w>
-    <w id="_400-1-3_d2e57236" ref="an">nam</w>
-    <w id="_400-1-3_d2e57239" ref="bean">ban</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e57246" ref="thoir">Thug</w>
-    <w id="_400-1-3_d2e57249" ref="Anna">Anna</w>
-    <w id="_400-1-3_d2e57252" ref="le">leatha</w>
-    <w id="_400-1-3_d2e57255" ref="the">na</w>
-    <w id="_400-1-3_d2e57258" ref="lion">lion</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-3_d2e57265" ref="sgaradh">sgaradh</w>
-    <w id="_400-1-3_d2e57268" ref="latha">làithean</w>
-    <w id="_400-1-3_d2e57271" ref="eile">eile</w>
-    <w id="_400-1-3_d2e57274" ref="air">air</w>
-    <w id="_400-1-3_d2e57277" ref="the">na</w>
-    <w id="_400-1-3_d2e57281" ref="nàirich">nàirich</w>
-    <w id="_400-1-3_d2e57284" ref="e">e</w>
-    <w id="_400-1-3_d2e57287" ref="e">e</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-3_d2e57293" ref="fèin">fhéin</w>
-    <w id="_400-1-3_d2e57296" ref="agus">is</w>
-    <w id="_400-1-3_d2e57300" ref="the">na</w>
-    <w id="_400-1-3_d2e57303" ref="buin">bhuineadh</w>
-    <w id="_400-1-3_d2e57306" ref="do">dha</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e57312" ref="agus">Agus</w>
-    <w id="_400-1-3_d2e57315" ref="the">nan</w>
-    <w id="_400-1-3_d2e57319" ref="rach">deidheadh</w>
-    <w id="_400-1-3_d2e57322" ref="e">e</w>
-    <w id="_400-1-3_d2e57325" ref="gu">chun</w>
-    <w id="_400-1-3_d2e57328" ref="the">na</w>
-    <w id="_400-1-3_d2e57331" ref="banais">bainnse</w>
-    <w id="_400-1-3_d2e57334" ref="rx">a</w>
-    <w id="_400-1-3_d2e57338" ref="nochd">nochd</w>
-    <w id="_400-1-3_d2e57341" ref="bi">bha</w>
-    <w id="_400-1-3_d2e57344" ref="i">i</w>
-    <w id="_400-1-3_d2e57347" ref="deimhinnte">deimhinnte</w>
-    <w id="_400-1-3_d2e57350" ref="gun">gun</w>
-    <w id="_400-1-3_d2e57353" ref="nàiricheadh">nàiricheadh</w>
-    <w id="_400-1-3_d2e57357" ref="e">e</w>
-    <w id="_400-1-3_d2e57360" ref="the">am</w>
-    <w id="_400-1-3_d2e57363" ref="baile">baile</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e57369" ref="rud">Rud</w>
-    <w id="_400-1-3_d2e57372" ref="eile">eile</w>
-    <pc>,</pc>
-    <w id="_400-1-3_d2e57379" ref="bi">bha</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e57385" ref="the">n</w>
-    <w id="_400-1-3_d2e57388" ref="gloc">gloc</w>
-    <w id="_400-1-3_d2e57391" ref="rx">a</w>
-    <w id="_400-1-3_d2e57395" ref="bris">bhris</w>
-    <w id="_400-1-3_d2e57398" ref="e">e</w>
-    <w id="_400-1-3_d2e57401" ref="the">an</w>
-    <w id="_400-1-3_d2e57404" ref="siud">sud</w>
-    <w id="_400-1-3_d2e57407" ref="fhathast">fhathast</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e57414" ref="the">na</w>
-    <w id="_400-1-3_d2e57417" ref="stad">stad</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e57423" ref="bi">Bhiodh</w>
-    <w id="_400-1-3_d2e57426" ref="strainnsearan">strainnsearan</w>
-    <w id="_400-1-3_d2e57429" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e57436" ref="tadhail">tadhal</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-3_d2e57442" ref="is">s</w>
-    <w id="_400-1-3_d2e57445" ref="rx">a</w>
-    <pc>’</pc>
-    <w id="_400-1-3_d2e57452" ref="faighnich">foighneachd</w>
-    <w id="_400-1-3_d2e57455" ref="dè">dé</w>
-    <w id="_400-1-3_d2e57458" ref="the">an</w>
-    <w id="_400-1-3_d2e57461" ref="uair">uair</w>
-    <w id="_400-1-3_d2e57464" ref="rx">a</w>
-    <w id="_400-1-3_d2e57467" ref="bi">bha</w>
-    <w id="_400-1-3_d2e57471" ref="e">e</w>
-    <pc>.</pc>
-    <w id="_400-1-3_d2e57477" ref="ach">Ach</w>
-    <w id="_400-1-3_d2e57480" ref="bi">bha</w>
-    <w id="_400-1-3_d2e57483" ref="foighidinn">foighidinn</w>
-    <w id="_400-1-3_d2e57486" ref="Murchadh">Mhurchaidh</w>
-    <w id="_400-1-3_d2e57490" ref="air">air</w>
-    <w id="_400-1-3_d2e57493" ref="ruith">ruith</w>
-    <w id="_400-1-3_d2e57496" ref="rx">a</w>
-    <w id="_400-1-3_d2e57499" ref="a-mach">mach</w>
-    <pc>.</pc>
-  </p>
   <p>
     <pc join="right">“</pc>
     <w id="_400-1-3_d2e57511" ref="Fóghnaidh">Fóghnaidh</w>
