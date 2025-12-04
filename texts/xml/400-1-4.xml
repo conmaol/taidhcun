@@ -2382,228 +2382,244 @@
       <pc>.</pc>
     </s>
   </p>
-
+  <p>
+    <s>
+      <gd>Tha cosnadh cinnteach air tìr nas roghnaiche leò na saothair gun duais iomchuidh ’na lorg.</gd>
+      <en>Reliable employment on land is more preferable for them to labour with no appropriate
+        reward.</en>
+      <w id="_400-1-4_d2e46861" ref="bi" tags="present">Tha</w>
+      <w id="_400-1-4_d2e46864">cosnadh</w>
+      <w id="_400-1-4_d2e46867">cinnteach</w>
+      <w id="_400-1-4_d2e46870">air</w>
+      <w id="_400-1-4_d2e46873">tìr</w>
+      <w id="_400-1-4_d2e46877" ref="rx">na</w>
+      <w id="_400-1-4_d2e46878" ref="is" join="left">s</w>
+      <w id="_400-1-4_d2e46880" ref="roghnach" tags="comparative">roghnaiche</w>
+      <w id="_400-1-4_d2e46883" ref="le">leò</w>
+      <w id="_400-1-4_d2e46886">na</w>
+      <w id="_400-1-4_d2e46889">saothair</w>
+      <w id="_400-1-4_d2e46892" ref="gun-without">gun</w>
+      <w id="_400-1-4_d2e46896">duais</w>
+      <w id="_400-1-4_d2e46899">iomchuidh</w>
+      <w id="_400-1-4_d2e46905" ref="an-prep">’n</w>
+      <w id="_400-1-4_d2e46906" ref="a-poss" join="left">a</w>
+      <w id="_400-1-4_d2e46908">lorg</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Nuair nach robh obair eile ann agus a bha pàigheadh glé bhochd air fheabhas, cha robh cor
+        an
+        iasgair a’ coimhead cho doirbh idir, ach an diugh nuair a tha oibrichean eile nas fhasa lorg
+        agus an
+        duais nas cothromaiche agus nas cinntiche chan eil iongnadh ann gu bheil iasgairean na
+        dùthcha cur
+        cùil ris a’ mhuir.</gd>
+      <en>When there was no other work and when pay was very poor no matter what, the situation of
+        the fisherman was not looking so hard at all, but today when other jobs are easier to find
+        and the rewards are fairer and more certain, there is no surprise that the fishermen of the
+        land are turning their backs on the sea.</en>
+      <w id="_400-1-4_d2e46915" ref="nuair">Nuair</w>
+      <w id="_400-1-4_d2e46918">nach</w>
+      <w id="_400-1-4_d2e46921" ref="bi" tags="past">robh</w>
+      <w id="_400-1-4_d2e46924">obair</w>
+      <w id="_400-1-4_d2e46927">eile</w>
+      <w id="_400-1-4_d2e46930" ref="an-prep">ann</w>
+      <w id="_400-1-4_d2e46934">agus</w>
+      <w id="_400-1-4_d2e46937" ref="rx">a</w>
+      <w id="_400-1-4_d2e46940" ref="bi" tags="past">bha</w>
+      <w id="_400-1-4_d2e46943">pàigheadh</w>
+      <w id="_400-1-4_d2e46946" ref="glè">glé</w>
+      <w id="_400-1-4_d2e46949" ref="bochd">bhochd</w>
+      <w id="_400-1-4_d2e46953">air</w>
+      <w id="_400-1-4_d2e46956" ref="feabhas">fheabhas</w>
+      <pc>,</pc>
+      <w id="_400-1-4_d2e46962">cha</w>
+      <w id="_400-1-4_d2e46965" ref="bi" tags="past">robh</w>
+      <w id="_400-1-4_d2e46968">cor</w>
+      <w id="_400-1-4_d2e46972" ref="the">an</w>
+      <w id="_400-1-4_d2e46975">iasgair</w>
+      <w id="_400-1-4_d2e46978" ref="ag">a’</w>
+      <w id="_400-1-4_d2e46984">coimhead</w>
+      <w id="_400-1-4_d2e46987">cho</w>
+      <w id="_400-1-4_d2e46991">doirbh</w>
+      <w id="_400-1-4_d2e46994">idir</w>
+      <pc>,</pc>
+      <w id="_400-1-4_d2e47000">ach</w>
+      <w id="_400-1-4_d2e47006" ref="an-diugh">an diugh</w>
+      <w id="_400-1-4_d2e47010">nuair</w>
+      <w id="_400-1-4_d2e47013" ref="rx">a</w>
+      <w id="_400-1-4_d2e47016" ref="bi" tags="present">tha</w>
+      <w id="_400-1-4_d2e47019" ref="obair" tags="plural">oibrichean</w>
+      <w id="_400-1-4_d2e47022">eile</w>
+      <w id="_400-1-4_d2e47025" ref="rx">na</w>
+      <w id="_400-1-4_d2e47026" ref="is" join="left">s</w>
+      <w id="_400-1-4_d2e47029" ref="furasta" tags="comparative">fhasa</w>
+      <w id="_400-1-4_d2e47031" ref="x" />
+      <w id="_400-1-4_d2e47032">lorg</w>
+      <w id="_400-1-4_d2e47035">agus</w>
+      <w id="_400-1-4_d2e47038" ref="the">an</w>
+      <w id="_400-1-4_d2e47041">duais</w>
+      <w id="_400-1-4_d2e47044" ref="rx">na</w>
+      <w id="_400-1-4_d2e47045" ref="is" join="left">s</w>
+      <w id="_400-1-4_d2e47048" ref="cothromach" tags="comparative">cothromaiche</w>
+      <w id="_400-1-4_d2e47051">agus</w>
+      <w id="_400-1-4_d2e47054" ref="rx">na</w>
+      <w id="_400-1-4_d2e47055" ref="is" join="left">s</w>
+      <w id="_400-1-4_d2e47057" ref="cinnteach" tags="comparative">cinntiche</w>
+      <w id="_400-1-4_d2e47060" ref="cha">chan</w>
+      <w id="_400-1-4_d2e47063" ref="bi" tags="present">eil</w>
+      <w id="_400-1-4_d2e47067">iongnadh</w>
+      <w id="_400-1-4_d2e47070" ref="an-prep">ann</w>
+      <w id="_400-1-4_d2e47073" ref="gun">gu</w>
+      <w id="_400-1-4_d2e47076" ref="bi" tags="present">bheil</w>
+      <w id="_400-1-4_d2e47079" ref="iasgair" tags="plural">iasgairean</w>
+      <w id="_400-1-4_d2e47082" ref="the">na</w>
+      <w id="_400-1-4_d2e47086" ref="dùthaich">dùthcha</w>
+      <w id="_400-1-4_d2e47090" ref="ag" />
+      <w id="_400-1-4_d2e47089">cur</w>
+      <w id="_400-1-4_d2e47092" ref="cùl">cùil</w>
+      <w id="_400-1-4_d2e47095" ref="ri">ris</w>
+      <w id="_400-1-4_d2e47098" ref="the">a’</w>
+      <w id="_400-1-4_d2e47105" ref="muir">mhuir</w>
+      <pc>.</pc>
+    </s>
+  </p>
+  <p>
+    <s>
+      <gd>A rìs, chan fhaigh an t-iasgair cuideachadh ’na fheum o’n riaghaltas mar a gheibh am
+        fear-oibreach air tìr nuair a bhios e mach a obair.</gd>
+      <en>Again, the fisherman will not get help in need from the government like the working man on
+        land will get, when he is out of work.</en>
+      <w id="_400-1-4_d2e47118" ref="a-rithist">A rìs</w>
+      <pc>,</pc>
+      <w id="_400-1-4_d2e47124" ref="cha">chan</w>
+      <w id="_400-1-4_d2e47127" ref="faigh">fhaigh</w>
+      <w id="_400-1-4_d2e47131" ref="the">an</w>
+      <w id="_400-1-4_d2e47140" ref="iasgair">t-iasgair</w>
+      <w id="_400-1-4_d2e47143">cuideachadh</w>
+      <w id="_400-1-4_d2e47150" ref="the">’na</w>
+      <w id="_400-1-4_d2e47153" ref="feum">fheum</w>
+      <w id="_400-1-4_d2e47156" ref="bho">o</w>
+      <w id="_400-1-4_d2e47162" ref="the" join="left">’n</w>
+      <w id="_400-1-4_d2e47165">riaghaltas</w>
+      <w id="_400-1-4_d2e47169">mar</w>
+      <w id="_400-1-4_d2e47172" ref="rx">a</w>
+      <w id="_400-1-4_d2e47175" ref="faigh">gheibh</w>
+      <w id="_400-1-4_d2e47178" ref="the">am</w>
+      <w id="_400-1-4_d2e47181">fear</w>
+      <pc>-</pc>
+      <w id="_400-1-4_d2e47188" ref="obair" join="left">oibreach</w>
+      <w id="_400-1-4_d2e47191">air</w>
+      <w id="_400-1-4_d2e47194">tìr</w>
+      <w id="_400-1-4_d2e47197">nuair</w>
+      <w id="_400-1-4_d2e47200" ref="rx">a</w>
+      <w id="_400-1-4_d2e47203" ref="bi">bhios</w>
+      <w id="_400-1-4_d2e47207">e</w>
+      <w id="_400-1-4_d2e47210" ref="a-mach">mach</w>
+      <w id="_400-1-4_d2e47213" ref="à">a</w>
+      <w id="_400-1-4_d2e47216">obair</w>
+      <pc>.</pc>
+    </s>
+    <s>
+      <gd>Chan eil an lagh a’ ceadachadh dha còmhnadh ach ri ám an
+        iasgaich, ma bhios e diomhain, ach chan urrainn e bhith beò air a’ ghaoith aig a’ leithid
+        sin a dh’ ám a bharrachd air ám sam bith eile.</gd>
+      <en>The law only permits him assistance at the time of fishing, if he is lazy, but he cannot
+        be alive on the wind at that kind of time or at any other time.</en>
+      <w id="_400-1-4_d2e47222" ref="cha">Chan</w>
+      <w id="_400-1-4_d2e47226" ref="bi" tags="present">eil</w>
+      <w id="_400-1-4_d2e47229" ref="the">an</w>
+      <w id="_400-1-4_d2e47232">lagh</w>
+      <w id="_400-1-4_d2e47235" ref="ag">a’</w>
+      <w id="_400-1-4_d2e47241">ceadachadh</w>
+      <w id="_400-1-4_d2e47245" ref="do-prep">dha</w>
+      <w id="_400-1-4_d2e47248">còmhnadh</w>
+      <w id="_400-1-4_d2e47251">ach</w>
+      <w id="_400-1-4_d2e47254">ri</w>
+      <w id="_400-1-4_d2e47257" ref="àm">ám</w>
+      <w id="_400-1-4_d2e47260" ref="the">an</w>
+      <w id="_400-1-4_d2e47264" ref="iasgach">iasgaich</w>
+      <pc>,</pc>
+      <w id="_400-1-4_d2e47270">ma</w>
+      <w id="_400-1-4_d2e47273" ref="bi">bhios</w>
+      <w id="_400-1-4_d2e47276">e</w>
+      <w id="_400-1-4_d2e47279" ref="dìomhain">diomhain</w>
+      <pc>,</pc>
+      <w id="_400-1-4_d2e47286">ach</w>
+      <w id="_400-1-4_d2e47289" ref="cha">chan</w>
+      <w id="_400-1-4_d2e47292">urrainn</w>
+      <w id="_400-1-4_d2e47295">e</w>
+      <w id="_400-1-4_d2e47298" ref="bith">bhith</w>
+      <w id="_400-1-4_d2e47302">beò</w>
+      <w id="_400-1-4_d2e47305">air</w>
+      <w id="_400-1-4_d2e47308" ref="the">a’</w>
+      <w id="_400-1-4_d2e47314" ref="gaoth">ghaoith</w>
+      <w id="_400-1-4_d2e47317">aig</w>
+      <w id="_400-1-4_d2e47321" ref="the">a’</w>
+      <w id="_400-1-4_d2e47327">leithid</w>
+      <w id="_400-1-4_d2e47330">sin</w>
+      <w id="_400-1-4_d2e47333" ref="de">a</w>
+      <w id="_400-1-4_d2e47343" ref="àm">dh’ ám</w>
+      <w id="_400-1-4_d2e47346" ref="de">a</w>
+      <w id="_400-1-4_d2e47349" ref="barrachd">bharrachd</w>
+      <w id="_400-1-4_d2e47352">air</w>
+      <w id="_400-1-4_d2e47355" ref="àm">ám</w>
+      <w id="_400-1-4_d2e47359">sam</w>
+      <w id="_400-1-4_d2e47362">bith</w>
+      <w id="_400-1-4_d2e47365">eile</w>
+      <pc>.</pc>
+    </s>
+  </p>
+  <p>
+    <s>
+      <gd>Mur bi an t-iasgair cinnteach as a theachd-an-tìr fad na bliadhna mar a tha cosnaichean
+        eile cha leig sinn a leas dùil a bhith againn gu lean e an obair daonnan.</gd>
+      <en>Unless the fisherman is certain of his income all year round like other employees are, we
+        cannot expect that he will always pursue the job.</en>
+      <w id="_400-1-4_d2e47374" ref="mura">Mur</w>
+      <w id="_400-1-4_d2e47377" ref="bi">bi</w>
+      <w id="_400-1-4_d2e47380" ref="the">an</w>
+      <w id="_400-1-4_d2e47390" ref="iasgair">t-iasgair</w>
+      <w id="_400-1-4_d2e47393">cinnteach</w>
+      <w id="_400-1-4_d2e47396" ref="à">as</w>
+      <w id="_400-1-4_d2e47399" ref="a-poss">a</w>
+      <w id="_400-1-4_d2e47402" ref="teachd">theachd</w>
+      <pc>-</pc>
+      <w id="_400-1-4_d2e47409" ref="the" join="left">an</w>
+      <pc>-</pc>
+      <w id="_400-1-4_d2e47415" ref="tìr" join="left">tìr</w>
+      <w id="_400-1-4_d2e47418">fad</w>
+      <w id="_400-1-4_d2e47421" ref="the">na</w>
+      <w id="_400-1-4_d2e47424">bliadhna</w>
+      <w id="_400-1-4_d2e47428">mar</w>
+      <w id="_400-1-4_d2e47431" ref="rx">a</w>
+      <w id="_400-1-4_d2e47434" ref="bi" tags="present">tha</w>
+      <w id="_400-1-4_d2e47437" ref="cosnaiche" tags="plural">cosnaichean</w>
+      <w id="_400-1-4_d2e47440">eile</w>
+      <w id="_400-1-4_d2e47443">cha</w>
+      <w id="_400-1-4_d2e47447">leig</w>
+      <w id="_400-1-4_d2e47450">sinn</w>
+      <w id="_400-1-4_d2e47453" ref="a-poss">a</w>
+      <w id="_400-1-4_d2e47456">leas</w>
+      <w id="_400-1-4_d2e47459">dùil</w>
+      <w id="_400-1-4_d2e47462" ref="x">a</w>
+      <w id="_400-1-4_d2e47466" ref="bith">bhith</w>
+      <w id="_400-1-4_d2e47469" ref="aig">againn</w>
+      <w id="_400-1-4_d2e47472" ref="gun">gu</w>
+      <w id="_400-1-4_d2e47475">lean</w>
+      <w id="_400-1-4_d2e47478">e</w>
+      <w id="_400-1-4_d2e47481" ref="the">an</w>
+      <w id="_400-1-4_d2e47485">obair</w>
+      <w id="_400-1-4_d2e47488">daonnan</w>
+      <pc>.</pc>
+    </s>
+  </p>
 
   <!--
 
-Tha cosnadh cinnteach air tìr nas roghnaiche leò na saothair gun duais iomchuidh ’na lorg. Nuair
-  nach robh obair eile ann agus a bha pàigheadh glé bhochd air fheabhas, cha robh cor an iasgair a’
-  coimhead cho doirbh idir, ach an diugh nuair a tha oibrichean eile nas fhasa lorg agus an duais
-  nas cothromaiche agus nas cinntiche chan eil iongnadh ann gu bheil iasgairean na dùthcha cur cùil
-  ris a’ mhuir.
+Is e an aon nì a bheir air ais cuid de na chuir cùl ris an iasgach a cheana, agus a dh’ fhadas iarrtas an cridhe na h-òigridh togradh ris an obair, gun dearbhar dhaibh gur fhiach i an t-saothair: gu bheil an duais cinnteach ma nì iad saothair dhligheach.
 
 
-  <p>
-    <w id="_400-1-4_d2e46861" ref="Tha">Tha</w>
-    <w id="_400-1-4_d2e46864" ref="cosnadh">cosnadh</w>
-    <w id="_400-1-4_d2e46867" ref="cinnteach">cinnteach</w>
-    <w id="_400-1-4_d2e46870" ref="air">air</w>
-    <w id="_400-1-4_d2e46873" ref="tìr">tìr</w>
-    <w id="_400-1-4_d2e46877" ref="rx">nas</w>
-    <w id="_400-1-4_d2e46880" ref="roghnaiche">roghnaiche</w>
-    <w id="_400-1-4_d2e46883" ref="leò">leò</w>
-    <w id="_400-1-4_d2e46886" ref="the">na</w>
-    <w id="_400-1-4_d2e46889" ref="saothair">saothair</w>
-    <w id="_400-1-4_d2e46892" ref="gun">gun</w>
-    <w id="_400-1-4_d2e46896" ref="duais">duais</w>
-    <w id="_400-1-4_d2e46899" ref="iomchaidh">iomchuidh</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-4_d2e46905" ref="the">na</w>
-    <w id="_400-1-4_d2e46908" ref="lorg">lorg</w>
-    <pc join="left">.</pc>
-    <w id="_400-1-4_d2e46915" ref="nuair">Nuair</w>
-    <w id="_400-1-4_d2e46918" ref="nach">nach</w>
-    <w id="_400-1-4_d2e46921" ref="bi">robh</w>
-    <w id="_400-1-4_d2e46924" ref="obair">obair</w>
-    <w id="_400-1-4_d2e46927" ref="eile">eile</w>
-    <w id="_400-1-4_d2e46930" ref="an">ann</w>
-    <w id="_400-1-4_d2e46934" ref="agus">agus</w>
-    <w id="_400-1-4_d2e46937" ref="rx">a</w>
-    <w id="_400-1-4_d2e46940" ref="bi">bha</w>
-    <w id="_400-1-4_d2e46943" ref="pàigh">pàigheadh</w>
-    <w id="_400-1-4_d2e46946" ref="glè">glé</w>
-    <w id="_400-1-4_d2e46949" ref="bochd">bhochd</w>
-    <w id="_400-1-4_d2e46953" ref="air">air</w>
-    <w id="_400-1-4_d2e46956" ref="fheabhas">fheabhas</w>
-    <pc join="left">,</pc>
-    <w id="_400-1-4_d2e46962" ref="cha">cha</w>
-    <w id="_400-1-4_d2e46965" ref="bi">robh</w>
-    <w id="_400-1-4_d2e46968" ref="cor">cor</w>
-    <w id="_400-1-4_d2e46972" ref="the">an</w>
-    <w id="_400-1-4_d2e46975" ref="iasgair">iasgair</w>
-    <w id="_400-1-4_d2e46978" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-4_d2e46984" ref="coimhead">coimhead</w>
-    <w id="_400-1-4_d2e46987" ref="cho">cho</w>
-    <w id="_400-1-4_d2e46991" ref="doirbh">doirbh</w>
-    <w id="_400-1-4_d2e46994" ref="idir">idir</w>
-    <pc join="left">,</pc>
-    <w id="_400-1-4_d2e47000" ref="ach">ach</w>
-    <w id="_400-1-4_d2e47003" ref="the">an</w>
-    <w id="_400-1-4_d2e47006" ref="an-diugh">diugh</w>
-    <w id="_400-1-4_d2e47010" ref="nuair">nuair</w>
-    <w id="_400-1-4_d2e47013" ref="rx">a</w>
-    <w id="_400-1-4_d2e47016" ref="bi">tha</w>
-    <w id="_400-1-4_d2e47019" ref="oibrichean">oibrichean</w>
-    <w id="_400-1-4_d2e47022" ref="eile">eile</w>
-    <w id="_400-1-4_d2e47025" ref="rx">nas</w>
-    <w id="_400-1-4_d2e47029" ref="furasta">fhasa</w>
-    <w id="_400-1-4_d2e47032" ref="lorg">lorg</w>
-    <w id="_400-1-4_d2e47035" ref="agus">agus</w>
-    <w id="_400-1-4_d2e47038" ref="the">an</w>
-    <w id="_400-1-4_d2e47041" ref="duais">duais</w>
-    <w id="_400-1-4_d2e47044" ref="rx">nas</w>
-    <w id="_400-1-4_d2e47048" ref="cothromaiche">cothromaiche</w>
-    <w id="_400-1-4_d2e47051" ref="agus">agus</w>
-    <w id="_400-1-4_d2e47054" ref="rx">nas</w>
-    <w id="_400-1-4_d2e47057" ref="cinntiche">cinntiche</w>
-    <w id="_400-1-4_d2e47060" ref="cha">chan</w>
-    <w id="_400-1-4_d2e47063" ref="bi">eil</w>
-    <w id="_400-1-4_d2e47067" ref="iongnadh">iongnadh</w>
-    <w id="_400-1-4_d2e47070" ref="an">ann</w>
-    <w id="_400-1-4_d2e47073" ref="gu">gu</w>
-    <w id="_400-1-4_d2e47076" ref="bi">bheil</w>
-    <w id="_400-1-4_d2e47079" ref="iasgair">iasgairean</w>
-    <w id="_400-1-4_d2e47082" ref="the">na</w>
-    <w id="_400-1-4_d2e47086" ref="dùthaich">dùthcha</w>
-    <w id="_400-1-4_d2e47089" ref="cuir">cur</w>
-    <w id="_400-1-4_d2e47092" ref="cùil">cùil</w>
-    <w id="_400-1-4_d2e47095" ref="ri">ris</w>
-    <w id="_400-1-4_d2e47098" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-4_d2e47105" ref="muir">mhuir</w>
-    <pc join="left">.</pc>
-  </p>
-
-A rìs, chan fhaigh an t-iasgair cuideachadh ’na fheum o’n riaghaltas mar a gheibh am fear-oibreach
-  air tìr nuair a bhios e mach a obair. Chan eil an lagh a’ ceadachadh dha còmhnadh ach ri ám an
-  iasgaich, ma bhios e diomhain, ach chan urrainn e bhith beò air a’ ghaoith aig a’ leithid sin a
-  dh’ ám a bharrachd air ám sam bith eile.
-
-
-  <p>
-    <w id="_400-1-4_d2e47115" ref="rx">A</w>
-    <w id="_400-1-4_d2e47118" ref="rìs">rìs</w>
-    <pc join="left">,</pc>
-    <w id="_400-1-4_d2e47124" ref="cha">chan</w>
-    <w id="_400-1-4_d2e47127" ref="faigh">fhaigh</w>
-    <w id="_400-1-4_d2e47131" ref="the">an</w>
-    <w id="_400-1-4_d2e47134" ref="t">t</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-4_d2e47140" ref="iasgair">iasgair</w>
-    <w id="_400-1-4_d2e47143" ref="cuideachadh">cuideachadh</w>
-    <pc join="right">’</pc>
-    <w id="_400-1-4_d2e47150" ref="the">na</w>
-    <w id="_400-1-4_d2e47153" ref="feum">fheum</w>
-    <w id="_400-1-4_d2e47156" ref="bho">o</w>
-    <pc join="both">’</pc>
-    <w id="_400-1-4_d2e47162" ref="the">n</w>
-    <w id="_400-1-4_d2e47165" ref="riaghaltas">riaghaltas</w>
-    <w id="_400-1-4_d2e47169" ref="mar">mar</w>
-    <w id="_400-1-4_d2e47172" ref="rx">a</w>
-    <w id="_400-1-4_d2e47175" ref="faigh">gheibh</w>
-    <w id="_400-1-4_d2e47178" ref="the">am</w>
-    <w id="_400-1-4_d2e47181" ref="fear">fear</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-4_d2e47188" ref="obair">oibreach</w>
-    <w id="_400-1-4_d2e47191" ref="air">air</w>
-    <w id="_400-1-4_d2e47194" ref="tìr">tìr</w>
-    <w id="_400-1-4_d2e47197" ref="nuair">nuair</w>
-    <w id="_400-1-4_d2e47200" ref="rx">a</w>
-    <w id="_400-1-4_d2e47203" ref="bi">bhios</w>
-    <w id="_400-1-4_d2e47207" ref="e">e</w>
-    <w id="_400-1-4_d2e47210" ref="a-mach">mach</w>
-    <w id="_400-1-4_d2e47213" ref="rx">a</w>
-    <w id="_400-1-4_d2e47216" ref="obair">obair</w>
-    <pc join="left">.</pc>
-    <w id="_400-1-4_d2e47222" ref="cha">Chan</w>
-    <w id="_400-1-4_d2e47226" ref="bi">eil</w>
-    <w id="_400-1-4_d2e47229" ref="the">an</w>
-    <w id="_400-1-4_d2e47232" ref="lagh">lagh</w>
-    <w id="_400-1-4_d2e47235" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-4_d2e47241" ref="ceadachadh">ceadachadh</w>
-    <w id="_400-1-4_d2e47245" ref="do">dha</w>
-    <w id="_400-1-4_d2e47248" ref="còmhnadh">còmhnadh</w>
-    <w id="_400-1-4_d2e47251" ref="ach">ach</w>
-    <w id="_400-1-4_d2e47254" ref="ri">ri</w>
-    <w id="_400-1-4_d2e47257" ref="àm">ám</w>
-    <w id="_400-1-4_d2e47260" ref="the">an</w>
-    <w id="_400-1-4_d2e47264" ref="iasgach">iasgaich</w>
-    <pc join="left">,</pc>
-    <w id="_400-1-4_d2e47270" ref="ma">ma</w>
-    <w id="_400-1-4_d2e47273" ref="bi">bhios</w>
-    <w id="_400-1-4_d2e47276" ref="e">e</w>
-    <w id="_400-1-4_d2e47279" ref="diomhain">diomhain</w>
-    <pc join="left">,</pc>
-    <w id="_400-1-4_d2e47286" ref="ach">ach</w>
-    <w id="_400-1-4_d2e47289" ref="cha">chan</w>
-    <w id="_400-1-4_d2e47292" ref="urrainn">urrainn</w>
-    <w id="_400-1-4_d2e47295" ref="e">e</w>
-    <w id="_400-1-4_d2e47298" ref="bi">bhith</w>
-    <w id="_400-1-4_d2e47302" ref="beò">beò</w>
-    <w id="_400-1-4_d2e47305" ref="air">air</w>
-    <w id="_400-1-4_d2e47308" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-4_d2e47314" ref="gaoth">ghaoith</w>
-    <w id="_400-1-4_d2e47317" ref="aig">aig</w>
-    <w id="_400-1-4_d2e47321" ref="rx">a</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-4_d2e47327" ref="leithid">leithid</w>
-    <w id="_400-1-4_d2e47330" ref="sin">sin</w>
-    <w id="_400-1-4_d2e47333" ref="rx">a</w>
-    <w id="_400-1-4_d2e47336" ref="dh">dh</w>
-    <pc join="left">’</pc>
-    <w id="_400-1-4_d2e47343" ref="àm">ám</w>
-    <w id="_400-1-4_d2e47346" ref="rx">a</w>
-    <w id="_400-1-4_d2e47349" ref="barrachd">bharrachd</w>
-    <w id="_400-1-4_d2e47352" ref="air">air</w>
-    <w id="_400-1-4_d2e47355" ref="àm">ám</w>
-    <w id="_400-1-4_d2e47359" ref="sam">sam</w>
-    <w id="_400-1-4_d2e47362" ref="bi">bith</w>
-    <w id="_400-1-4_d2e47365" ref="eile">eile</w>
-    <pc join="left">.</pc>
-  </p>
-  <p>
-    <w id="_400-1-4_d2e47374" ref="mura">Mur</w>
-    <w id="_400-1-4_d2e47377" ref="bi">bi</w>
-    <w id="_400-1-4_d2e47380" ref="the">an</w>
-    <w id="_400-1-4_d2e47383" ref="t">t</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-4_d2e47390" ref="iasgair">iasgair</w>
-    <w id="_400-1-4_d2e47393" ref="cinnteach">cinnteach</w>
-    <w id="_400-1-4_d2e47396" ref="rx">as</w>
-    <w id="_400-1-4_d2e47399" ref="rx">a</w>
-    <w id="_400-1-4_d2e47402" ref="teachd">theachd</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-4_d2e47409" ref="the">an</w>
-    <pc join="both">-</pc>
-    <w id="_400-1-4_d2e47415" ref="tìr">tìr</w>
-    <w id="_400-1-4_d2e47418" ref="fad">fad</w>
-    <w id="_400-1-4_d2e47421" ref="the">na</w>
-    <w id="_400-1-4_d2e47424" ref="bliadhna">bliadhna</w>
-    <w id="_400-1-4_d2e47428" ref="mar">mar</w>
-    <w id="_400-1-4_d2e47431" ref="rx">a</w>
-    <w id="_400-1-4_d2e47434" ref="bi">tha</w>
-    <w id="_400-1-4_d2e47437" ref="cosnaichean">cosnaichean</w>
-    <w id="_400-1-4_d2e47440" ref="eile">eile</w>
-    <w id="_400-1-4_d2e47443" ref="cha">cha</w>
-    <w id="_400-1-4_d2e47447" ref="leig">leig</w>
-    <w id="_400-1-4_d2e47450" ref="sinn">sinn</w>
-    <w id="_400-1-4_d2e47453" ref="rx">a</w>
-    <w id="_400-1-4_d2e47456" ref="leas">leas</w>
-    <w id="_400-1-4_d2e47459" ref="dùil">dùil</w>
-    <w id="_400-1-4_d2e47462" ref="rx">a</w>
-    <w id="_400-1-4_d2e47466" ref="bi">bhith</w>
-    <w id="_400-1-4_d2e47469" ref="aig">againn</w>
-    <w id="_400-1-4_d2e47472" ref="gu">gu</w>
-    <w id="_400-1-4_d2e47475" ref="lean">lean</w>
-    <w id="_400-1-4_d2e47478" ref="e">e</w>
-    <w id="_400-1-4_d2e47481" ref="the">an</w>
-    <w id="_400-1-4_d2e47485" ref="obair">obair</w>
-    <w id="_400-1-4_d2e47488" ref="daonnan">daonnan</w>
-    <pc join="left">.</pc>
-  </p>
   <p>
     <w id="_400-1-4_d2e47497" ref="agus">Is</w>
     <w id="_400-1-4_d2e47500" ref="e">e</w>
@@ -2666,6 +2682,10 @@ A rìs, chan fhaigh an t-iasgair cuideachadh ’na fheum o’n riaghaltas mar a 
     <pc join="left">.</pc>
   </p>
   <p>
+
+Ach có as urrainn an dearbhadh sin a thoirt dhaibh mar a tha cùisean an diugh? Agus dé dh’ fheumas àite ghabhail mus bi dearbhadh cinnteach ri thoirt seachad? Am feum an riaghaltas, iad fhéin, bàtaichean iasgaich agus acfhuinn iasgaich ullachadh, agus iasgairean a phàigheadh air son an oibreachadh? Mur dèan an riaghaltas e, an dèan buidheannan làidir eile an obair a ghabhail os làimh?
+
+
     <w id="_400-1-4_d2e47686" ref="ach">Ach</w>
     <w id="_400-1-4_d2e47689" ref="cò">có</w>
     <w id="_400-1-4_d2e47692" ref="rx">as</w>
@@ -2742,6 +2762,10 @@ A rìs, chan fhaigh an t-iasgair cuideachadh ’na fheum o’n riaghaltas mar a 
     <pc join="left">?</pc>
   </p>
   <p>
+
+Bìdh feum air sgadan cho fada ’s a bhios daoine ann a dh’ itheas e. Bìdh feum air iasgairean cho fada ’s a dh’ fheumar eòlas na mara gu bhith dìon na rìoghachd. Nach bu chòir a réisd do’n luchd riaghlaidh cnuasachadh gu cùramach mu’n ghnothuch agus gach oidhirp a dhèanamh gu bhith cur an iasgaich-sa air stéidh a ris?
+
+
     <w id="_400-1-4_d2e47923" ref="biadh">Bìdh</w>
     <w id="_400-1-4_d2e47926" ref="feum">feum</w>
     <w id="_400-1-4_d2e47929" ref="air">air</w>
@@ -2817,6 +2841,10 @@ A rìs, chan fhaigh an t-iasgair cuideachadh ’na fheum o’n riaghaltas mar a 
     <pc join="left">?</pc>
   </p>
   <p>
+
+An uair a tha an rìoghachd againne cho mór an urra ri dùthchannan céine air son na dh’fheumar chum an sluagh a bheathachadh nach eil e ro iomchuidh, chan e a mhàin gun giùlaineadh an talamh de bhàrr nas urrainn e chur dheth, ach mar an ceudna, gun dèante gach dìcheall gu bhith glacadh an éisg a tha am freasdal caomh a’ stiùireadh dh’ ionnsaigh nan cladaichean againn?
+
+
     <w id="_400-1-4_d2e48157" ref="An">An</w>
     <w id="_400-1-4_d2e48160" ref="uair">uair</w>
     <w id="_400-1-4_d2e48163" ref="rx">a</w>
