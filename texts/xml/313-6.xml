@@ -562,7 +562,7 @@
       <pc>,</pc>
       <w id="_313-6_d2e332416">agus</w>
       <w id="_313-6_d2e332419">nuair</w>
-      <w id="_313-6_d2e332420" ref="rx"/>
+      <w id="_313-6_d2e332420" ref="rx" />
       <w id="_313-6_d2e332422" ref="ruig" tags="past">ràinig</w>
       <w id="_313-6_d2e332426">sinn</w>
       <w id="_313-6_d2e332429" ref="bi" tags="past">bha</w>
@@ -589,136 +589,161 @@
     <s>
       <gd>Dìreach mus do ràinig e am bàta chaidh e às mo shealladh, agus chan fhaca mi tuilleadh e
         gus an tug luchd a’ bhàta a-steach e marbh.”</gd>
+      <en>Just before he reached the boat he went out of my sight, and I did not see him again until
+        the boat people brought him out dead.”</en>
       <w id="_313-6_d2e332489" ref="dìreach">Dìreach</w>
-      <w id="_313-6_d2e332492" ref="mus">mus</w>
-      <w id="_313-6_d2e332495" ref="do">do</w>
-      <w id="_313-6_d2e332498" ref="ruig">ràinig</w>
-      <w id="_313-6_d2e332502" ref="e">e</w>
+      <w id="_313-6_d2e332492">mus</w>
+      <w id="_313-6_d2e332495" ref="do-part">do</w>
+      <w id="_313-6_d2e332498" ref="ruig" tags="past">ràinig</w>
+      <w id="_313-6_d2e332502">e</w>
       <w id="_313-6_d2e332505" ref="the">am</w>
-      <w id="_313-6_d2e332508" ref="bàta">bàta</w>
-      <w id="_313-6_d2e332511" ref="rach">chaidh</w>
-      <w id="_313-6_d2e332514" ref="e">e</w>
+      <w id="_313-6_d2e332508">bàta</w>
+      <w id="_313-6_d2e332511" ref="rach" tags="past">chaidh</w>
+      <w id="_313-6_d2e332514">e</w>
       <w id="_313-6_d2e332517" ref="à">às</w>
-      <w id="_313-6_d2e332521" ref="mo">mo</w>
+      <w id="_313-6_d2e332521">mo</w>
       <w id="_313-6_d2e332524" ref="sealladh">shealladh</w>
-      <pc join="left">,</pc>
-      <w id="_313-6_d2e332530" ref="agus">agus</w>
+      <pc>,</pc>
+      <w id="_313-6_d2e332530">agus</w>
       <w id="_313-6_d2e332533" ref="cha">chan</w>
-      <w id="_313-6_d2e332536" ref="faic">fhaca</w>
-      <w id="_313-6_d2e332540" ref="mi">mi</w>
-      <w id="_313-6_d2e332543" ref="tuilleadh">tuilleadh</w>
-      <w id="_313-6_d2e332546" ref="e">e</w>
-      <w id="_313-6_d2e332549" ref="gus">gus</w>
-      <w id="_313-6_d2e332552" ref="the">an</w>
-      <w id="_313-6_d2e332555" ref="thoir">tug</w>
-      <w id="_313-6_d2e332559" ref="luchd">luchd</w>
-      <w id="_313-6_d2e332562" ref="rx">a</w>
-      <pc join="left">’</pc>
+      <w id="_313-6_d2e332536" ref="faic" tags="past">fhaca</w>
+      <w id="_313-6_d2e332540">mi</w>
+      <w id="_313-6_d2e332543">tuilleadh</w>
+      <w id="_313-6_d2e332546">e</w>
+      <w id="_313-6_d2e332549">gus</w>
+      <w id="_313-6_d2e332552" ref="an-part">an</w>
+      <w id="_313-6_d2e332555" ref="thoir" tags="past">tug</w>
+      <w id="_313-6_d2e332559">luchd</w>
+      <w id="_313-6_d2e332562" ref="the">a’</w>
       <w id="_313-6_d2e332568" ref="bàta">bhàta</w>
-      <w id="_313-6_d2e332571" ref="rx">a</w>
-      <pc join="both">-</pc>
-      <w id="_313-6_d2e332578" ref="a-steach">steach</w>
-      <w id="_313-6_d2e332581" ref="e">e</w>
-      <w id="_313-6_d2e332584" ref="marbh">marbh</w>
-      <pc join="both">.</pc>
-      <pc join="left">”</pc>
+      <w id="_313-6_d2e332578">a-steach</w>
+      <w id="_313-6_d2e332581">e</w>
+      <w id="_313-6_d2e332584">marbh</w>
+      <pc>.</pc>
+      <pc>”</pc>
     </s>
     <s>
       <gd>Chuimhnich e an seo mar bhris a mhàthair sìos, a bhochdainn a bha fios aige a dh’fhuiling
         i, oir cha robh e-fhèin ach dà bhliadhna, agus cha b’urrainn dhi a dhol a-mach a dh’obair.</gd>
-      <w id="_313-6_d2e332593" ref="cuimhnich">Chuimhnich</w>
-      <w id="_313-6_d2e332597" ref="e">e</w>
-      <w id="_313-6_d2e332600" ref="the">an</w>
-      <w id="_313-6_d2e332603" ref="seo">seo</w>
-      <w id="_313-6_d2e332606" ref="mar">mar</w>
-      <w id="_313-6_d2e332609" ref="bris">bhris</w>
-      <w id="_313-6_d2e332612" ref="rx">a</w>
+      <en>He remembered here how his mother had broken down, the poverty that he knew she had
+        suffered, because he himself was only two years old, and she could not go out to work.</en>
+      <w id="_313-6_d2e332593" ref="cuimhnich" tags="past">Chuimhnich</w>
+      <w id="_313-6_d2e332597">e</w>
+      <w id="_313-6_d2e332603" ref="an_seo">an seo</w>
+      <w id="_313-6_d2e332606">mar</w>
+      <w id="_313-6_d2e332607" ref="rx" />
+      <w id="_313-6_d2e332609" ref="bris" tags="past">bhris</w>
+      <w id="_313-6_d2e332612" ref="a-poss">a</w>
       <w id="_313-6_d2e332616" ref="màthair">mhàthair</w>
-      <w id="_313-6_d2e332619" ref="sìos">sìos</w>
-      <pc join="left">,</pc>
-      <w id="_313-6_d2e332625" ref="rx">a</w>
+      <w id="_313-6_d2e332619">sìos</w>
+      <pc>,</pc>
+      <w id="_313-6_d2e332625" ref="the">a</w>
       <w id="_313-6_d2e332628" ref="bochdainn">bhochdainn</w>
       <w id="_313-6_d2e332631" ref="rx">a</w>
-      <w id="_313-6_d2e332635" ref="bi">bha</w>
+      <w id="_313-6_d2e332635" ref="bi" tags="past">bha</w>
       <pb n="17" />
-      <w id="_313-6_d2e332640" ref="fios">fios</w>
+      <w id="_313-6_d2e332640">fios</w>
       <w id="_313-6_d2e332643" ref="aig">aige</w>
       <w id="_313-6_d2e332646" ref="rx">a</w>
-      <w id="_313-6_d2e332649" ref="dh">dh</w>
-      <pc join="both">’</pc>
-      <w id="_313-6_d2e332656" ref="fhuiling">fhuiling</w>
-      <w id="_313-6_d2e332659" ref="i">i</w>
-      <pc join="left">,</pc>
-      <w id="_313-6_d2e332665" ref="oir">oir</w>
-      <w id="_313-6_d2e332668" ref="cha">cha</w>
-      <w id="_313-6_d2e332672" ref="bi">robh</w>
-      <w id="_313-6_d2e332675" ref="e">e</w>
-      <pc join="both">-</pc>
-      <w id="_313-6_d2e332681" ref="fèin">fhèin</w>
-      <w id="_313-6_d2e332684" ref="ach">ach</w>
-      <w id="_313-6_d2e332687" ref="dà">dà</w>
+      <w id="_313-6_d2e332656" ref="fuiling" tags="past">dh’fhuiling</w>
+      <w id="_313-6_d2e332659">i</w>
+      <pc>,</pc>
+      <w id="_313-6_d2e332665">oir</w>
+      <w id="_313-6_d2e332668">cha</w>
+      <w id="_313-6_d2e332672" ref="bi" tags="past">robh</w>
+      <w id="_313-6_d2e332675">e</w>
+      <pc>-</pc>
+      <w id="_313-6_d2e332681" join="left">fhèin</w>
+      <w id="_313-6_d2e332684">ach</w>
+      <w id="_313-6_d2e332687">dà</w>
       <w id="_313-6_d2e332691" ref="bliadhna">bhliadhna</w>
-      <pc join="left">,</pc>
-      <w id="_313-6_d2e332697" ref="agus">agus</w>
-      <w id="_313-6_d2e332700" ref="cha">cha</w>
-      <w id="_313-6_d2e332703" ref="b">b</w>
-      <pc join="both">’</pc>
-      <w id="_313-6_d2e332710" ref="urrainn">urrainn</w>
-      <w id="_313-6_d2e332713" ref="do">dhi</w>
-      <w id="_313-6_d2e332716" ref="rx">a</w>
-      <w id="_313-6_d2e332719" ref="rach">dhol</w>
-      <w id="_313-6_d2e332722" ref="rx">a</w>
-      <pc join="both">-</pc>
-      <w id="_313-6_d2e332729" ref="a-mach">mach</w>
-      <w id="_313-6_d2e332732" ref="rx">a</w>
-      <w id="_313-6_d2e332735" ref="dh">dh</w>
-      <pc join="both">’</pc>
-      <w id="_313-6_d2e332741" ref="obair">obair</w>
-      <pc join="left">.</pc>
+      <pc>,</pc>
+      <w id="_313-6_d2e332697">agus</w>
+      <w id="_313-6_d2e332700">cha</w>
+      <w id="_313-6_d2e332703" ref="is" tags="past">b’</w>
+      <w id="_313-6_d2e332710">urrainn</w>
+      <w id="_313-6_d2e332713" ref="do-prep">dhi</w>
+      <w id="_313-6_d2e332716" ref="x">a</w>
+      <w id="_313-6_d2e332719" ref="dol">dhol</w>
+      <w id="_313-6_d2e332729">a-mach</w>
+      <w id="_313-6_d2e332732" ref="do-prep">a</w>
+      <w id="_313-6_d2e332741" ref="obair">dh’obair</w>
+      <pc>.</pc>
     </s>
     <s>
       <gd>Chuala e glaodhaich eun fad às gus ghoirisich e.</gd>
-      <w id="_313-6_d2e332748" ref="cluinn">Chuala</w>
-      <w id="_313-6_d2e332751" ref="e">e</w>
-      <w id="_313-6_d2e332754" ref="glaodhaich">glaodhaich</w>
-      <w id="_313-6_d2e332757" ref="eun">eun</w>
-      <w id="_313-6_d2e332760" ref="fad">fad</w>
+      <en>He heard a bird calling far away until he shuddered.</en>
+      <w id="_313-6_d2e332748" ref="cluinn" tags="past">Chuala</w>
+      <w id="_313-6_d2e332751">e</w>
+      <w id="_313-6_d2e332754">glaodhaich</w>
+      <w id="_313-6_d2e332757">eun</w>
+      <w id="_313-6_d2e332760" ref="fada">fad</w>
       <w id="_313-6_d2e332763" ref="à">às</w>
-      <w id="_313-6_d2e332767" ref="gus">gus</w>
-      <w id="_313-6_d2e332770" ref="ghoirisich">ghoirisich</w>
-      <w id="_313-6_d2e332773" ref="e">e</w>
-      <pc join="left">.</pc>
+      <w id="_313-6_d2e332767">gus</w>
+      <w id="_313-6_d2e332770" ref="gairisich" tags="past">ghoirisich</w>
+      <w id="_313-6_d2e332773">e</w>
+      <pc>.</pc>
     </s>
     <s>
       <gd>Thug e sùil eile air a’ chloich, choisich e air adhart, gus dhùin e an geata às a dhèidh.</gd>
-      <w id="_313-6_d2e332779" ref="thoir">Thug</w>
-      <w id="_313-6_d2e332782" ref="e">e</w>
-      <w id="_313-6_d2e332786" ref="sùil">sùil</w>
-      <w id="_313-6_d2e332789" ref="eile">eile</w>
-      <w id="_313-6_d2e332792" ref="air">air</w>
-      <w id="_313-6_d2e332795" ref="rx">a</w>
-      <pc join="left">’</pc>
+      <en>He took another look at the stone, he walked on, until he closed the gate behind him.</en>
+      <w id="_313-6_d2e332779" ref="thoir" tags="past">Thug</w>
+      <w id="_313-6_d2e332782">e</w>
+      <w id="_313-6_d2e332786">sùil</w>
+      <w id="_313-6_d2e332789">eile</w>
+      <w id="_313-6_d2e332792">air</w>
+      <w id="_313-6_d2e332795" ref="the">a’</w>
       <w id="_313-6_d2e332801" ref="clach">chloich</w>
-      <pc join="left">,</pc>
-      <w id="_313-6_d2e332808" ref="coisich">choisich</w>
-      <w id="_313-6_d2e332811" ref="e">e</w>
-      <w id="_313-6_d2e332814" ref="air">air</w>
-      <w id="_313-6_d2e332817" ref="adhart">adhart</w>
-      <pc join="left">,</pc>
-      <w id="_313-6_d2e332824" ref="gus">gus</w>
-      <w id="_313-6_d2e332827" ref="dùin">dhùin</w>
-      <w id="_313-6_d2e332830" ref="e">e</w>
+      <pc>,</pc>
+      <w id="_313-6_d2e332808" ref="coisich" tags="past">choisich</w>
+      <w id="_313-6_d2e332811">e</w>
+      <w id="_313-6_d2e332814">air</w>
+      <w id="_313-6_d2e332817">adhart</w>
+      <pc>,</pc>
+      <w id="_313-6_d2e332824">gus</w>
+      <w id="_313-6_d2e332827" ref="dùin" tags="past">dhùin</w>
+      <w id="_313-6_d2e332830">e</w>
       <w id="_313-6_d2e332833" ref="the">an</w>
-      <w id="_313-6_d2e332836" ref="geata">geata</w>
+      <w id="_313-6_d2e332836">geata</w>
       <w id="_313-6_d2e332839" ref="à">às</w>
-      <w id="_313-6_d2e332843" ref="rx">a</w>
+      <w id="_313-6_d2e332843" ref="a-poss">a</w>
       <w id="_313-6_d2e332846" ref="dèidh">dhèidh</w>
-      <pc join="left">.</pc>
+      <pc>.</pc>
     </s>
   </p>
 
 
   <!--
+
+Sheas Anna, màthair Alasdair, aig an uinneig. 
+
+Bha còrr agus fichead bliadhna a-nis bho thàinig i a Chanada. 
+
+Tharraing i an cùirtear agus chuir i air an solas. 
+
+Bha i ag ionndrain Alasdair; cha robh i cleachdte ri bhith na h-aonar. 
+
+’S ann glè mhì-rianail a bha i na h-inntinn nuair dh’innis Alasdair dhi gu robh e dol a thoirt sgrìob a dh’Ardanais a dh’fhaicinn an àite anns an d’rugadh e. 
+
+Bha fios aice nach robh e ag innse na fìrinn, nach b’e idir baile Ardanais a bha e airson fhaicinn, ach Aird nan Sgeir, agus Mol nam Muc agus is dòcha uaigh athar. 
+
+Leum an cat beag geal na h-uchd. 
+
+Shlìob i a dhruim. 
+
+Smaoinich i a-rithist air Alasdair, agus thàinig na teagamhan gu beulaibh a h-inntinn. 
+
+Bha eagal oirre gum biodh beagan de thàladh na mara na fhuil, agus cha robh fios aice gu dè a’ bhuaidh a bhiodh aig baile a bhreith air. 
+
+’S iongantach mur biodh iomadh atharrachadh ann. 
+
+’S iomadh rud a bheireadh fichead bliadhna mun cuairt. 
+
+Thòisich an cat ri mialaich. 
+
+Leig i a-mach air an doras e.
+
+
   <p>
     <w id="_313-6_d2e332855" ref="seas">Sheas</w>
     <w id="_313-6_d2e332858" ref="Anna">Anna</w>
