@@ -13,10 +13,12 @@ Text = element text {
 # It has one attribute, a corpus-unique 'id', which has the form '_198' where '198' is the Faclir na Gàidhlig sequential text number. 
 # The content of the text element is a sequence of one or more text blocks.
 
-Block = ( Heading | Paragraph | PageBreak | Section )
+Block = ( Heading | Paragraph | LineGroup | PageBreak | Section )
 Heading = element h { element gd { text }, element en { text }, Token+ }
 Paragraph = element p { Sentence+ }
 Sentence = element s { element gd { text }, element en { text }, Token+ }
+LineGroup = element lg { Line+ }
+Line = element l { element gd { text }, element en { text }, Token+ }
 PageBreak = element pb { attribute n { text } }
 Section = element section { attribute n { text }?, Block+ }
 
